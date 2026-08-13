@@ -1,0 +1,332 @@
+{% extends "base.html" %}
+{% block title %}Diagnóstico de deserción — Modelo Tesis{% endblock %}
+
+{% block bodyclass %}access-mode{% endblock %}
+
+{% block content %}
+<form class="card form-grid" id="diagnostico-form" action="{{ url_for('evaluar') }}" method="POST" novalidate>
+
+  <ol class="stepper" id="stepper" aria-label="Progreso del formulario" hidden>
+    <li class="step-item" data-step-target="1"><span class="step-circle">1</span><span class="step-label">Ubicación</span></li>
+    <li class="step-item" data-step-target="2"><span class="step-circle">2</span><span class="step-label">Datos personales</span></li>
+    <li class="step-item" data-step-target="3"><span class="step-circle">3</span><span class="step-label">Trayectoria</span></li>
+    <li class="step-item" data-step-target="4"><span class="step-circle">4</span><span class="step-label">Salud y hogar</span></li>
+    <li class="step-item" data-step-target="5"><span class="step-circle">5</span><span class="step-label">Revisión</span></li>
+  </ol>
+  <div class="progress-track" hidden><div class="progress-fill" id="progress-fill"></div></div>
+
+  <div class="wizard-step" data-step="0">
+    <div class="access-split">
+      <div class="access-sidebar">
+        <p class="access-eyebrow">Réplica de tesis</p>
+        <h1 class="access-title">¿Qué tan cerca estás de abandonar la escuela?</h1>
+        <p class="access-lede">
+          Responde 19 preguntas sociodemográficas y tecnológicas, organizadas en pasos breves.
+          Este modelo replica fielmente la metodología de la tesis (red neuronal MLP con la
+          arquitectura y variables originales) y estima si el perfil corresponde a permanencia,
+          o a deserción en nivel medio superior o superior.
+        </p>
+      </div>
+
+      <div class="login-panel">
+      <div class="login-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 3 1 8l11 5 9-4.09V17h2V8L12 3Z"/>
+          <path d="M5 10.5V16c0 1.1 3.13 3 7 3s7-1.9 7-3v-5.5"/>
+        </svg>
+      </div>
+      <h2 class="login-title">Inicia tu diagnóstico</h2>
+      <p class="login-subtitle">Ingresa tu código de estudiante para comenzar. El cuestionario toma unos minutos.</p>
+
+      <div class="field login-field">
+        <label for="codigo_estudiante">Código de estudiante *</label>
+        <input type="text" id="codigo_estudiante" name="codigo_estudiante" required maxlength="50" placeholder="Escribe tu código" autocomplete="username">
+        <p class="field-error">Escribe tu código de estudiante para continuar.</p>
+      </div>
+
+      <div class="login-consent">
+        <label class="checkbox">
+          <input type="checkbox" name="acepta_privacidad" id="acepta_privacidad" required>
+          He leído y acepto el aviso de privacidad. *
+        </label>
+        <p class="field-error checkbox-error">Debes aceptar el aviso de privacidad para continuar.</p>
+
+        <details class="privacy-box">
+          <summary>Ver aviso de privacidad completo</summary>
+          <div class="privacy-text">
+            <p><strong>AVISO DE PRIVACIDAD</strong></p>
+            <p>
+              La Universidad de Guadalajara (en adelante UdeG), con domicilio en Avenida
+              Juárez 976, colonia Centro, código postal 44100, en Guadalajara, Jalisco,
+              hace de su conocimiento que se considerará como información confidencial
+              aquella que se encuentre contemplada en los artículos 3, fracciones IX y X
+              de la LPDPPSOEJM; 21 de la LTAIPEJM; Lineamientos Cuadragésimo Octavo y
+              Cuadragésimo Noveno de los Lineamientos de Clasificación; Lineamientos
+              Décimo Sexto, Décimo Séptimo y Quincuagésimo Octavo de los Lineamientos de
+              Protección, así como aquellos datos de una persona física identificada o
+              identificable y la inherente a las personas jurídicas, los cuales podrán
+              ser sometidos a tratamiento y serán única y exclusivamente utilizados para
+              los fines que fueron proporcionados, de acuerdo con las finalidades y
+              atribuciones establecidas en los artículos 1, 5 y 6 de la Ley Orgánica, así
+              como 2 y 3 del Estatuto General, ambas legislaciones de la UdeG, de igual
+              forma, para la prestación de los servicios que la misma ofrece conforme a
+              las facultades y prerrogativas de la entidad universitaria correspondiente
+              y estarán a resguardo y protección de la misma.
+            </p>
+            <p>
+              Usted puede consultar nuestro Aviso de Privacidad integral en la siguiente
+              página web:
+              <a href="http://www.transparencia.udg.mx/aviso-confidencialidad-integral" target="_blank" rel="noopener">
+                transparencia.udg.mx/aviso-confidencialidad-integral
+              </a>.
+            </p>
+            <p>
+              Su participación es voluntaria y la información que proporcione será
+              tratada con estricta confidencialidad.
+            </p>
+          </div>
+        </details>
+
+        <label class="checkbox">
+          <input type="checkbox" id="quiere_correo" name="quiere_correo">
+          Quiero recibir mi resultado por correo electrónico.
+        </label>
+        <div class="field" id="email-field" hidden>
+          <label for="email">Correo electrónico</label>
+          <input type="email" id="email" name="email" placeholder="tucorreo@ejemplo.com" autocomplete="email">
+          <p class="field-error">Escribe un correo electrónico válido.</p>
+        </div>
+
+        <div class="login-start">
+          <button type="button" class="btn-primary" id="btn-start">Iniciar diagnóstico</button>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="wizard-step" data-step="1">
+    <fieldset class="section">
+      <legend>1. Ubicación</legend>
+      <p class="section-tip">El contexto regional (entidad, municipio y tamaño de la localidad) influye en el acceso a servicios educativos.</p>
+      <div class="field-row">
+        <div class="field">
+          <label for="ENT">Entidad federativa *</label>
+          <select id="ENT" name="ENT" required>
+            <option value="">Selecciona...</option>
+            {% for e in entidades %}
+            <option value="{{ e.clave }}">{{ e.nombre }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una entidad federativa.</p>
+        </div>
+        <div class="field">
+          <label for="MUN">Municipio o demarcación *</label>
+          <select id="MUN" name="MUN" required disabled>
+            <option value="">Selecciona primero la entidad...</option>
+          </select>
+          <p class="field-error">Selecciona un municipio.</p>
+        </div>
+      </div>
+      <div class="field">
+        <label for="TAMLOC">{{ choices.TAMLOC.label }} *</label>
+        <select id="TAMLOC" name="TAMLOC" required>
+          <option value="">Selecciona...</option>
+          {% for c in choices.TAMLOC.choices %}
+          <option value="{{ c.value }}">{{ c.label }}</option>
+          {% endfor %}
+        </select>
+        <p class="field-error">Selecciona el tamaño de la localidad.</p>
+      </div>
+    </fieldset>
+  </div>
+
+  <div class="wizard-step" data-step="2">
+    <fieldset class="section">
+      <legend>2. Datos personales</legend>
+      <div class="field-row">
+        <div class="field">
+          <label for="SEXO">{{ choices.SEXO.label }} *</label>
+          <select id="SEXO" name="SEXO" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.SEXO.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+        <div class="field">
+          <label for="EDAD">Edad (años cumplidos) *</label>
+          <input type="number" id="EDAD" name="EDAD" min="15" max="110" required>
+          <p class="field-error">Escribe una edad válida (15 a 110 años).</p>
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label for="PERTE_INDIGENA">{{ choices.PERTE_INDIGENA.label }} *</label>
+          <select id="PERTE_INDIGENA" name="PERTE_INDIGENA" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.PERTE_INDIGENA.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+        <div class="field">
+          <label for="NACIONALIDAD">{{ choices.NACIONALIDAD.label }} *</label>
+          <select id="NACIONALIDAD" name="NACIONALIDAD" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.NACIONALIDAD.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+      </div>
+      <div class="field">
+        <label for="SITUA_CONYUGAL">{{ choices.SITUA_CONYUGAL.label }} *</label>
+        <select id="SITUA_CONYUGAL" name="SITUA_CONYUGAL" required>
+          <option value="">Selecciona...</option>
+          {% for c in choices.SITUA_CONYUGAL.choices %}
+          <option value="{{ c.value }}">{{ c.label }}</option>
+          {% endfor %}
+        </select>
+        <p class="field-error">Selecciona una opción.</p>
+      </div>
+    </fieldset>
+  </div>
+
+  <div class="wizard-step" data-step="3">
+    <fieldset class="section">
+      <legend>3. Trayectoria educativa</legend>
+      <p class="section-tip">Estas preguntas describen la situación escolar actual.</p>
+      <div class="field-row">
+        <div class="field">
+          <label for="ASISTEN">{{ choices.ASISTEN.label }} *</label>
+          <select id="ASISTEN" name="ASISTEN" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.ASISTEN.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+        <div class="field">
+          <label for="NIVACAD">{{ choices.NIVACAD.label }} *</label>
+          <select id="NIVACAD" name="NIVACAD" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.NIVACAD.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label for="ESCOLARI">Años cursados y aprobados del nivel actual (0 a 8) *</label>
+          <input type="number" id="ESCOLARI" name="ESCOLARI" min="0" max="8" required placeholder="Ej. si vas en 2° de bachillerato, escribe 2">
+          <p class="field-error">Escribe un número entre 0 y 8.</p>
+        </div>
+        <div class="field">
+          <label for="ESCOACUM">Años de escolaridad acumulados (0 a 24) *</label>
+          <input type="number" id="ESCOACUM" name="ESCOACUM" min="0" max="24" required>
+          <p class="field-error">Escribe un número entre 0 y 24.</p>
+        </div>
+      </div>
+      <div class="field">
+        <label for="SITUACION_TRAB">{{ choices.SITUACION_TRAB.label }} *</label>
+        <select id="SITUACION_TRAB" name="SITUACION_TRAB" required>
+          <option value="">Selecciona...</option>
+          {% for c in choices.SITUACION_TRAB.choices %}
+          <option value="{{ c.value }}">{{ c.label }}</option>
+          {% endfor %}
+        </select>
+        <p class="field-error">Selecciona una opción.</p>
+      </div>
+    </fieldset>
+  </div>
+
+  <div class="wizard-step" data-step="4">
+    <fieldset class="section">
+      <legend>4. Salud, hogar y tecnología</legend>
+      <div class="field">
+        <label for="SERSALUD">{{ choices.SERSALUD.label }} *</label>
+        <select id="SERSALUD" name="SERSALUD" required>
+          <option value="">Selecciona...</option>
+          {% for c in choices.SERSALUD.choices %}
+          <option value="{{ c.value }}">{{ c.label }}</option>
+          {% endfor %}
+        </select>
+        <p class="field-error">Selecciona una opción.</p>
+      </div>
+      <div class="field-row three">
+        <div class="field">
+          <label for="COMPUTADORA">{{ choices.COMPUTADORA.label }} *</label>
+          <select id="COMPUTADORA" name="COMPUTADORA" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.COMPUTADORA.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+        <div class="field">
+          <label for="CELULAR">{{ choices.CELULAR.label }} *</label>
+          <select id="CELULAR" name="CELULAR" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.CELULAR.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+        <div class="field">
+          <label for="INTERNET">{{ choices.INTERNET.label }} *</label>
+          <select id="INTERNET" name="INTERNET" required>
+            <option value="">Selecciona...</option>
+            {% for c in choices.INTERNET.choices %}
+            <option value="{{ c.value }}">{{ c.label }}</option>
+            {% endfor %}
+          </select>
+          <p class="field-error">Selecciona una opción.</p>
+        </div>
+      </div>
+      <div class="field">
+        <label for="INGTRHOG">Ingreso mensual por trabajo en el hogar (MXN) *</label>
+        <input type="number" id="INGTRHOG" name="INGTRHOG" min="0" step="1" required placeholder="Ej. 8000">
+        <p class="field-error">Escribe un monto en pesos (puede ser 0).</p>
+      </div>
+    </fieldset>
+  </div>
+
+  <div class="wizard-step" data-step="5">
+    <div class="section review-section">
+      <p class="section-tip">Revisa tus respuestas antes de enviar. Puedes volver a cualquier paso para corregir algo.</p>
+      <div id="review-content"></div>
+    </div>
+  </div>
+
+  <div class="wizard-nav">
+    <button type="button" class="btn-secondary" id="btn-prev">Atrás</button>
+    <span class="wizard-step-count" id="step-count">Antes de comenzar</span>
+    <button type="button" class="btn-primary" id="btn-next">Siguiente</button>
+    <button type="submit" class="btn-primary" id="btn-submit" hidden>Generar diagnóstico</button>
+  </div>
+
+  <noscript>
+    <p class="notice notice-warn" style="margin-top:20px;">
+      Tu navegador tiene JavaScript desactivado: el formulario se muestra completo en una sola página.
+      Revisa cada sección y desplázate hasta el final para enviar tu diagnóstico.
+    </p>
+  </noscript>
+</form>
+{% endblock %}
+
+{% block js %}
+<script>
+  document.documentElement.classList.add("js");
+  window.MUNICIPIOS = {{ municipios | tojson }};
+</script>
+<script src="{{ url_for('static', filename='js/form.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,338 @@
+{
+ "SEXO": {
+  "label": "Sexo",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Hombre"
+   },
+   {
+    "value": 3,
+    "label": "Mujer"
+   }
+  ]
+ },
+ "SERSALUD": {
+  "label": "¿En dónde se atiende cuando tiene problemas de salud?",
+  "choices": [
+   {
+    "value": 1,
+    "label": "IMSS"
+   },
+   {
+    "value": 2,
+    "label": "ISSSTE"
+   },
+   {
+    "value": 3,
+    "label": "ISSSTE estatal"
+   },
+   {
+    "value": 4,
+    "label": "Pemex/Defensa/Marina"
+   },
+   {
+    "value": 5,
+    "label": "Seguro Popular / INSABI / IMSS-Bienestar"
+   },
+   {
+    "value": 6,
+    "label": "Seguro privado"
+   },
+   {
+    "value": 7,
+    "label": "Consultorio/médico particular"
+   },
+   {
+    "value": 8,
+    "label": "Otro lugar"
+   },
+   {
+    "value": 9,
+    "label": "No se atiende"
+   }
+  ]
+ },
+ "PERTE_INDIGENA": {
+  "label": "¿Habla algún dialecto o lengua indígena?",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Sí"
+   },
+   {
+    "value": 2,
+    "label": "No"
+   },
+   {
+    "value": 3,
+    "label": "No especificado"
+   }
+  ]
+ },
+ "NACIONALIDAD": {
+  "label": "Nacionalidad",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Mexicana"
+   },
+   {
+    "value": 3,
+    "label": "Extranjera"
+   },
+   {
+    "value": 9,
+    "label": "No especificado"
+   }
+  ]
+ },
+ "ASISTEN": {
+  "label": "¿Actualmente va a la escuela?",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Sí"
+   },
+   {
+    "value": 3,
+    "label": "No"
+   }
+  ]
+ },
+ "NIVACAD": {
+  "label": "Último nivel académico aprobado",
+  "choices": [
+   {
+    "value": 0,
+    "label": "Ninguno"
+   },
+   {
+    "value": 1,
+    "label": "Preescolar"
+   },
+   {
+    "value": 2,
+    "label": "Primaria"
+   },
+   {
+    "value": 3,
+    "label": "Secundaria"
+   },
+   {
+    "value": 4,
+    "label": "Preparatoria o bachillerato general"
+   },
+   {
+    "value": 5,
+    "label": "Bachillerato tecnológico"
+   },
+   {
+    "value": 6,
+    "label": "Estudios técnicos/comerciales con primaria terminada"
+   },
+   {
+    "value": 7,
+    "label": "Estudios técnicos/comerciales con secundaria terminada"
+   },
+   {
+    "value": 8,
+    "label": "Estudios técnicos/comerciales con preparatoria terminada"
+   },
+   {
+    "value": 9,
+    "label": "Normal con primaria o secundaria terminada"
+   },
+   {
+    "value": 10,
+    "label": "Normal de licenciatura"
+   },
+   {
+    "value": 11,
+    "label": "Licenciatura"
+   },
+   {
+    "value": 12,
+    "label": "Especialidad"
+   },
+   {
+    "value": 13,
+    "label": "Maestría"
+   },
+   {
+    "value": 14,
+    "label": "Doctorado"
+   }
+  ]
+ },
+ "SITUA_CONYUGAL": {
+  "label": "Situación conyugal actual",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Unión libre"
+   },
+   {
+    "value": 2,
+    "label": "Separado(a)"
+   },
+   {
+    "value": 3,
+    "label": "Divorciado(a)"
+   },
+   {
+    "value": 4,
+    "label": "Viudo(a)"
+   },
+   {
+    "value": 5,
+    "label": "Casado(a)"
+   },
+   {
+    "value": 6,
+    "label": "Soltero(a)"
+   },
+   {
+    "value": 7,
+    "label": "No especificado"
+   },
+   {
+    "value": 8,
+    "label": "No aplica (menor de edad)"
+   }
+  ]
+ },
+ "SITUACION_TRAB": {
+  "label": "Situación laboral la semana pasada",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Trabajó"
+   },
+   {
+    "value": 2,
+    "label": "No trabajó pero tiene trabajo"
+   },
+   {
+    "value": 3,
+    "label": "Buscó trabajo"
+   },
+   {
+    "value": 4,
+    "label": "Estudiante sin trabajar"
+   },
+   {
+    "value": 5,
+    "label": "Se dedica al hogar"
+   },
+   {
+    "value": 6,
+    "label": "Otra situación (jubilado, incapacitado, etc.)"
+   }
+  ]
+ },
+ "COMPUTADORA": {
+  "label": "¿En su vivienda tienen computadora?",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Sí"
+   },
+   {
+    "value": 2,
+    "label": "No"
+   },
+   {
+    "value": 3,
+    "label": "No especificado"
+   },
+   {
+    "value": 4,
+    "label": "No aplica"
+   },
+   {
+    "value": 7,
+    "label": "Sí (otra fuente)"
+   },
+   {
+    "value": 8,
+    "label": "No sabe"
+   }
+  ]
+ },
+ "CELULAR": {
+  "label": "¿En su vivienda tienen teléfono celular?",
+  "choices": [
+   {
+    "value": 3,
+    "label": "Sí"
+   },
+   {
+    "value": 4,
+    "label": "No"
+   },
+   {
+    "value": 5,
+    "label": "No especificado"
+   },
+   {
+    "value": 6,
+    "label": "No aplica"
+   }
+  ]
+ },
+ "INTERNET": {
+  "label": "¿En su vivienda tienen internet?",
+  "choices": [
+   {
+    "value": 1,
+    "label": "Sí"
+   },
+   {
+    "value": 2,
+    "label": "No"
+   },
+   {
+    "value": 5,
+    "label": "No especificado"
+   },
+   {
+    "value": 6,
+    "label": "No aplica"
+   },
+   {
+    "value": 7,
+    "label": "Sí (otra fuente)"
+   },
+   {
+    "value": 8,
+    "label": "No sabe"
+   }
+  ]
+ },
+ "TAMLOC": {
+  "label": "Tamaño de la localidad donde vive",
+  "choices": [
+   {
+    "value": 1,
+    "label": "2,500 - 14,999 habitantes (rural)"
+   },
+   {
+    "value": 2,
+    "label": "15,000 - 99,999 habitantes"
+   },
+   {
+    "value": 3,
+    "label": "100,000 y más habitantes"
+   },
+   {
+    "value": 4,
+    "label": "2,500 y más habitantes"
+   },
+   {
+    "value": 5,
+    "label": "Menos de 2,500 habitantes"
+   }
+  ]
+ }
+}

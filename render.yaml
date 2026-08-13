@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: prediccion-desercion-escolar
+    env: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        sync: false        # pega aquí la cadena de conexión de tu proyecto Neon
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: SMTP_HOST
+        sync: false        # smtp-relay.brevo.com
+      - key: SMTP_PORT
+        value: "2525"       # Render bloquea 25/465/587; usa 2525 (Brevo)
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASSWORD
+        sync: false         # en Brevo: la "SMTP key", no tu API key
+      - key: SMTP_FROM_NAME
+        value: "Sistema de Predicción de Deserción"

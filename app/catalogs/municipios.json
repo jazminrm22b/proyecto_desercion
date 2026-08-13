@@ -1,0 +1,9978 @@
+{
+ "1": [
+  {
+   "clave": 1,
+   "nombre": "Aguascalientes"
+  },
+  {
+   "clave": 2,
+   "nombre": "Asientos"
+  },
+  {
+   "clave": 3,
+   "nombre": "Calvillo"
+  },
+  {
+   "clave": 4,
+   "nombre": "Cosío"
+  },
+  {
+   "clave": 5,
+   "nombre": "Jesús María"
+  },
+  {
+   "clave": 6,
+   "nombre": "Pabellón De Arteaga"
+  },
+  {
+   "clave": 7,
+   "nombre": "Rincón De Romos"
+  },
+  {
+   "clave": 8,
+   "nombre": "San José De Gracia"
+  },
+  {
+   "clave": 9,
+   "nombre": "Tepezalá"
+  },
+  {
+   "clave": 10,
+   "nombre": "El Llano"
+  },
+  {
+   "clave": 11,
+   "nombre": "San Francisco De Los Romo"
+  }
+ ],
+ "2": [
+  {
+   "clave": 1,
+   "nombre": "Ensenada"
+  },
+  {
+   "clave": 2,
+   "nombre": "Mexicali"
+  },
+  {
+   "clave": 3,
+   "nombre": "Tecate"
+  },
+  {
+   "clave": 4,
+   "nombre": "Tijuana"
+  },
+  {
+   "clave": 5,
+   "nombre": "Playas De Rosarito"
+  },
+  {
+   "clave": 6,
+   "nombre": "San Quintín"
+  },
+  {
+   "clave": 7,
+   "nombre": "San Felipe"
+  }
+ ],
+ "3": [
+  {
+   "clave": 1,
+   "nombre": "Comondú"
+  },
+  {
+   "clave": 2,
+   "nombre": "Mulegé"
+  },
+  {
+   "clave": 3,
+   "nombre": "La Paz"
+  },
+  {
+   "clave": 8,
+   "nombre": "Los Cabos"
+  },
+  {
+   "clave": 9,
+   "nombre": "Loreto"
+  }
+ ],
+ "4": [
+  {
+   "clave": 1,
+   "nombre": "Calkiní"
+  },
+  {
+   "clave": 2,
+   "nombre": "Campeche"
+  },
+  {
+   "clave": 3,
+   "nombre": "Carmen"
+  },
+  {
+   "clave": 4,
+   "nombre": "Champotón"
+  },
+  {
+   "clave": 5,
+   "nombre": "Hecelchakán"
+  },
+  {
+   "clave": 6,
+   "nombre": "Hopelchén"
+  },
+  {
+   "clave": 7,
+   "nombre": "Palizada"
+  },
+  {
+   "clave": 8,
+   "nombre": "Tenabo"
+  },
+  {
+   "clave": 9,
+   "nombre": "Escárcega"
+  },
+  {
+   "clave": 10,
+   "nombre": "Calakmul"
+  },
+  {
+   "clave": 11,
+   "nombre": "Candelaria"
+  },
+  {
+   "clave": 12,
+   "nombre": "Seybaplaya"
+  },
+  {
+   "clave": 13,
+   "nombre": "Dzitbalché"
+  }
+ ],
+ "5": [
+  {
+   "clave": 1,
+   "nombre": "Abasolo"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acuña"
+  },
+  {
+   "clave": 3,
+   "nombre": "Allende"
+  },
+  {
+   "clave": 4,
+   "nombre": "Arteaga"
+  },
+  {
+   "clave": 5,
+   "nombre": "Candela"
+  },
+  {
+   "clave": 6,
+   "nombre": "Castaños"
+  },
+  {
+   "clave": 7,
+   "nombre": "Cuatro Ciénegas"
+  },
+  {
+   "clave": 8,
+   "nombre": "Escobedo"
+  },
+  {
+   "clave": 9,
+   "nombre": "Francisco I. Madero"
+  },
+  {
+   "clave": 10,
+   "nombre": "Frontera"
+  },
+  {
+   "clave": 11,
+   "nombre": "General Cepeda"
+  },
+  {
+   "clave": 12,
+   "nombre": "Guerrero"
+  },
+  {
+   "clave": 13,
+   "nombre": "Hidalgo"
+  },
+  {
+   "clave": 14,
+   "nombre": "Jiménez"
+  },
+  {
+   "clave": 15,
+   "nombre": "Juárez"
+  },
+  {
+   "clave": 16,
+   "nombre": "Lamadrid"
+  },
+  {
+   "clave": 17,
+   "nombre": "Matamoros"
+  },
+  {
+   "clave": 18,
+   "nombre": "Monclova"
+  },
+  {
+   "clave": 19,
+   "nombre": "Morelos"
+  },
+  {
+   "clave": 20,
+   "nombre": "Múzquiz"
+  },
+  {
+   "clave": 21,
+   "nombre": "Nadadores"
+  },
+  {
+   "clave": 22,
+   "nombre": "Nava"
+  },
+  {
+   "clave": 23,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 24,
+   "nombre": "Parras"
+  },
+  {
+   "clave": 25,
+   "nombre": "Piedras Negras"
+  },
+  {
+   "clave": 26,
+   "nombre": "Progreso"
+  },
+  {
+   "clave": 27,
+   "nombre": "Ramos Arizpe"
+  },
+  {
+   "clave": 28,
+   "nombre": "Sabinas"
+  },
+  {
+   "clave": 29,
+   "nombre": "Sacramento"
+  },
+  {
+   "clave": 30,
+   "nombre": "Saltillo"
+  },
+  {
+   "clave": 31,
+   "nombre": "San Buenaventura"
+  },
+  {
+   "clave": 32,
+   "nombre": "San Juan De Sabinas"
+  },
+  {
+   "clave": 33,
+   "nombre": "San Pedro"
+  },
+  {
+   "clave": 34,
+   "nombre": "Sierra Mojada"
+  },
+  {
+   "clave": 35,
+   "nombre": "Torreón"
+  },
+  {
+   "clave": 36,
+   "nombre": "Viesca"
+  },
+  {
+   "clave": 37,
+   "nombre": "Villa Unión"
+  },
+  {
+   "clave": 38,
+   "nombre": "Zaragoza"
+  }
+ ],
+ "6": [
+  {
+   "clave": 1,
+   "nombre": "Armería"
+  },
+  {
+   "clave": 2,
+   "nombre": "Colima"
+  },
+  {
+   "clave": 3,
+   "nombre": "Comala"
+  },
+  {
+   "clave": 4,
+   "nombre": "Coquimatlán"
+  },
+  {
+   "clave": 5,
+   "nombre": "Cuauhtémoc"
+  },
+  {
+   "clave": 6,
+   "nombre": "Ixtlahuacán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Manzanillo"
+  },
+  {
+   "clave": 8,
+   "nombre": "Minatitlán"
+  },
+  {
+   "clave": 9,
+   "nombre": "Tecomán"
+  },
+  {
+   "clave": 10,
+   "nombre": "Villa De Álvarez"
+  }
+ ],
+ "7": [
+  {
+   "clave": 1,
+   "nombre": "Acacoyagua"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acala"
+  },
+  {
+   "clave": 3,
+   "nombre": "Acapetahua"
+  },
+  {
+   "clave": 4,
+   "nombre": "Altamirano"
+  },
+  {
+   "clave": 5,
+   "nombre": "Amatán"
+  },
+  {
+   "clave": 6,
+   "nombre": "Amatenango De La Frontera"
+  },
+  {
+   "clave": 7,
+   "nombre": "Amatenango Del Valle"
+  },
+  {
+   "clave": 8,
+   "nombre": "Ángel Albino Corzo"
+  },
+  {
+   "clave": 9,
+   "nombre": "Arriaga"
+  },
+  {
+   "clave": 10,
+   "nombre": "Bejucal De Ocampo"
+  },
+  {
+   "clave": 11,
+   "nombre": "Bella Vista"
+  },
+  {
+   "clave": 12,
+   "nombre": "Berriozábal"
+  },
+  {
+   "clave": 13,
+   "nombre": "Bochil"
+  },
+  {
+   "clave": 14,
+   "nombre": "El Bosque"
+  },
+  {
+   "clave": 15,
+   "nombre": "Cacahoatán"
+  },
+  {
+   "clave": 16,
+   "nombre": "Catazajá"
+  },
+  {
+   "clave": 17,
+   "nombre": "Cintalapa De Figueroa"
+  },
+  {
+   "clave": 18,
+   "nombre": "Coapilla"
+  },
+  {
+   "clave": 19,
+   "nombre": "Comitán De Domínguez"
+  },
+  {
+   "clave": 20,
+   "nombre": "La Concordia"
+  },
+  {
+   "clave": 21,
+   "nombre": "Copainalá"
+  },
+  {
+   "clave": 22,
+   "nombre": "Chalchihuitán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Chamula"
+  },
+  {
+   "clave": 24,
+   "nombre": "Chanal"
+  },
+  {
+   "clave": 25,
+   "nombre": "Chapultenango"
+  },
+  {
+   "clave": 26,
+   "nombre": "Chenalhó"
+  },
+  {
+   "clave": 27,
+   "nombre": "Chiapa De Corzo"
+  },
+  {
+   "clave": 28,
+   "nombre": "Chiapilla"
+  },
+  {
+   "clave": 29,
+   "nombre": "Chicoasén"
+  },
+  {
+   "clave": 30,
+   "nombre": "Chicomuselo"
+  },
+  {
+   "clave": 31,
+   "nombre": "Chilón"
+  },
+  {
+   "clave": 32,
+   "nombre": "Escuintla"
+  },
+  {
+   "clave": 33,
+   "nombre": "Francisco León"
+  },
+  {
+   "clave": 34,
+   "nombre": "Frontera Comalapa"
+  },
+  {
+   "clave": 35,
+   "nombre": "Frontera Hidalgo"
+  },
+  {
+   "clave": 36,
+   "nombre": "La Grandeza"
+  },
+  {
+   "clave": 37,
+   "nombre": "Huehuetán"
+  },
+  {
+   "clave": 38,
+   "nombre": "Huixtán"
+  },
+  {
+   "clave": 39,
+   "nombre": "Huitiupán"
+  },
+  {
+   "clave": 40,
+   "nombre": "Huixtla"
+  },
+  {
+   "clave": 41,
+   "nombre": "La Independencia"
+  },
+  {
+   "clave": 42,
+   "nombre": "Ixhuatán"
+  },
+  {
+   "clave": 43,
+   "nombre": "Ixtacomitán"
+  },
+  {
+   "clave": 44,
+   "nombre": "Ixtapa"
+  },
+  {
+   "clave": 45,
+   "nombre": "Ixtapangajoya"
+  },
+  {
+   "clave": 46,
+   "nombre": "Jiquipilas"
+  },
+  {
+   "clave": 47,
+   "nombre": "Jitotol"
+  },
+  {
+   "clave": 48,
+   "nombre": "Juárez"
+  },
+  {
+   "clave": 49,
+   "nombre": "Larráinzar"
+  },
+  {
+   "clave": 50,
+   "nombre": "La Libertad"
+  },
+  {
+   "clave": 51,
+   "nombre": "Mapastepec"
+  },
+  {
+   "clave": 52,
+   "nombre": "Las Margaritas"
+  },
+  {
+   "clave": 53,
+   "nombre": "Mazapa De Madero"
+  },
+  {
+   "clave": 54,
+   "nombre": "Mazatán"
+  },
+  {
+   "clave": 55,
+   "nombre": "Metapa"
+  },
+  {
+   "clave": 56,
+   "nombre": "Mitontic"
+  },
+  {
+   "clave": 57,
+   "nombre": "Motozintla"
+  },
+  {
+   "clave": 58,
+   "nombre": "Nicolás Ruíz"
+  },
+  {
+   "clave": 59,
+   "nombre": "Ocosingo"
+  },
+  {
+   "clave": 60,
+   "nombre": "Ocotepec"
+  },
+  {
+   "clave": 61,
+   "nombre": "Ocozocoautla De Espinosa"
+  },
+  {
+   "clave": 62,
+   "nombre": "Ostuacán"
+  },
+  {
+   "clave": 63,
+   "nombre": "Osumacinta"
+  },
+  {
+   "clave": 64,
+   "nombre": "Oxchuc"
+  },
+  {
+   "clave": 65,
+   "nombre": "Palenque"
+  },
+  {
+   "clave": 66,
+   "nombre": "Pantelhó"
+  },
+  {
+   "clave": 67,
+   "nombre": "Pantepec"
+  },
+  {
+   "clave": 68,
+   "nombre": "Pichucalco"
+  },
+  {
+   "clave": 69,
+   "nombre": "Pijijiapan"
+  },
+  {
+   "clave": 70,
+   "nombre": "El Porvenir"
+  },
+  {
+   "clave": 71,
+   "nombre": "Villa Comaltitlán"
+  },
+  {
+   "clave": 72,
+   "nombre": "Pueblo Nuevo Solistahuacán"
+  },
+  {
+   "clave": 73,
+   "nombre": "Rayón"
+  },
+  {
+   "clave": 74,
+   "nombre": "Reforma"
+  },
+  {
+   "clave": 75,
+   "nombre": "Las Rosas"
+  },
+  {
+   "clave": 76,
+   "nombre": "Sabanilla"
+  },
+  {
+   "clave": 77,
+   "nombre": "Salto De Agua"
+  },
+  {
+   "clave": 78,
+   "nombre": "San Cristóbal De Las Casas"
+  },
+  {
+   "clave": 79,
+   "nombre": "San Fernando"
+  },
+  {
+   "clave": 80,
+   "nombre": "Siltepec"
+  },
+  {
+   "clave": 81,
+   "nombre": "Simojovel"
+  },
+  {
+   "clave": 82,
+   "nombre": "Sitalá"
+  },
+  {
+   "clave": 83,
+   "nombre": "Socoltenango"
+  },
+  {
+   "clave": 84,
+   "nombre": "Solosuchiapa"
+  },
+  {
+   "clave": 85,
+   "nombre": "Soyaló"
+  },
+  {
+   "clave": 86,
+   "nombre": "Suchiapa"
+  },
+  {
+   "clave": 87,
+   "nombre": "Suchiate"
+  },
+  {
+   "clave": 88,
+   "nombre": "Sunuapa"
+  },
+  {
+   "clave": 89,
+   "nombre": "Tapachula"
+  },
+  {
+   "clave": 90,
+   "nombre": "Tapalapa"
+  },
+  {
+   "clave": 91,
+   "nombre": "Tapilula"
+  },
+  {
+   "clave": 92,
+   "nombre": "Tecpatán"
+  },
+  {
+   "clave": 93,
+   "nombre": "Tenejapa"
+  },
+  {
+   "clave": 94,
+   "nombre": "Teopisca"
+  },
+  {
+   "clave": 96,
+   "nombre": "Tila"
+  },
+  {
+   "clave": 97,
+   "nombre": "Tonalá"
+  },
+  {
+   "clave": 98,
+   "nombre": "Totolapa"
+  },
+  {
+   "clave": 99,
+   "nombre": "La Trinitaria"
+  },
+  {
+   "clave": 100,
+   "nombre": "Tumbalá"
+  },
+  {
+   "clave": 101,
+   "nombre": "Tuxtla Gutiérrez"
+  },
+  {
+   "clave": 102,
+   "nombre": "Tuxtla Chico"
+  },
+  {
+   "clave": 103,
+   "nombre": "Tuzantán"
+  },
+  {
+   "clave": 104,
+   "nombre": "Tzimol"
+  },
+  {
+   "clave": 105,
+   "nombre": "Unión Juárez"
+  },
+  {
+   "clave": 106,
+   "nombre": "Venustiano Carranza"
+  },
+  {
+   "clave": 107,
+   "nombre": "Villa Corzo"
+  },
+  {
+   "clave": 108,
+   "nombre": "Villaflores"
+  },
+  {
+   "clave": 109,
+   "nombre": "Yajalón"
+  },
+  {
+   "clave": 110,
+   "nombre": "San Lucas"
+  },
+  {
+   "clave": 111,
+   "nombre": "Zinacantán"
+  },
+  {
+   "clave": 112,
+   "nombre": "San Juan Cancuc"
+  },
+  {
+   "clave": 113,
+   "nombre": "Aldama"
+  },
+  {
+   "clave": 114,
+   "nombre": "Benemérito De Las Américas"
+  },
+  {
+   "clave": 115,
+   "nombre": "Maravilla Tenejapa"
+  },
+  {
+   "clave": 116,
+   "nombre": "Marqués De Comillas"
+  },
+  {
+   "clave": 117,
+   "nombre": "Montecristo De Guerrero"
+  },
+  {
+   "clave": 118,
+   "nombre": "San Andrés Duraznal"
+  },
+  {
+   "clave": 119,
+   "nombre": "Santiago El Pinar"
+  },
+  {
+   "clave": 120,
+   "nombre": "Capitán Luis Ángel Vidal"
+  },
+  {
+   "clave": 121,
+   "nombre": "Rincón Chamula San Pedro"
+  },
+  {
+   "clave": 122,
+   "nombre": "El Parral"
+  },
+  {
+   "clave": 123,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 124,
+   "nombre": "Mezcalapa"
+  },
+  {
+   "clave": 125,
+   "nombre": "Honduras De La Sierra"
+  }
+ ],
+ "8": [
+  {
+   "clave": 1,
+   "nombre": "Ahumada"
+  },
+  {
+   "clave": 2,
+   "nombre": "Aldama"
+  },
+  {
+   "clave": 3,
+   "nombre": "Allende"
+  },
+  {
+   "clave": 4,
+   "nombre": "Aquiles Serdán"
+  },
+  {
+   "clave": 5,
+   "nombre": "Ascensión"
+  },
+  {
+   "clave": 6,
+   "nombre": "Bachíniva"
+  },
+  {
+   "clave": 7,
+   "nombre": "Balleza"
+  },
+  {
+   "clave": 8,
+   "nombre": "Batopilas De Manuel Gómez Morín"
+  },
+  {
+   "clave": 9,
+   "nombre": "Bocoyna"
+  },
+  {
+   "clave": 10,
+   "nombre": "Buenaventura"
+  },
+  {
+   "clave": 11,
+   "nombre": "Camargo"
+  },
+  {
+   "clave": 12,
+   "nombre": "Carichí"
+  },
+  {
+   "clave": 13,
+   "nombre": "Casas Grandes"
+  },
+  {
+   "clave": 14,
+   "nombre": "Coronado"
+  },
+  {
+   "clave": 15,
+   "nombre": "Coyame Del Sotol"
+  },
+  {
+   "clave": 16,
+   "nombre": "La Cruz"
+  },
+  {
+   "clave": 17,
+   "nombre": "Cuauhtémoc"
+  },
+  {
+   "clave": 18,
+   "nombre": "Cusihuiriachi"
+  },
+  {
+   "clave": 19,
+   "nombre": "Chihuahua"
+  },
+  {
+   "clave": 20,
+   "nombre": "Chínipas"
+  },
+  {
+   "clave": 21,
+   "nombre": "Delicias"
+  },
+  {
+   "clave": 22,
+   "nombre": "Dr. Belisario Domínguez"
+  },
+  {
+   "clave": 23,
+   "nombre": "Galeana"
+  },
+  {
+   "clave": 24,
+   "nombre": "Santa Isabel"
+  },
+  {
+   "clave": 25,
+   "nombre": "Gómez Farías"
+  },
+  {
+   "clave": 26,
+   "nombre": "Gran Morelos"
+  },
+  {
+   "clave": 27,
+   "nombre": "Guachochi"
+  },
+  {
+   "clave": 28,
+   "nombre": "Guadalupe"
+  },
+  {
+   "clave": 29,
+   "nombre": "Guadalupe Y Calvo"
+  },
+  {
+   "clave": 30,
+   "nombre": "Guazapares"
+  },
+  {
+   "clave": 31,
+   "nombre": "Guerrero"
+  },
+  {
+   "clave": 32,
+   "nombre": "Hidalgo Del Parral"
+  },
+  {
+   "clave": 33,
+   "nombre": "Huejotitán"
+  },
+  {
+   "clave": 34,
+   "nombre": "Ignacio Zaragoza"
+  },
+  {
+   "clave": 35,
+   "nombre": "Janos"
+  },
+  {
+   "clave": 36,
+   "nombre": "Jiménez"
+  },
+  {
+   "clave": 37,
+   "nombre": "Juárez"
+  },
+  {
+   "clave": 38,
+   "nombre": "Julimes"
+  },
+  {
+   "clave": 39,
+   "nombre": "López"
+  },
+  {
+   "clave": 40,
+   "nombre": "Madera"
+  },
+  {
+   "clave": 41,
+   "nombre": "Maguarichi"
+  },
+  {
+   "clave": 42,
+   "nombre": "Manuel Benavides"
+  },
+  {
+   "clave": 43,
+   "nombre": "Matachí"
+  },
+  {
+   "clave": 44,
+   "nombre": "Matamoros"
+  },
+  {
+   "clave": 45,
+   "nombre": "Meoqui"
+  },
+  {
+   "clave": 46,
+   "nombre": "Morelos"
+  },
+  {
+   "clave": 47,
+   "nombre": "Moris"
+  },
+  {
+   "clave": 48,
+   "nombre": "Namiquipa"
+  },
+  {
+   "clave": 49,
+   "nombre": "Nonoava"
+  },
+  {
+   "clave": 50,
+   "nombre": "Nuevo Casas Grandes"
+  },
+  {
+   "clave": 51,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 52,
+   "nombre": "Ojinaga"
+  },
+  {
+   "clave": 53,
+   "nombre": "Praxedis G. Guerrero"
+  },
+  {
+   "clave": 54,
+   "nombre": "Riva Palacio"
+  },
+  {
+   "clave": 55,
+   "nombre": "Rosales"
+  },
+  {
+   "clave": 56,
+   "nombre": "Valle Del Rosario"
+  },
+  {
+   "clave": 57,
+   "nombre": "San Francisco De Borja"
+  },
+  {
+   "clave": 58,
+   "nombre": "San Francisco De Conchos"
+  },
+  {
+   "clave": 59,
+   "nombre": "San Francisco Del Oro"
+  },
+  {
+   "clave": 60,
+   "nombre": "Santa Bárbara"
+  },
+  {
+   "clave": 61,
+   "nombre": "Satevó"
+  },
+  {
+   "clave": 62,
+   "nombre": "Saucillo"
+  },
+  {
+   "clave": 63,
+   "nombre": "Temósachic"
+  },
+  {
+   "clave": 64,
+   "nombre": "El Tule"
+  },
+  {
+   "clave": 65,
+   "nombre": "Urique"
+  },
+  {
+   "clave": 66,
+   "nombre": "Uruachi"
+  },
+  {
+   "clave": 67,
+   "nombre": "Valle De Zaragoza"
+  }
+ ],
+ "9": [
+  {
+   "clave": 2,
+   "nombre": "Azcapotzalco"
+  },
+  {
+   "clave": 3,
+   "nombre": "Coyoacán"
+  },
+  {
+   "clave": 4,
+   "nombre": "Cuajimalpa De Morelos"
+  },
+  {
+   "clave": 5,
+   "nombre": "Gustavo A. Madero"
+  },
+  {
+   "clave": 6,
+   "nombre": "Iztacalco"
+  },
+  {
+   "clave": 7,
+   "nombre": "Iztapalapa"
+  },
+  {
+   "clave": 8,
+   "nombre": "La Magdalena Contreras"
+  },
+  {
+   "clave": 9,
+   "nombre": "Milpa Alta"
+  },
+  {
+   "clave": 10,
+   "nombre": "Álvaro Obregón"
+  },
+  {
+   "clave": 11,
+   "nombre": "Tláhuac"
+  },
+  {
+   "clave": 12,
+   "nombre": "Tlalpan"
+  },
+  {
+   "clave": 13,
+   "nombre": "Xochimilco"
+  },
+  {
+   "clave": 14,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 15,
+   "nombre": "Cuauhtémoc"
+  },
+  {
+   "clave": 16,
+   "nombre": "Miguel Hidalgo"
+  },
+  {
+   "clave": 17,
+   "nombre": "Venustiano Carranza"
+  }
+ ],
+ "10": [
+  {
+   "clave": 1,
+   "nombre": "Canatlán"
+  },
+  {
+   "clave": 2,
+   "nombre": "Canelas"
+  },
+  {
+   "clave": 3,
+   "nombre": "Coneto De Comonfort"
+  },
+  {
+   "clave": 4,
+   "nombre": "Cuencamé"
+  },
+  {
+   "clave": 5,
+   "nombre": "Durango"
+  },
+  {
+   "clave": 6,
+   "nombre": "General Simón Bolívar"
+  },
+  {
+   "clave": 7,
+   "nombre": "Gómez Palacio"
+  },
+  {
+   "clave": 8,
+   "nombre": "Guadalupe Victoria"
+  },
+  {
+   "clave": 9,
+   "nombre": "Guanaceví"
+  },
+  {
+   "clave": 10,
+   "nombre": "Hidalgo"
+  },
+  {
+   "clave": 11,
+   "nombre": "Indé"
+  },
+  {
+   "clave": 12,
+   "nombre": "Lerdo"
+  },
+  {
+   "clave": 13,
+   "nombre": "Mapimí"
+  },
+  {
+   "clave": 14,
+   "nombre": "Mezquital"
+  },
+  {
+   "clave": 15,
+   "nombre": "Nazas"
+  },
+  {
+   "clave": 16,
+   "nombre": "Nombre De Dios"
+  },
+  {
+   "clave": 17,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 18,
+   "nombre": "El Oro"
+  },
+  {
+   "clave": 19,
+   "nombre": "Otáez"
+  },
+  {
+   "clave": 20,
+   "nombre": "Pánuco De Coronado"
+  },
+  {
+   "clave": 21,
+   "nombre": "Peñón Blanco"
+  },
+  {
+   "clave": 22,
+   "nombre": "Poanas"
+  },
+  {
+   "clave": 23,
+   "nombre": "Pueblo Nuevo"
+  },
+  {
+   "clave": 24,
+   "nombre": "Rodeo"
+  },
+  {
+   "clave": 25,
+   "nombre": "San Bernardo"
+  },
+  {
+   "clave": 26,
+   "nombre": "San Dimas"
+  },
+  {
+   "clave": 27,
+   "nombre": "San Juan De Guadalupe"
+  },
+  {
+   "clave": 28,
+   "nombre": "San Juan Del Río"
+  },
+  {
+   "clave": 29,
+   "nombre": "San Luis Del Cordero"
+  },
+  {
+   "clave": 30,
+   "nombre": "San Pedro Del Gallo"
+  },
+  {
+   "clave": 31,
+   "nombre": "Santa Clara"
+  },
+  {
+   "clave": 32,
+   "nombre": "Santiago Papasquiaro"
+  },
+  {
+   "clave": 33,
+   "nombre": "Súchil"
+  },
+  {
+   "clave": 34,
+   "nombre": "Tamazula"
+  },
+  {
+   "clave": 35,
+   "nombre": "Tepehuanes"
+  },
+  {
+   "clave": 36,
+   "nombre": "Tlahualilo"
+  },
+  {
+   "clave": 37,
+   "nombre": "Topia"
+  },
+  {
+   "clave": 38,
+   "nombre": "Vicente Guerrero"
+  },
+  {
+   "clave": 39,
+   "nombre": "Nuevo Ideal"
+  }
+ ],
+ "11": [
+  {
+   "clave": 1,
+   "nombre": "Abasolo"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acámbaro"
+  },
+  {
+   "clave": 3,
+   "nombre": "San Miguel De Allende"
+  },
+  {
+   "clave": 4,
+   "nombre": "Apaseo El Alto"
+  },
+  {
+   "clave": 5,
+   "nombre": "Apaseo El Grande"
+  },
+  {
+   "clave": 6,
+   "nombre": "Atarjea"
+  },
+  {
+   "clave": 7,
+   "nombre": "Celaya"
+  },
+  {
+   "clave": 8,
+   "nombre": "Manuel Doblado"
+  },
+  {
+   "clave": 9,
+   "nombre": "Comonfort"
+  },
+  {
+   "clave": 10,
+   "nombre": "Coroneo"
+  },
+  {
+   "clave": 11,
+   "nombre": "Cortazar"
+  },
+  {
+   "clave": 12,
+   "nombre": "Cuerámaro"
+  },
+  {
+   "clave": 13,
+   "nombre": "Doctor Mora"
+  },
+  {
+   "clave": 14,
+   "nombre": "Dolores Hidalgo Cuna De La Independencia Nacional"
+  },
+  {
+   "clave": 15,
+   "nombre": "Guanajuato"
+  },
+  {
+   "clave": 16,
+   "nombre": "Huanímaro"
+  },
+  {
+   "clave": 17,
+   "nombre": "Irapuato"
+  },
+  {
+   "clave": 18,
+   "nombre": "Jaral Del Progreso"
+  },
+  {
+   "clave": 19,
+   "nombre": "Jerécuaro"
+  },
+  {
+   "clave": 20,
+   "nombre": "León"
+  },
+  {
+   "clave": 21,
+   "nombre": "Moroleón"
+  },
+  {
+   "clave": 22,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 23,
+   "nombre": "Pénjamo"
+  },
+  {
+   "clave": 24,
+   "nombre": "Pueblo Nuevo"
+  },
+  {
+   "clave": 25,
+   "nombre": "Purísima Del Rincón"
+  },
+  {
+   "clave": 26,
+   "nombre": "Romita"
+  },
+  {
+   "clave": 27,
+   "nombre": "Salamanca"
+  },
+  {
+   "clave": 28,
+   "nombre": "Salvatierra"
+  },
+  {
+   "clave": 29,
+   "nombre": "San Diego De La Unión"
+  },
+  {
+   "clave": 30,
+   "nombre": "San Felipe"
+  },
+  {
+   "clave": 31,
+   "nombre": "San Francisco Del Rincón"
+  },
+  {
+   "clave": 32,
+   "nombre": "San José De Iturbide"
+  },
+  {
+   "clave": 33,
+   "nombre": "San Luis De La Paz"
+  },
+  {
+   "clave": 34,
+   "nombre": "Santa Catarina"
+  },
+  {
+   "clave": 35,
+   "nombre": "Santa Cruz De Juventino Rosas"
+  },
+  {
+   "clave": 36,
+   "nombre": "Santiago Maravatío"
+  },
+  {
+   "clave": 37,
+   "nombre": "Silao De La Victoria"
+  },
+  {
+   "clave": 38,
+   "nombre": "Tarandacuao"
+  },
+  {
+   "clave": 39,
+   "nombre": "Tarimoro"
+  },
+  {
+   "clave": 40,
+   "nombre": "Tierra Blanca"
+  },
+  {
+   "clave": 41,
+   "nombre": "Uriangato"
+  },
+  {
+   "clave": 42,
+   "nombre": "Valle De Santiago"
+  },
+  {
+   "clave": 43,
+   "nombre": "Victoria"
+  },
+  {
+   "clave": 44,
+   "nombre": "Villagrán"
+  },
+  {
+   "clave": 45,
+   "nombre": "Xichú"
+  },
+  {
+   "clave": 46,
+   "nombre": "Yuriria"
+  }
+ ],
+ "12": [
+  {
+   "clave": 1,
+   "nombre": "Acapulco De Juárez"
+  },
+  {
+   "clave": 2,
+   "nombre": "Ahuacuotzingo"
+  },
+  {
+   "clave": 3,
+   "nombre": "Ajuchitlán Del Progreso"
+  },
+  {
+   "clave": 4,
+   "nombre": "Alcozauca De Guerrero"
+  },
+  {
+   "clave": 5,
+   "nombre": "Alpoyeca"
+  },
+  {
+   "clave": 6,
+   "nombre": "Apaxtla De Castrejón"
+  },
+  {
+   "clave": 7,
+   "nombre": "Arcelia"
+  },
+  {
+   "clave": 8,
+   "nombre": "Atenango Del Río"
+  },
+  {
+   "clave": 9,
+   "nombre": "Atlamajalcingo Del Monte"
+  },
+  {
+   "clave": 10,
+   "nombre": "Atlixtac"
+  },
+  {
+   "clave": 11,
+   "nombre": "Atoyac De Álvarez"
+  },
+  {
+   "clave": 12,
+   "nombre": "Ayutla De Los Libres"
+  },
+  {
+   "clave": 13,
+   "nombre": "Azoyú"
+  },
+  {
+   "clave": 14,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 15,
+   "nombre": "Buenavista De Cuéllar"
+  },
+  {
+   "clave": 16,
+   "nombre": "Coahuayutla De José María Izazaga"
+  },
+  {
+   "clave": 17,
+   "nombre": "Cocula"
+  },
+  {
+   "clave": 18,
+   "nombre": "Copala"
+  },
+  {
+   "clave": 19,
+   "nombre": "Copalillo"
+  },
+  {
+   "clave": 20,
+   "nombre": "Copanatoyac"
+  },
+  {
+   "clave": 21,
+   "nombre": "Coyuca De Benítez"
+  },
+  {
+   "clave": 22,
+   "nombre": "Coyuca De Catalán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Cuajinicuilapa"
+  },
+  {
+   "clave": 24,
+   "nombre": "Cualác"
+  },
+  {
+   "clave": 25,
+   "nombre": "Cuautepec"
+  },
+  {
+   "clave": 26,
+   "nombre": "Cuetzala Del Progreso"
+  },
+  {
+   "clave": 27,
+   "nombre": "Cutzamala De Pinzón"
+  },
+  {
+   "clave": 28,
+   "nombre": "Chilapa De Álvarez"
+  },
+  {
+   "clave": 29,
+   "nombre": "Chilpancingo De Los Bravo"
+  },
+  {
+   "clave": 30,
+   "nombre": "Florencio Villarreal"
+  },
+  {
+   "clave": 31,
+   "nombre": "General Canuto A. Neri"
+  },
+  {
+   "clave": 32,
+   "nombre": "General Heliodoro Castillo"
+  },
+  {
+   "clave": 33,
+   "nombre": "Huamuxtitlán"
+  },
+  {
+   "clave": 34,
+   "nombre": "Huitzuco De Los Figueroa"
+  },
+  {
+   "clave": 35,
+   "nombre": "Iguala De La Independencia"
+  },
+  {
+   "clave": 36,
+   "nombre": "Igualapa"
+  },
+  {
+   "clave": 37,
+   "nombre": "Ixcateopan De Cuauhtémoc"
+  },
+  {
+   "clave": 38,
+   "nombre": "Zihuatanejo De Azueta"
+  },
+  {
+   "clave": 39,
+   "nombre": "Juan R. Escudero"
+  },
+  {
+   "clave": 40,
+   "nombre": "Leonardo Bravo"
+  },
+  {
+   "clave": 41,
+   "nombre": "Malinaltepec"
+  },
+  {
+   "clave": 42,
+   "nombre": "Mártir De Cuilapan"
+  },
+  {
+   "clave": 43,
+   "nombre": "Metlatónoc"
+  },
+  {
+   "clave": 44,
+   "nombre": "Mochitlán"
+  },
+  {
+   "clave": 45,
+   "nombre": "Olinalá"
+  },
+  {
+   "clave": 46,
+   "nombre": "Ometepec"
+  },
+  {
+   "clave": 47,
+   "nombre": "Pedro Ascencio Alquisiras"
+  },
+  {
+   "clave": 48,
+   "nombre": "Petatlán"
+  },
+  {
+   "clave": 49,
+   "nombre": "Pilcaya"
+  },
+  {
+   "clave": 50,
+   "nombre": "Pungarabato"
+  },
+  {
+   "clave": 51,
+   "nombre": "Quechultenango"
+  },
+  {
+   "clave": 52,
+   "nombre": "San Luis Acatlán"
+  },
+  {
+   "clave": 53,
+   "nombre": "San Marcos"
+  },
+  {
+   "clave": 54,
+   "nombre": "San Miguel Totolapan"
+  },
+  {
+   "clave": 55,
+   "nombre": "Taxco De Alarcón"
+  },
+  {
+   "clave": 56,
+   "nombre": "Tecoanapa"
+  },
+  {
+   "clave": 57,
+   "nombre": "Técpan De Galeana"
+  },
+  {
+   "clave": 58,
+   "nombre": "Teloloapan"
+  },
+  {
+   "clave": 59,
+   "nombre": "Tepecoacuilco De Trujano"
+  },
+  {
+   "clave": 60,
+   "nombre": "Tetipac"
+  },
+  {
+   "clave": 61,
+   "nombre": "Tixtla De Guerrero"
+  },
+  {
+   "clave": 62,
+   "nombre": "Tlacoachistlahuaca"
+  },
+  {
+   "clave": 63,
+   "nombre": "Tlacoapa"
+  },
+  {
+   "clave": 64,
+   "nombre": "Tlalchapa"
+  },
+  {
+   "clave": 65,
+   "nombre": "Tlalixtaquilla De Maldonado"
+  },
+  {
+   "clave": 66,
+   "nombre": "Tlapa De Comonfort"
+  },
+  {
+   "clave": 67,
+   "nombre": "Tlapehuala"
+  },
+  {
+   "clave": 68,
+   "nombre": "La Unión De Isidoro Montes De Oca"
+  },
+  {
+   "clave": 69,
+   "nombre": "Xalpatláhuac"
+  },
+  {
+   "clave": 70,
+   "nombre": "Xochihuehuetlán"
+  },
+  {
+   "clave": 71,
+   "nombre": "Xochistlahuaca"
+  },
+  {
+   "clave": 72,
+   "nombre": "Zapotitlán Tablas"
+  },
+  {
+   "clave": 73,
+   "nombre": "Zirándaro"
+  },
+  {
+   "clave": 74,
+   "nombre": "Zitlala"
+  },
+  {
+   "clave": 75,
+   "nombre": "Eduardo Neri"
+  },
+  {
+   "clave": 76,
+   "nombre": "Acatepec"
+  },
+  {
+   "clave": 77,
+   "nombre": "Marquelia"
+  },
+  {
+   "clave": 78,
+   "nombre": "Cochoapa El Grande"
+  },
+  {
+   "clave": 79,
+   "nombre": "José Joaquín De Herrera"
+  },
+  {
+   "clave": 80,
+   "nombre": "Juchitán"
+  },
+  {
+   "clave": 81,
+   "nombre": "Iliatenco"
+  },
+  {
+   "clave": 82,
+   "nombre": "Las Vigas"
+  },
+  {
+   "clave": 83,
+   "nombre": "Ñuu Savi"
+  },
+  {
+   "clave": 84,
+   "nombre": "Santa Cruz Del Rincón"
+  },
+  {
+   "clave": 85,
+   "nombre": "San Nicolás"
+  }
+ ],
+ "13": [
+  {
+   "clave": 1,
+   "nombre": "Acatlán"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acaxochitlán"
+  },
+  {
+   "clave": 3,
+   "nombre": "Actopan"
+  },
+  {
+   "clave": 4,
+   "nombre": "Agua Blanca De Iturbide"
+  },
+  {
+   "clave": 5,
+   "nombre": "Ajacuba"
+  },
+  {
+   "clave": 6,
+   "nombre": "Alfajayucan"
+  },
+  {
+   "clave": 7,
+   "nombre": "Almoloya"
+  },
+  {
+   "clave": 8,
+   "nombre": "Apan"
+  },
+  {
+   "clave": 9,
+   "nombre": "El Arenal"
+  },
+  {
+   "clave": 10,
+   "nombre": "Atitalaquia"
+  },
+  {
+   "clave": 11,
+   "nombre": "Atlapexco"
+  },
+  {
+   "clave": 12,
+   "nombre": "Atotonilco El Grande"
+  },
+  {
+   "clave": 13,
+   "nombre": "Atotonilco De Tula"
+  },
+  {
+   "clave": 14,
+   "nombre": "Calnali"
+  },
+  {
+   "clave": 15,
+   "nombre": "Cardonal"
+  },
+  {
+   "clave": 16,
+   "nombre": "Cuautepec De Hinojosa"
+  },
+  {
+   "clave": 17,
+   "nombre": "Chapantongo"
+  },
+  {
+   "clave": 18,
+   "nombre": "Chapulhuacán"
+  },
+  {
+   "clave": 19,
+   "nombre": "Chilcuautla"
+  },
+  {
+   "clave": 20,
+   "nombre": "Eloxochitlán"
+  },
+  {
+   "clave": 21,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 22,
+   "nombre": "Epazoyucan"
+  },
+  {
+   "clave": 23,
+   "nombre": "Francisco I. Madero"
+  },
+  {
+   "clave": 24,
+   "nombre": "Huasca De Ocampo"
+  },
+  {
+   "clave": 25,
+   "nombre": "Huautla"
+  },
+  {
+   "clave": 26,
+   "nombre": "Huazalingo"
+  },
+  {
+   "clave": 27,
+   "nombre": "Huehuetla"
+  },
+  {
+   "clave": 28,
+   "nombre": "Huejutla De Reyes"
+  },
+  {
+   "clave": 29,
+   "nombre": "Huichapan"
+  },
+  {
+   "clave": 30,
+   "nombre": "Ixmiquilpan"
+  },
+  {
+   "clave": 31,
+   "nombre": "Jacala De Ledezma"
+  },
+  {
+   "clave": 32,
+   "nombre": "Jaltocán"
+  },
+  {
+   "clave": 33,
+   "nombre": "Juárez Hidalgo"
+  },
+  {
+   "clave": 34,
+   "nombre": "Lolotla"
+  },
+  {
+   "clave": 35,
+   "nombre": "Metepec"
+  },
+  {
+   "clave": 36,
+   "nombre": "San Agustín Metzquititlán"
+  },
+  {
+   "clave": 37,
+   "nombre": "Metztitlán"
+  },
+  {
+   "clave": 38,
+   "nombre": "Mineral Del Chico"
+  },
+  {
+   "clave": 39,
+   "nombre": "Mineral Del Monte"
+  },
+  {
+   "clave": 40,
+   "nombre": "La Misión"
+  },
+  {
+   "clave": 41,
+   "nombre": "Mixquiahuala De Juárez"
+  },
+  {
+   "clave": 42,
+   "nombre": "Molango De Escamilla"
+  },
+  {
+   "clave": 43,
+   "nombre": "Nicolás Flores"
+  },
+  {
+   "clave": 44,
+   "nombre": "Nopala De Villagrán"
+  },
+  {
+   "clave": 45,
+   "nombre": "Omitlán De Juárez"
+  },
+  {
+   "clave": 46,
+   "nombre": "San Felipe Orizatlán"
+  },
+  {
+   "clave": 47,
+   "nombre": "Pacula"
+  },
+  {
+   "clave": 48,
+   "nombre": "Pachuca De Soto"
+  },
+  {
+   "clave": 49,
+   "nombre": "Pisaflores"
+  },
+  {
+   "clave": 50,
+   "nombre": "Progreso De Obregón"
+  },
+  {
+   "clave": 51,
+   "nombre": "Mineral De La Reforma"
+  },
+  {
+   "clave": 52,
+   "nombre": "San Agustín Tlaxiaca"
+  },
+  {
+   "clave": 53,
+   "nombre": "San Bartolo Tutotepec"
+  },
+  {
+   "clave": 54,
+   "nombre": "San Salvador"
+  },
+  {
+   "clave": 55,
+   "nombre": "Santiago De Anaya"
+  },
+  {
+   "clave": 56,
+   "nombre": "Santiago Tulantepec De Lugo Guerrero"
+  },
+  {
+   "clave": 57,
+   "nombre": "Singuilucan"
+  },
+  {
+   "clave": 58,
+   "nombre": "Tasquillo"
+  },
+  {
+   "clave": 59,
+   "nombre": "Tecozautla"
+  },
+  {
+   "clave": 60,
+   "nombre": "Tenango De Doria"
+  },
+  {
+   "clave": 61,
+   "nombre": "Tepeapulco"
+  },
+  {
+   "clave": 62,
+   "nombre": "Tepehuacán De Guerrero"
+  },
+  {
+   "clave": 63,
+   "nombre": "Tepeji Del Río De Ocampo"
+  },
+  {
+   "clave": 64,
+   "nombre": "Tepetitlán"
+  },
+  {
+   "clave": 65,
+   "nombre": "Tetepango"
+  },
+  {
+   "clave": 66,
+   "nombre": "Villa De Tezontepec"
+  },
+  {
+   "clave": 67,
+   "nombre": "Tezontepec De Aldama"
+  },
+  {
+   "clave": 68,
+   "nombre": "Tianguistengo"
+  },
+  {
+   "clave": 69,
+   "nombre": "Tizayuca"
+  },
+  {
+   "clave": 70,
+   "nombre": "Tlahuelilpan"
+  },
+  {
+   "clave": 71,
+   "nombre": "Tlahuiltepa"
+  },
+  {
+   "clave": 72,
+   "nombre": "Tlanalapa"
+  },
+  {
+   "clave": 73,
+   "nombre": "Tlanchinol"
+  },
+  {
+   "clave": 74,
+   "nombre": "Tlaxcoapan"
+  },
+  {
+   "clave": 75,
+   "nombre": "Tolcayuca"
+  },
+  {
+   "clave": 76,
+   "nombre": "Tula De Allende"
+  },
+  {
+   "clave": 77,
+   "nombre": "Tulancingo De Bravo"
+  },
+  {
+   "clave": 78,
+   "nombre": "Xochiatipan"
+  },
+  {
+   "clave": 79,
+   "nombre": "Xochicoatlán"
+  },
+  {
+   "clave": 80,
+   "nombre": "Yahualica"
+  },
+  {
+   "clave": 81,
+   "nombre": "Zacualtipán De Ángeles"
+  },
+  {
+   "clave": 82,
+   "nombre": "Zapotlán De Juárez"
+  },
+  {
+   "clave": 83,
+   "nombre": "Zempoala"
+  },
+  {
+   "clave": 84,
+   "nombre": "Zimapán"
+  }
+ ],
+ "14": [
+  {
+   "clave": 1,
+   "nombre": "Acatic"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acatlán De Juárez"
+  },
+  {
+   "clave": 3,
+   "nombre": "Ahualulco De Mercado"
+  },
+  {
+   "clave": 4,
+   "nombre": "Amacueca"
+  },
+  {
+   "clave": 5,
+   "nombre": "Amatitán"
+  },
+  {
+   "clave": 6,
+   "nombre": "Ameca"
+  },
+  {
+   "clave": 7,
+   "nombre": "San Juanito De Escobedo"
+  },
+  {
+   "clave": 8,
+   "nombre": "Arandas"
+  },
+  {
+   "clave": 9,
+   "nombre": "El Arenal"
+  },
+  {
+   "clave": 10,
+   "nombre": "Atemajac De Brizuela"
+  },
+  {
+   "clave": 11,
+   "nombre": "Atengo"
+  },
+  {
+   "clave": 12,
+   "nombre": "Atenguillo"
+  },
+  {
+   "clave": 13,
+   "nombre": "Atotonilco El Alto"
+  },
+  {
+   "clave": 14,
+   "nombre": "Atoyac"
+  },
+  {
+   "clave": 15,
+   "nombre": "Autlán De Navarro"
+  },
+  {
+   "clave": 16,
+   "nombre": "Ayotlán"
+  },
+  {
+   "clave": 17,
+   "nombre": "Ayutla"
+  },
+  {
+   "clave": 18,
+   "nombre": "La Barca"
+  },
+  {
+   "clave": 19,
+   "nombre": "Bolaños"
+  },
+  {
+   "clave": 20,
+   "nombre": "Cabo Corrientes"
+  },
+  {
+   "clave": 21,
+   "nombre": "Casimiro Castillo"
+  },
+  {
+   "clave": 22,
+   "nombre": "Cihuatlán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Zapotlán El Grande"
+  },
+  {
+   "clave": 24,
+   "nombre": "Cocula"
+  },
+  {
+   "clave": 25,
+   "nombre": "Colotlán"
+  },
+  {
+   "clave": 26,
+   "nombre": "Concepción De Buenos Aires"
+  },
+  {
+   "clave": 27,
+   "nombre": "Cuautitlán De García Barragán"
+  },
+  {
+   "clave": 28,
+   "nombre": "Cuautla"
+  },
+  {
+   "clave": 29,
+   "nombre": "Cuquío"
+  },
+  {
+   "clave": 30,
+   "nombre": "Chapala"
+  },
+  {
+   "clave": 31,
+   "nombre": "Chimaltitán"
+  },
+  {
+   "clave": 32,
+   "nombre": "Chiquilistlán"
+  },
+  {
+   "clave": 33,
+   "nombre": "Degollado"
+  },
+  {
+   "clave": 34,
+   "nombre": "Ejutla"
+  },
+  {
+   "clave": 35,
+   "nombre": "Encarnación De Díaz"
+  },
+  {
+   "clave": 36,
+   "nombre": "Etzatlán"
+  },
+  {
+   "clave": 37,
+   "nombre": "El Grullo"
+  },
+  {
+   "clave": 38,
+   "nombre": "Guachinango"
+  },
+  {
+   "clave": 39,
+   "nombre": "Guadalajara"
+  },
+  {
+   "clave": 40,
+   "nombre": "Hostotipaquillo"
+  },
+  {
+   "clave": 41,
+   "nombre": "Huejúcar"
+  },
+  {
+   "clave": 42,
+   "nombre": "Huejuquilla El Alto"
+  },
+  {
+   "clave": 43,
+   "nombre": "La Huerta"
+  },
+  {
+   "clave": 44,
+   "nombre": "Ixtlahuacán De Los Membrillos"
+  },
+  {
+   "clave": 45,
+   "nombre": "Ixtlahuacán Del Río"
+  },
+  {
+   "clave": 46,
+   "nombre": "Jalostotitlán"
+  },
+  {
+   "clave": 47,
+   "nombre": "Jamay"
+  },
+  {
+   "clave": 48,
+   "nombre": "Jesús María"
+  },
+  {
+   "clave": 49,
+   "nombre": "Jilotlán De Los Dolores"
+  },
+  {
+   "clave": 50,
+   "nombre": "Jocotepec"
+  },
+  {
+   "clave": 51,
+   "nombre": "Juanacatlán"
+  },
+  {
+   "clave": 52,
+   "nombre": "Juchitlán"
+  },
+  {
+   "clave": 53,
+   "nombre": "Lagos De Moreno"
+  },
+  {
+   "clave": 54,
+   "nombre": "El Limón"
+  },
+  {
+   "clave": 55,
+   "nombre": "Magdalena"
+  },
+  {
+   "clave": 56,
+   "nombre": "Santa María Del Oro"
+  },
+  {
+   "clave": 57,
+   "nombre": "La Manzanilla De La Paz"
+  },
+  {
+   "clave": 58,
+   "nombre": "Mascota"
+  },
+  {
+   "clave": 59,
+   "nombre": "Mazamitla"
+  },
+  {
+   "clave": 60,
+   "nombre": "Mexticacán"
+  },
+  {
+   "clave": 61,
+   "nombre": "Mezquitic"
+  },
+  {
+   "clave": 62,
+   "nombre": "Mixtlán"
+  },
+  {
+   "clave": 63,
+   "nombre": "Ocotlán"
+  },
+  {
+   "clave": 64,
+   "nombre": "Ojuelos De Jalisco"
+  },
+  {
+   "clave": 65,
+   "nombre": "Pihuamo"
+  },
+  {
+   "clave": 66,
+   "nombre": "Poncitlán"
+  },
+  {
+   "clave": 67,
+   "nombre": "Puerto Vallarta"
+  },
+  {
+   "clave": 68,
+   "nombre": "Villa Purificación"
+  },
+  {
+   "clave": 69,
+   "nombre": "Quitupan"
+  },
+  {
+   "clave": 70,
+   "nombre": "El Salto"
+  },
+  {
+   "clave": 71,
+   "nombre": "San Cristóbal De La Barranca"
+  },
+  {
+   "clave": 72,
+   "nombre": "San Diego De Alejandría"
+  },
+  {
+   "clave": 73,
+   "nombre": "San Juan De Los Lagos"
+  },
+  {
+   "clave": 74,
+   "nombre": "San Julián"
+  },
+  {
+   "clave": 75,
+   "nombre": "San Marcos"
+  },
+  {
+   "clave": 76,
+   "nombre": "San Martín De Bolaños"
+  },
+  {
+   "clave": 77,
+   "nombre": "San Martín Hidalgo"
+  },
+  {
+   "clave": 78,
+   "nombre": "San Miguel El Alto"
+  },
+  {
+   "clave": 79,
+   "nombre": "Gómez Farías"
+  },
+  {
+   "clave": 80,
+   "nombre": "San Sebastián Del Oeste"
+  },
+  {
+   "clave": 81,
+   "nombre": "Santa María De Los Ángeles"
+  },
+  {
+   "clave": 82,
+   "nombre": "Sayula"
+  },
+  {
+   "clave": 83,
+   "nombre": "Tala"
+  },
+  {
+   "clave": 84,
+   "nombre": "Talpa De Allende"
+  },
+  {
+   "clave": 85,
+   "nombre": "Tamazula De Gordiano"
+  },
+  {
+   "clave": 86,
+   "nombre": "Tapalpa"
+  },
+  {
+   "clave": 87,
+   "nombre": "Tecalitlán"
+  },
+  {
+   "clave": 88,
+   "nombre": "Tecolotlán"
+  },
+  {
+   "clave": 89,
+   "nombre": "Techaluta De Montenegro"
+  },
+  {
+   "clave": 90,
+   "nombre": "Tenamaxtlán"
+  },
+  {
+   "clave": 91,
+   "nombre": "Teocaltiche"
+  },
+  {
+   "clave": 92,
+   "nombre": "Teocuitatlán De Corona"
+  },
+  {
+   "clave": 93,
+   "nombre": "Tepatitlán De Morelos"
+  },
+  {
+   "clave": 94,
+   "nombre": "Tequila"
+  },
+  {
+   "clave": 95,
+   "nombre": "Teuchitlán"
+  },
+  {
+   "clave": 96,
+   "nombre": "Tizapán El Alto"
+  },
+  {
+   "clave": 97,
+   "nombre": "Tlajomulco De Zúñiga"
+  },
+  {
+   "clave": 98,
+   "nombre": "San Pedro Tlaquepaque"
+  },
+  {
+   "clave": 99,
+   "nombre": "Tolimán"
+  },
+  {
+   "clave": 100,
+   "nombre": "Tomatlán"
+  },
+  {
+   "clave": 101,
+   "nombre": "Tonalá"
+  },
+  {
+   "clave": 102,
+   "nombre": "Tonaya"
+  },
+  {
+   "clave": 103,
+   "nombre": "Tonila"
+  },
+  {
+   "clave": 104,
+   "nombre": "Totatiche"
+  },
+  {
+   "clave": 105,
+   "nombre": "Tototlán"
+  },
+  {
+   "clave": 106,
+   "nombre": "Tuxcacuesco"
+  },
+  {
+   "clave": 107,
+   "nombre": "Tuxcueca"
+  },
+  {
+   "clave": 108,
+   "nombre": "Tuxpan"
+  },
+  {
+   "clave": 109,
+   "nombre": "Unión De San Antonio"
+  },
+  {
+   "clave": 110,
+   "nombre": "Unión De Tula"
+  },
+  {
+   "clave": 111,
+   "nombre": "Valle De Guadalupe"
+  },
+  {
+   "clave": 112,
+   "nombre": "Valle De Juárez"
+  },
+  {
+   "clave": 113,
+   "nombre": "San Gabriel"
+  },
+  {
+   "clave": 114,
+   "nombre": "Villa Corona"
+  },
+  {
+   "clave": 115,
+   "nombre": "Villa Guerrero"
+  },
+  {
+   "clave": 116,
+   "nombre": "Villa Hidalgo"
+  },
+  {
+   "clave": 117,
+   "nombre": "Cañadas De Obregón"
+  },
+  {
+   "clave": 118,
+   "nombre": "Yahualica De González Gallo"
+  },
+  {
+   "clave": 119,
+   "nombre": "Zacoalco De Torres"
+  },
+  {
+   "clave": 120,
+   "nombre": "Zapopan"
+  },
+  {
+   "clave": 121,
+   "nombre": "Zapotiltic"
+  },
+  {
+   "clave": 122,
+   "nombre": "Zapotitlán De Vadillo"
+  },
+  {
+   "clave": 123,
+   "nombre": "Zapotlán Del Rey"
+  },
+  {
+   "clave": 124,
+   "nombre": "Zapotlanejo"
+  },
+  {
+   "clave": 125,
+   "nombre": "San Ignacio Cerro Gordo"
+  }
+ ],
+ "15": [
+  {
+   "clave": 1,
+   "nombre": "Acambay De Ruíz Castañeda"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acolman"
+  },
+  {
+   "clave": 3,
+   "nombre": "Aculco"
+  },
+  {
+   "clave": 4,
+   "nombre": "Almoloya De Alquisiras"
+  },
+  {
+   "clave": 5,
+   "nombre": "Almoloya De Juárez"
+  },
+  {
+   "clave": 6,
+   "nombre": "Almoloya Del Río"
+  },
+  {
+   "clave": 7,
+   "nombre": "Amanalco"
+  },
+  {
+   "clave": 8,
+   "nombre": "Amatepec"
+  },
+  {
+   "clave": 9,
+   "nombre": "Amecameca"
+  },
+  {
+   "clave": 10,
+   "nombre": "Apaxco"
+  },
+  {
+   "clave": 11,
+   "nombre": "Atenco"
+  },
+  {
+   "clave": 12,
+   "nombre": "Atizapán"
+  },
+  {
+   "clave": 13,
+   "nombre": "Atizapán De Zaragoza"
+  },
+  {
+   "clave": 14,
+   "nombre": "Atlacomulco"
+  },
+  {
+   "clave": 15,
+   "nombre": "Atlautla"
+  },
+  {
+   "clave": 16,
+   "nombre": "Axapusco"
+  },
+  {
+   "clave": 17,
+   "nombre": "Ayapango"
+  },
+  {
+   "clave": 18,
+   "nombre": "Calimaya"
+  },
+  {
+   "clave": 19,
+   "nombre": "Capulhuac"
+  },
+  {
+   "clave": 20,
+   "nombre": "Coacalco De Berriozábal"
+  },
+  {
+   "clave": 21,
+   "nombre": "Coatepec Harinas"
+  },
+  {
+   "clave": 22,
+   "nombre": "Cocotitlán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Coyotepec"
+  },
+  {
+   "clave": 24,
+   "nombre": "Cuautitlán"
+  },
+  {
+   "clave": 25,
+   "nombre": "Chalco"
+  },
+  {
+   "clave": 26,
+   "nombre": "Chapa De Mota"
+  },
+  {
+   "clave": 27,
+   "nombre": "Chapultepec"
+  },
+  {
+   "clave": 28,
+   "nombre": "Chiautla"
+  },
+  {
+   "clave": 29,
+   "nombre": "Chicoloapan"
+  },
+  {
+   "clave": 30,
+   "nombre": "Chiconcuac"
+  },
+  {
+   "clave": 31,
+   "nombre": "Chimalhuacán"
+  },
+  {
+   "clave": 32,
+   "nombre": "Donato Guerra"
+  },
+  {
+   "clave": 33,
+   "nombre": "Ecatepec De Morelos"
+  },
+  {
+   "clave": 34,
+   "nombre": "Ecatzingo"
+  },
+  {
+   "clave": 35,
+   "nombre": "Huehuetoca"
+  },
+  {
+   "clave": 36,
+   "nombre": "Hueypoxtla"
+  },
+  {
+   "clave": 37,
+   "nombre": "Huixquilucan"
+  },
+  {
+   "clave": 38,
+   "nombre": "Isidro Fabela"
+  },
+  {
+   "clave": 39,
+   "nombre": "Ixtapaluca"
+  },
+  {
+   "clave": 40,
+   "nombre": "Ixtapan De La Sal"
+  },
+  {
+   "clave": 41,
+   "nombre": "Ixtapan Del Oro"
+  },
+  {
+   "clave": 42,
+   "nombre": "Ixtlahuaca"
+  },
+  {
+   "clave": 43,
+   "nombre": "Xalatlaco"
+  },
+  {
+   "clave": 44,
+   "nombre": "Jaltenco"
+  },
+  {
+   "clave": 45,
+   "nombre": "Jilotepec"
+  },
+  {
+   "clave": 46,
+   "nombre": "Jilotzingo"
+  },
+  {
+   "clave": 47,
+   "nombre": "Jiquipilco"
+  },
+  {
+   "clave": 48,
+   "nombre": "Jocotitlán"
+  },
+  {
+   "clave": 49,
+   "nombre": "Joquicingo"
+  },
+  {
+   "clave": 50,
+   "nombre": "Juchitepec"
+  },
+  {
+   "clave": 51,
+   "nombre": "Lerma"
+  },
+  {
+   "clave": 52,
+   "nombre": "Malinalco"
+  },
+  {
+   "clave": 53,
+   "nombre": "Melchor Ocampo"
+  },
+  {
+   "clave": 54,
+   "nombre": "Metepec"
+  },
+  {
+   "clave": 55,
+   "nombre": "Mexicaltzingo"
+  },
+  {
+   "clave": 56,
+   "nombre": "Morelos"
+  },
+  {
+   "clave": 57,
+   "nombre": "Naucalpan De Juárez"
+  },
+  {
+   "clave": 58,
+   "nombre": "Nezahualcóyotl"
+  },
+  {
+   "clave": 59,
+   "nombre": "Nextlalpan"
+  },
+  {
+   "clave": 60,
+   "nombre": "Nicolás Romero"
+  },
+  {
+   "clave": 61,
+   "nombre": "Nopaltepec"
+  },
+  {
+   "clave": 62,
+   "nombre": "Ocoyoacac"
+  },
+  {
+   "clave": 63,
+   "nombre": "Ocuilan"
+  },
+  {
+   "clave": 64,
+   "nombre": "El Oro"
+  },
+  {
+   "clave": 65,
+   "nombre": "Otumba"
+  },
+  {
+   "clave": 66,
+   "nombre": "Otzoloapan"
+  },
+  {
+   "clave": 67,
+   "nombre": "Otzolotepec"
+  },
+  {
+   "clave": 68,
+   "nombre": "Ozumba"
+  },
+  {
+   "clave": 69,
+   "nombre": "Papalotla"
+  },
+  {
+   "clave": 70,
+   "nombre": "La Paz"
+  },
+  {
+   "clave": 71,
+   "nombre": "Polotitlán"
+  },
+  {
+   "clave": 72,
+   "nombre": "Rayón"
+  },
+  {
+   "clave": 73,
+   "nombre": "San Antonio La Isla"
+  },
+  {
+   "clave": 74,
+   "nombre": "San Felipe Del Progreso"
+  },
+  {
+   "clave": 75,
+   "nombre": "San Martín De Las Pirámides"
+  },
+  {
+   "clave": 76,
+   "nombre": "San Mateo Atenco"
+  },
+  {
+   "clave": 77,
+   "nombre": "San Simón De Guerrero"
+  },
+  {
+   "clave": 78,
+   "nombre": "Santo Tomás"
+  },
+  {
+   "clave": 79,
+   "nombre": "Soyaniquilpan De Juárez"
+  },
+  {
+   "clave": 80,
+   "nombre": "Sultepec"
+  },
+  {
+   "clave": 81,
+   "nombre": "Tecámac"
+  },
+  {
+   "clave": 82,
+   "nombre": "Tejupilco"
+  },
+  {
+   "clave": 83,
+   "nombre": "Temamatla"
+  },
+  {
+   "clave": 84,
+   "nombre": "Temascalapa"
+  },
+  {
+   "clave": 85,
+   "nombre": "Temascalcingo"
+  },
+  {
+   "clave": 86,
+   "nombre": "Temascaltepec"
+  },
+  {
+   "clave": 87,
+   "nombre": "Temoaya"
+  },
+  {
+   "clave": 88,
+   "nombre": "Tenancingo"
+  },
+  {
+   "clave": 89,
+   "nombre": "Tenango Del Aire"
+  },
+  {
+   "clave": 90,
+   "nombre": "Tenango Del Valle"
+  },
+  {
+   "clave": 91,
+   "nombre": "Teoloyucan"
+  },
+  {
+   "clave": 92,
+   "nombre": "Teotihuacán"
+  },
+  {
+   "clave": 93,
+   "nombre": "Tepetlaoxtoc"
+  },
+  {
+   "clave": 94,
+   "nombre": "Tepetlixpa"
+  },
+  {
+   "clave": 95,
+   "nombre": "Tepotzotlán"
+  },
+  {
+   "clave": 96,
+   "nombre": "Tequixquiac"
+  },
+  {
+   "clave": 97,
+   "nombre": "Texcaltitlán"
+  },
+  {
+   "clave": 98,
+   "nombre": "Texcalyacac"
+  },
+  {
+   "clave": 99,
+   "nombre": "Texcoco"
+  },
+  {
+   "clave": 100,
+   "nombre": "Tezoyuca"
+  },
+  {
+   "clave": 101,
+   "nombre": "Tianguistenco"
+  },
+  {
+   "clave": 102,
+   "nombre": "Timilpan"
+  },
+  {
+   "clave": 103,
+   "nombre": "Tlalmanalco"
+  },
+  {
+   "clave": 104,
+   "nombre": "Tlalnepantla De Baz"
+  },
+  {
+   "clave": 105,
+   "nombre": "Tlatlaya"
+  },
+  {
+   "clave": 106,
+   "nombre": "Toluca"
+  },
+  {
+   "clave": 107,
+   "nombre": "Tonatico"
+  },
+  {
+   "clave": 108,
+   "nombre": "Tultepec"
+  },
+  {
+   "clave": 109,
+   "nombre": "Tultitlán"
+  },
+  {
+   "clave": 110,
+   "nombre": "Valle De Bravo"
+  },
+  {
+   "clave": 111,
+   "nombre": "Villa De Allende"
+  },
+  {
+   "clave": 112,
+   "nombre": "Villa Del Carbón"
+  },
+  {
+   "clave": 113,
+   "nombre": "Villa Guerrero"
+  },
+  {
+   "clave": 114,
+   "nombre": "Villa Victoria"
+  },
+  {
+   "clave": 115,
+   "nombre": "Xonacatlán"
+  },
+  {
+   "clave": 116,
+   "nombre": "Zacazonapan"
+  },
+  {
+   "clave": 117,
+   "nombre": "Zacualpan"
+  },
+  {
+   "clave": 118,
+   "nombre": "Zinacantepec"
+  },
+  {
+   "clave": 119,
+   "nombre": "Zumpahuacán"
+  },
+  {
+   "clave": 120,
+   "nombre": "Zumpango"
+  },
+  {
+   "clave": 121,
+   "nombre": "Cuautitlán Izcalli"
+  },
+  {
+   "clave": 122,
+   "nombre": "Valle De Chalco Solidaridad"
+  },
+  {
+   "clave": 123,
+   "nombre": "Luvianos"
+  },
+  {
+   "clave": 124,
+   "nombre": "San José Del Rincón"
+  },
+  {
+   "clave": 125,
+   "nombre": "Tonanitla"
+  }
+ ],
+ "16": [
+  {
+   "clave": 1,
+   "nombre": "Acuitzio"
+  },
+  {
+   "clave": 2,
+   "nombre": "Aguililla"
+  },
+  {
+   "clave": 3,
+   "nombre": "Álvaro Obregón"
+  },
+  {
+   "clave": 4,
+   "nombre": "Angamacutiro"
+  },
+  {
+   "clave": 5,
+   "nombre": "Angangueo"
+  },
+  {
+   "clave": 6,
+   "nombre": "Apatzingán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Aporo"
+  },
+  {
+   "clave": 8,
+   "nombre": "Aquila"
+  },
+  {
+   "clave": 9,
+   "nombre": "Ario"
+  },
+  {
+   "clave": 10,
+   "nombre": "Arteaga"
+  },
+  {
+   "clave": 11,
+   "nombre": "Briseñas"
+  },
+  {
+   "clave": 12,
+   "nombre": "Buenavista"
+  },
+  {
+   "clave": 13,
+   "nombre": "Carácuaro"
+  },
+  {
+   "clave": 14,
+   "nombre": "Coahuayana"
+  },
+  {
+   "clave": 15,
+   "nombre": "Coalcomán De Vázquez Pallares"
+  },
+  {
+   "clave": 16,
+   "nombre": "Coeneo"
+  },
+  {
+   "clave": 17,
+   "nombre": "Contepec"
+  },
+  {
+   "clave": 18,
+   "nombre": "Copándaro"
+  },
+  {
+   "clave": 19,
+   "nombre": "Cotija"
+  },
+  {
+   "clave": 20,
+   "nombre": "Cuitzeo"
+  },
+  {
+   "clave": 21,
+   "nombre": "Charapan"
+  },
+  {
+   "clave": 22,
+   "nombre": "Charo"
+  },
+  {
+   "clave": 23,
+   "nombre": "Chavinda"
+  },
+  {
+   "clave": 24,
+   "nombre": "Cherán"
+  },
+  {
+   "clave": 25,
+   "nombre": "Chilchota"
+  },
+  {
+   "clave": 26,
+   "nombre": "Chinicuila"
+  },
+  {
+   "clave": 27,
+   "nombre": "Chucándiro"
+  },
+  {
+   "clave": 28,
+   "nombre": "Churintzio"
+  },
+  {
+   "clave": 29,
+   "nombre": "Churumuco"
+  },
+  {
+   "clave": 30,
+   "nombre": "Ecuandureo"
+  },
+  {
+   "clave": 31,
+   "nombre": "Epitacio Huerta"
+  },
+  {
+   "clave": 32,
+   "nombre": "Erongarícuaro"
+  },
+  {
+   "clave": 33,
+   "nombre": "Gabriel Zamora"
+  },
+  {
+   "clave": 34,
+   "nombre": "Hidalgo"
+  },
+  {
+   "clave": 35,
+   "nombre": "La Huacana"
+  },
+  {
+   "clave": 36,
+   "nombre": "Huandacareo"
+  },
+  {
+   "clave": 37,
+   "nombre": "Huaniqueo"
+  },
+  {
+   "clave": 38,
+   "nombre": "Huetamo"
+  },
+  {
+   "clave": 39,
+   "nombre": "Huiramba"
+  },
+  {
+   "clave": 40,
+   "nombre": "Indaparapeo"
+  },
+  {
+   "clave": 41,
+   "nombre": "Irimbo"
+  },
+  {
+   "clave": 42,
+   "nombre": "Ixtlán"
+  },
+  {
+   "clave": 43,
+   "nombre": "Jacona"
+  },
+  {
+   "clave": 44,
+   "nombre": "Jiménez"
+  },
+  {
+   "clave": 45,
+   "nombre": "Jiquilpan"
+  },
+  {
+   "clave": 46,
+   "nombre": "Juárez"
+  },
+  {
+   "clave": 47,
+   "nombre": "Jungapeo"
+  },
+  {
+   "clave": 48,
+   "nombre": "Lagunillas"
+  },
+  {
+   "clave": 49,
+   "nombre": "Madero"
+  },
+  {
+   "clave": 50,
+   "nombre": "Maravatío"
+  },
+  {
+   "clave": 51,
+   "nombre": "Marcos Castellanos"
+  },
+  {
+   "clave": 52,
+   "nombre": "Lázaro Cárdenas"
+  },
+  {
+   "clave": 53,
+   "nombre": "Morelia"
+  },
+  {
+   "clave": 54,
+   "nombre": "Morelos"
+  },
+  {
+   "clave": 55,
+   "nombre": "Múgica"
+  },
+  {
+   "clave": 56,
+   "nombre": "Nahuatzen"
+  },
+  {
+   "clave": 57,
+   "nombre": "Nocupétaro"
+  },
+  {
+   "clave": 58,
+   "nombre": "Nuevo Parangaricutiro"
+  },
+  {
+   "clave": 59,
+   "nombre": "Nuevo Urecho"
+  },
+  {
+   "clave": 60,
+   "nombre": "Numarán"
+  },
+  {
+   "clave": 61,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 62,
+   "nombre": "Pajacuarán"
+  },
+  {
+   "clave": 63,
+   "nombre": "Panindícuaro"
+  },
+  {
+   "clave": 64,
+   "nombre": "Parácuaro"
+  },
+  {
+   "clave": 65,
+   "nombre": "Paracho"
+  },
+  {
+   "clave": 66,
+   "nombre": "Pátzcuaro"
+  },
+  {
+   "clave": 67,
+   "nombre": "Penjamillo"
+  },
+  {
+   "clave": 68,
+   "nombre": "Peribán"
+  },
+  {
+   "clave": 69,
+   "nombre": "La Piedad"
+  },
+  {
+   "clave": 70,
+   "nombre": "Purépero"
+  },
+  {
+   "clave": 71,
+   "nombre": "Puruándiro"
+  },
+  {
+   "clave": 72,
+   "nombre": "Queréndaro"
+  },
+  {
+   "clave": 73,
+   "nombre": "Quiroga"
+  },
+  {
+   "clave": 74,
+   "nombre": "Cojumatlán De Régules"
+  },
+  {
+   "clave": 75,
+   "nombre": "Los Reyes"
+  },
+  {
+   "clave": 76,
+   "nombre": "Sahuayo"
+  },
+  {
+   "clave": 77,
+   "nombre": "San Lucas"
+  },
+  {
+   "clave": 78,
+   "nombre": "Santa Ana Maya"
+  },
+  {
+   "clave": 79,
+   "nombre": "Salvador Escalante"
+  },
+  {
+   "clave": 80,
+   "nombre": "Senguio"
+  },
+  {
+   "clave": 81,
+   "nombre": "Susupuato"
+  },
+  {
+   "clave": 82,
+   "nombre": "Tacámbaro"
+  },
+  {
+   "clave": 83,
+   "nombre": "Tancítaro"
+  },
+  {
+   "clave": 84,
+   "nombre": "Tangamandapio"
+  },
+  {
+   "clave": 85,
+   "nombre": "Tangancícuaro"
+  },
+  {
+   "clave": 86,
+   "nombre": "Tanhuato"
+  },
+  {
+   "clave": 87,
+   "nombre": "Taretan"
+  },
+  {
+   "clave": 88,
+   "nombre": "Tarímbaro"
+  },
+  {
+   "clave": 89,
+   "nombre": "Tepalcatepec"
+  },
+  {
+   "clave": 90,
+   "nombre": "Tingambato"
+  },
+  {
+   "clave": 91,
+   "nombre": "Tingüindín"
+  },
+  {
+   "clave": 92,
+   "nombre": "Tiquicheo De Nicolás Romero"
+  },
+  {
+   "clave": 93,
+   "nombre": "Tlalpujahua"
+  },
+  {
+   "clave": 94,
+   "nombre": "Tlazazalca"
+  },
+  {
+   "clave": 95,
+   "nombre": "Tocumbo"
+  },
+  {
+   "clave": 96,
+   "nombre": "Tumbiscatío"
+  },
+  {
+   "clave": 97,
+   "nombre": "Turicato"
+  },
+  {
+   "clave": 98,
+   "nombre": "Tuxpan"
+  },
+  {
+   "clave": 99,
+   "nombre": "Tuzantla"
+  },
+  {
+   "clave": 100,
+   "nombre": "Tzintzuntzan"
+  },
+  {
+   "clave": 101,
+   "nombre": "Tzitzio"
+  },
+  {
+   "clave": 102,
+   "nombre": "Uruapan"
+  },
+  {
+   "clave": 103,
+   "nombre": "Venustiano Carranza"
+  },
+  {
+   "clave": 104,
+   "nombre": "Villamar"
+  },
+  {
+   "clave": 105,
+   "nombre": "Vista Hermosa"
+  },
+  {
+   "clave": 106,
+   "nombre": "Yurécuaro"
+  },
+  {
+   "clave": 107,
+   "nombre": "Zacapu"
+  },
+  {
+   "clave": 108,
+   "nombre": "Zamora"
+  },
+  {
+   "clave": 109,
+   "nombre": "Zináparo"
+  },
+  {
+   "clave": 110,
+   "nombre": "Zinapécuaro"
+  },
+  {
+   "clave": 111,
+   "nombre": "Ziracuaretiro"
+  },
+  {
+   "clave": 112,
+   "nombre": "Zitácuaro"
+  },
+  {
+   "clave": 113,
+   "nombre": "José Sixto Verduzco"
+  }
+ ],
+ "17": [
+  {
+   "clave": 1,
+   "nombre": "Amacuzac"
+  },
+  {
+   "clave": 2,
+   "nombre": "Atlatlahucan"
+  },
+  {
+   "clave": 3,
+   "nombre": "Axochiapan"
+  },
+  {
+   "clave": 4,
+   "nombre": "Ayala"
+  },
+  {
+   "clave": 5,
+   "nombre": "Coatlán Del Río"
+  },
+  {
+   "clave": 6,
+   "nombre": "Cuautla"
+  },
+  {
+   "clave": 7,
+   "nombre": "Cuernavaca"
+  },
+  {
+   "clave": 8,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 9,
+   "nombre": "Huitzilac"
+  },
+  {
+   "clave": 10,
+   "nombre": "Jantetelco"
+  },
+  {
+   "clave": 11,
+   "nombre": "Jiutepec"
+  },
+  {
+   "clave": 12,
+   "nombre": "Jojutla"
+  },
+  {
+   "clave": 13,
+   "nombre": "Jonacatepec De Leandro Valle"
+  },
+  {
+   "clave": 14,
+   "nombre": "Mazatepec"
+  },
+  {
+   "clave": 15,
+   "nombre": "Miacatlán"
+  },
+  {
+   "clave": 16,
+   "nombre": "Ocuituco"
+  },
+  {
+   "clave": 17,
+   "nombre": "Puente De Ixtla"
+  },
+  {
+   "clave": 18,
+   "nombre": "Temixco"
+  },
+  {
+   "clave": 19,
+   "nombre": "Tepalcingo"
+  },
+  {
+   "clave": 20,
+   "nombre": "Tepoztlán"
+  },
+  {
+   "clave": 21,
+   "nombre": "Tetecala"
+  },
+  {
+   "clave": 22,
+   "nombre": "Tetela Del Volcán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Tlalnepantla"
+  },
+  {
+   "clave": 24,
+   "nombre": "Tlaltizapán De Zapata"
+  },
+  {
+   "clave": 25,
+   "nombre": "Tlaquiltenango"
+  },
+  {
+   "clave": 26,
+   "nombre": "Tlayacapan"
+  },
+  {
+   "clave": 27,
+   "nombre": "Totolapan"
+  },
+  {
+   "clave": 28,
+   "nombre": "Xochitepec"
+  },
+  {
+   "clave": 29,
+   "nombre": "Yautepec"
+  },
+  {
+   "clave": 30,
+   "nombre": "Yecapixtla"
+  },
+  {
+   "clave": 31,
+   "nombre": "Zacatepec"
+  },
+  {
+   "clave": 32,
+   "nombre": "Zacualpan De Amilpas"
+  },
+  {
+   "clave": 33,
+   "nombre": "Temoac"
+  },
+  {
+   "clave": 34,
+   "nombre": "Coatetelco"
+  },
+  {
+   "clave": 35,
+   "nombre": "Xoxocotla"
+  },
+  {
+   "clave": 36,
+   "nombre": "Hueyapan"
+  }
+ ],
+ "18": [
+  {
+   "clave": 1,
+   "nombre": "Acaponeta"
+  },
+  {
+   "clave": 2,
+   "nombre": "Ahuacatlán"
+  },
+  {
+   "clave": 3,
+   "nombre": "Amatlán De Cañas"
+  },
+  {
+   "clave": 4,
+   "nombre": "Compostela"
+  },
+  {
+   "clave": 5,
+   "nombre": "Huajicori"
+  },
+  {
+   "clave": 6,
+   "nombre": "Ixtlán Del Río"
+  },
+  {
+   "clave": 7,
+   "nombre": "Jala"
+  },
+  {
+   "clave": 8,
+   "nombre": "Xalisco"
+  },
+  {
+   "clave": 9,
+   "nombre": "Del Nayar"
+  },
+  {
+   "clave": 10,
+   "nombre": "Rosamorada"
+  },
+  {
+   "clave": 11,
+   "nombre": "Ruiz"
+  },
+  {
+   "clave": 12,
+   "nombre": "San Blas"
+  },
+  {
+   "clave": 13,
+   "nombre": "San Pedro Lagunillas"
+  },
+  {
+   "clave": 14,
+   "nombre": "Santa María Del Oro"
+  },
+  {
+   "clave": 15,
+   "nombre": "Santiago Ixcuintla"
+  },
+  {
+   "clave": 16,
+   "nombre": "Tecuala"
+  },
+  {
+   "clave": 17,
+   "nombre": "Tepic"
+  },
+  {
+   "clave": 18,
+   "nombre": "Tuxpan"
+  },
+  {
+   "clave": 19,
+   "nombre": "La Yesca"
+  },
+  {
+   "clave": 20,
+   "nombre": "Bahía De Banderas"
+  }
+ ],
+ "19": [
+  {
+   "clave": 1,
+   "nombre": "Abasolo"
+  },
+  {
+   "clave": 2,
+   "nombre": "Agualeguas"
+  },
+  {
+   "clave": 3,
+   "nombre": "Los Aldamas"
+  },
+  {
+   "clave": 4,
+   "nombre": "Allende"
+  },
+  {
+   "clave": 5,
+   "nombre": "Anáhuac"
+  },
+  {
+   "clave": 6,
+   "nombre": "Apodaca"
+  },
+  {
+   "clave": 7,
+   "nombre": "Aramberri"
+  },
+  {
+   "clave": 8,
+   "nombre": "Bustamante"
+  },
+  {
+   "clave": 9,
+   "nombre": "Cadereyta Jiménez"
+  },
+  {
+   "clave": 10,
+   "nombre": "El Carmen"
+  },
+  {
+   "clave": 11,
+   "nombre": "Cerralvo"
+  },
+  {
+   "clave": 12,
+   "nombre": "Ciénega De Flores"
+  },
+  {
+   "clave": 13,
+   "nombre": "China"
+  },
+  {
+   "clave": 14,
+   "nombre": "Doctor Arroyo"
+  },
+  {
+   "clave": 15,
+   "nombre": "Doctor Coss"
+  },
+  {
+   "clave": 16,
+   "nombre": "Doctor González"
+  },
+  {
+   "clave": 17,
+   "nombre": "Galeana"
+  },
+  {
+   "clave": 18,
+   "nombre": "García"
+  },
+  {
+   "clave": 19,
+   "nombre": "San Pedro Garza García"
+  },
+  {
+   "clave": 20,
+   "nombre": "General Bravo"
+  },
+  {
+   "clave": 21,
+   "nombre": "General Escobedo"
+  },
+  {
+   "clave": 22,
+   "nombre": "General Terán"
+  },
+  {
+   "clave": 23,
+   "nombre": "General Treviño"
+  },
+  {
+   "clave": 24,
+   "nombre": "General Zaragoza"
+  },
+  {
+   "clave": 25,
+   "nombre": "General Zuazua"
+  },
+  {
+   "clave": 26,
+   "nombre": "Guadalupe"
+  },
+  {
+   "clave": 27,
+   "nombre": "Los Herreras"
+  },
+  {
+   "clave": 28,
+   "nombre": "Higueras"
+  },
+  {
+   "clave": 29,
+   "nombre": "Hualahuises"
+  },
+  {
+   "clave": 30,
+   "nombre": "Iturbide"
+  },
+  {
+   "clave": 31,
+   "nombre": "Juárez"
+  },
+  {
+   "clave": 32,
+   "nombre": "Lampazos De Naranjo"
+  },
+  {
+   "clave": 33,
+   "nombre": "Linares"
+  },
+  {
+   "clave": 34,
+   "nombre": "Marín"
+  },
+  {
+   "clave": 35,
+   "nombre": "Melchor Ocampo"
+  },
+  {
+   "clave": 36,
+   "nombre": "Mier Y Noriega"
+  },
+  {
+   "clave": 37,
+   "nombre": "Mina"
+  },
+  {
+   "clave": 38,
+   "nombre": "Montemorelos"
+  },
+  {
+   "clave": 39,
+   "nombre": "Monterrey"
+  },
+  {
+   "clave": 40,
+   "nombre": "Parás"
+  },
+  {
+   "clave": 41,
+   "nombre": "Pesquería"
+  },
+  {
+   "clave": 42,
+   "nombre": "Los Ramones"
+  },
+  {
+   "clave": 43,
+   "nombre": "Rayones"
+  },
+  {
+   "clave": 44,
+   "nombre": "Sabinas Hidalgo"
+  },
+  {
+   "clave": 45,
+   "nombre": "Salinas Victoria"
+  },
+  {
+   "clave": 46,
+   "nombre": "San Nicolás De Los Garza"
+  },
+  {
+   "clave": 47,
+   "nombre": "Hidalgo"
+  },
+  {
+   "clave": 48,
+   "nombre": "Santa Catarina"
+  },
+  {
+   "clave": 49,
+   "nombre": "Santiago"
+  },
+  {
+   "clave": 50,
+   "nombre": "Vallecillo"
+  },
+  {
+   "clave": 51,
+   "nombre": "Villaldama"
+  }
+ ],
+ "20": [
+  {
+   "clave": 1,
+   "nombre": "Abejones"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acatlán De Pérez Figueroa"
+  },
+  {
+   "clave": 3,
+   "nombre": "Asunción Cacalotepec"
+  },
+  {
+   "clave": 4,
+   "nombre": "Asunción Cuyotepeji"
+  },
+  {
+   "clave": 5,
+   "nombre": "Asunción Ixtaltepec"
+  },
+  {
+   "clave": 6,
+   "nombre": "Asunción Nochixtlán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Asunción Ocotlán"
+  },
+  {
+   "clave": 8,
+   "nombre": "Asunción Tlacolulita"
+  },
+  {
+   "clave": 9,
+   "nombre": "Ayotzintepec"
+  },
+  {
+   "clave": 10,
+   "nombre": "El Barrio De La Soledad"
+  },
+  {
+   "clave": 11,
+   "nombre": "Calihualá"
+  },
+  {
+   "clave": 12,
+   "nombre": "Candelaria Loxicha"
+  },
+  {
+   "clave": 13,
+   "nombre": "Ciénega De Zimatlán"
+  },
+  {
+   "clave": 14,
+   "nombre": "Ciudad Ixtepec"
+  },
+  {
+   "clave": 15,
+   "nombre": "Coatecas Altas"
+  },
+  {
+   "clave": 16,
+   "nombre": "Coicoyán De Las Flores"
+  },
+  {
+   "clave": 17,
+   "nombre": "La Compañía"
+  },
+  {
+   "clave": 18,
+   "nombre": "Concepción Buenavista"
+  },
+  {
+   "clave": 19,
+   "nombre": "Concepción Pápalo"
+  },
+  {
+   "clave": 20,
+   "nombre": "Constancia Del Rosario"
+  },
+  {
+   "clave": 21,
+   "nombre": "Cosolapa"
+  },
+  {
+   "clave": 22,
+   "nombre": "Cosoltepec"
+  },
+  {
+   "clave": 23,
+   "nombre": "Cuilápam De Guerrero"
+  },
+  {
+   "clave": 24,
+   "nombre": "Cuyamecalco Villa De Zaragoza"
+  },
+  {
+   "clave": 25,
+   "nombre": "Chahuites"
+  },
+  {
+   "clave": 26,
+   "nombre": "Chalcatongo De Hidalgo"
+  },
+  {
+   "clave": 27,
+   "nombre": "Chiquihuitlán De Benito Juárez"
+  },
+  {
+   "clave": 28,
+   "nombre": "Heroica Ciudad De Ejutla De Crespo"
+  },
+  {
+   "clave": 29,
+   "nombre": "Eloxochitlán De Flores Magón"
+  },
+  {
+   "clave": 30,
+   "nombre": "El Espinal"
+  },
+  {
+   "clave": 31,
+   "nombre": "Tamazulápam Del Espíritu Santo"
+  },
+  {
+   "clave": 32,
+   "nombre": "Fresnillo De Trujano"
+  },
+  {
+   "clave": 33,
+   "nombre": "Guadalupe Etla"
+  },
+  {
+   "clave": 34,
+   "nombre": "Guadalupe De Ramírez"
+  },
+  {
+   "clave": 35,
+   "nombre": "Guelatao De Juárez"
+  },
+  {
+   "clave": 36,
+   "nombre": "Guevea De Humboldt"
+  },
+  {
+   "clave": 37,
+   "nombre": "Mesones Hidalgo"
+  },
+  {
+   "clave": 38,
+   "nombre": "Villa Hidalgo Yalálag"
+  },
+  {
+   "clave": 39,
+   "nombre": "Heroica Ciudad De Huajuapan De León"
+  },
+  {
+   "clave": 40,
+   "nombre": "Huautepec"
+  },
+  {
+   "clave": 41,
+   "nombre": "Huautla De Jiménez"
+  },
+  {
+   "clave": 42,
+   "nombre": "Ixtlán De Juárez"
+  },
+  {
+   "clave": 43,
+   "nombre": "Heroica Ciudad De Juchitán De Zaragoza"
+  },
+  {
+   "clave": 44,
+   "nombre": "Loma Bonita"
+  },
+  {
+   "clave": 45,
+   "nombre": "Magdalena Apazco"
+  },
+  {
+   "clave": 46,
+   "nombre": "Magdalena Jaltepec"
+  },
+  {
+   "clave": 47,
+   "nombre": "Santa Magdalena Jicotlán"
+  },
+  {
+   "clave": 48,
+   "nombre": "Magdalena Mixtepec"
+  },
+  {
+   "clave": 49,
+   "nombre": "Magdalena Ocotlán"
+  },
+  {
+   "clave": 50,
+   "nombre": "Magdalena Peñasco"
+  },
+  {
+   "clave": 51,
+   "nombre": "Magdalena Teitipac"
+  },
+  {
+   "clave": 52,
+   "nombre": "Magdalena Tequisistlán"
+  },
+  {
+   "clave": 53,
+   "nombre": "Magdalena Tlacotepec"
+  },
+  {
+   "clave": 54,
+   "nombre": "Magdalena Zahuatlán"
+  },
+  {
+   "clave": 55,
+   "nombre": "Mariscala De Juárez"
+  },
+  {
+   "clave": 56,
+   "nombre": "Mártires De Tacubaya"
+  },
+  {
+   "clave": 57,
+   "nombre": "Matías Romero Avendaño"
+  },
+  {
+   "clave": 58,
+   "nombre": "Mazatlán Villa De Flores"
+  },
+  {
+   "clave": 59,
+   "nombre": "Heroica Ciudad De Miahuatlán De Porfirio Díaz"
+  },
+  {
+   "clave": 60,
+   "nombre": "Mixistlán De La Reforma"
+  },
+  {
+   "clave": 61,
+   "nombre": "Monjas"
+  },
+  {
+   "clave": 62,
+   "nombre": "Natividad"
+  },
+  {
+   "clave": 63,
+   "nombre": "Nazareno Etla"
+  },
+  {
+   "clave": 64,
+   "nombre": "Nejapa De Madero"
+  },
+  {
+   "clave": 65,
+   "nombre": "Ixpantepec Nieves"
+  },
+  {
+   "clave": 66,
+   "nombre": "Santiago Niltepec"
+  },
+  {
+   "clave": 67,
+   "nombre": "Oaxaca De Juárez"
+  },
+  {
+   "clave": 68,
+   "nombre": "Ocotlán De Morelos"
+  },
+  {
+   "clave": 69,
+   "nombre": "La Pe"
+  },
+  {
+   "clave": 70,
+   "nombre": "Pinotepa De Don Luis"
+  },
+  {
+   "clave": 71,
+   "nombre": "Pluma Hidalgo"
+  },
+  {
+   "clave": 72,
+   "nombre": "San José Del Progreso"
+  },
+  {
+   "clave": 73,
+   "nombre": "Putla Villa De Guerrero"
+  },
+  {
+   "clave": 74,
+   "nombre": "Santa Catarina Quioquitani"
+  },
+  {
+   "clave": 75,
+   "nombre": "Reforma De Pineda"
+  },
+  {
+   "clave": 76,
+   "nombre": "La Reforma"
+  },
+  {
+   "clave": 77,
+   "nombre": "Reyes Etla"
+  },
+  {
+   "clave": 78,
+   "nombre": "Rojas De Cuauhtémoc"
+  },
+  {
+   "clave": 79,
+   "nombre": "Salina Cruz"
+  },
+  {
+   "clave": 80,
+   "nombre": "San Agustín Amatengo"
+  },
+  {
+   "clave": 81,
+   "nombre": "San Agustín Atenango"
+  },
+  {
+   "clave": 82,
+   "nombre": "San Agustín Chayuco"
+  },
+  {
+   "clave": 83,
+   "nombre": "San Agustín De Las Juntas"
+  },
+  {
+   "clave": 84,
+   "nombre": "San Agustín Etla"
+  },
+  {
+   "clave": 85,
+   "nombre": "San Agustín Loxicha"
+  },
+  {
+   "clave": 86,
+   "nombre": "San Agustín Tlacotepec"
+  },
+  {
+   "clave": 87,
+   "nombre": "San Agustín Yatareni"
+  },
+  {
+   "clave": 88,
+   "nombre": "San Andrés Cabecera Nueva"
+  },
+  {
+   "clave": 89,
+   "nombre": "San Andrés Dinicuiti"
+  },
+  {
+   "clave": 90,
+   "nombre": "San Andrés Huaxpaltepec"
+  },
+  {
+   "clave": 91,
+   "nombre": "San Andrés Huayápam"
+  },
+  {
+   "clave": 92,
+   "nombre": "San Andrés Ixtlahuaca"
+  },
+  {
+   "clave": 93,
+   "nombre": "San Andrés Lagunas"
+  },
+  {
+   "clave": 94,
+   "nombre": "San Andrés Nuxiño"
+  },
+  {
+   "clave": 95,
+   "nombre": "San Andrés Paxtlán"
+  },
+  {
+   "clave": 96,
+   "nombre": "San Andrés Sinaxtla"
+  },
+  {
+   "clave": 97,
+   "nombre": "San Andrés Solaga"
+  },
+  {
+   "clave": 98,
+   "nombre": "San Andrés Teotilálpam"
+  },
+  {
+   "clave": 99,
+   "nombre": "San Andrés Tepetlapa"
+  },
+  {
+   "clave": 100,
+   "nombre": "San Andrés Yaá"
+  },
+  {
+   "clave": 101,
+   "nombre": "San Andrés Zabache"
+  },
+  {
+   "clave": 102,
+   "nombre": "San Andrés Zautla"
+  },
+  {
+   "clave": 103,
+   "nombre": "San Antonino Castillo Velasco"
+  },
+  {
+   "clave": 104,
+   "nombre": "San Antonino El Alto"
+  },
+  {
+   "clave": 105,
+   "nombre": "San Antonino Monte Verde"
+  },
+  {
+   "clave": 106,
+   "nombre": "San Antonio Acutla"
+  },
+  {
+   "clave": 107,
+   "nombre": "San Antonio De La Cal"
+  },
+  {
+   "clave": 108,
+   "nombre": "San Antonio Huitepec"
+  },
+  {
+   "clave": 109,
+   "nombre": "San Antonio Nanahuatípam"
+  },
+  {
+   "clave": 110,
+   "nombre": "San Antonio Sinicahua"
+  },
+  {
+   "clave": 111,
+   "nombre": "San Antonio Tepetlapa"
+  },
+  {
+   "clave": 112,
+   "nombre": "San Baltazar Chichicápam"
+  },
+  {
+   "clave": 113,
+   "nombre": "San Baltazar Loxicha"
+  },
+  {
+   "clave": 114,
+   "nombre": "San Baltazar Yatzachi El Bajo"
+  },
+  {
+   "clave": 115,
+   "nombre": "San Bartolo Coyotepec"
+  },
+  {
+   "clave": 116,
+   "nombre": "San Bartolomé Ayautla"
+  },
+  {
+   "clave": 117,
+   "nombre": "San Bartolomé Loxicha"
+  },
+  {
+   "clave": 118,
+   "nombre": "San Bartolomé Quialana"
+  },
+  {
+   "clave": 119,
+   "nombre": "San Bartolomé Yucuañe"
+  },
+  {
+   "clave": 120,
+   "nombre": "San Bartolomé Zoogocho"
+  },
+  {
+   "clave": 121,
+   "nombre": "San Bartolo Soyaltepec"
+  },
+  {
+   "clave": 122,
+   "nombre": "San Bartolo Yautepec"
+  },
+  {
+   "clave": 123,
+   "nombre": "San Bernardo Mixtepec"
+  },
+  {
+   "clave": 124,
+   "nombre": "Heroica Villa De San Blas Atempa"
+  },
+  {
+   "clave": 125,
+   "nombre": "San Carlos Yautepec"
+  },
+  {
+   "clave": 126,
+   "nombre": "San Cristóbal Amatlán"
+  },
+  {
+   "clave": 127,
+   "nombre": "San Cristóbal Amoltepec"
+  },
+  {
+   "clave": 128,
+   "nombre": "San Cristóbal Lachirioag"
+  },
+  {
+   "clave": 129,
+   "nombre": "San Cristóbal Suchixtlahuaca"
+  },
+  {
+   "clave": 130,
+   "nombre": "San Dionisio Del Mar"
+  },
+  {
+   "clave": 131,
+   "nombre": "San Dionisio Ocotepec"
+  },
+  {
+   "clave": 132,
+   "nombre": "San Dionisio Ocotlán"
+  },
+  {
+   "clave": 133,
+   "nombre": "San Esteban Atatlahuca"
+  },
+  {
+   "clave": 134,
+   "nombre": "San Felipe Jalapa De Díaz"
+  },
+  {
+   "clave": 135,
+   "nombre": "San Felipe Tejalápam"
+  },
+  {
+   "clave": 136,
+   "nombre": "San Felipe Usila"
+  },
+  {
+   "clave": 137,
+   "nombre": "San Francisco Cahuacuá"
+  },
+  {
+   "clave": 138,
+   "nombre": "San Francisco Cajonos"
+  },
+  {
+   "clave": 139,
+   "nombre": "San Francisco Chapulapa"
+  },
+  {
+   "clave": 140,
+   "nombre": "San Francisco Chindúa"
+  },
+  {
+   "clave": 141,
+   "nombre": "San Francisco Del Mar"
+  },
+  {
+   "clave": 142,
+   "nombre": "San Francisco Huehuetlán"
+  },
+  {
+   "clave": 143,
+   "nombre": "San Francisco Ixhuatán"
+  },
+  {
+   "clave": 144,
+   "nombre": "San Francisco Jaltepetongo"
+  },
+  {
+   "clave": 145,
+   "nombre": "San Francisco Lachigoló"
+  },
+  {
+   "clave": 146,
+   "nombre": "San Francisco Logueche"
+  },
+  {
+   "clave": 147,
+   "nombre": "San Francisco Nuxaño"
+  },
+  {
+   "clave": 148,
+   "nombre": "San Francisco Ozolotepec"
+  },
+  {
+   "clave": 149,
+   "nombre": "San Francisco Sola"
+  },
+  {
+   "clave": 150,
+   "nombre": "San Francisco Telixtlahuaca"
+  },
+  {
+   "clave": 151,
+   "nombre": "San Francisco Teopan"
+  },
+  {
+   "clave": 152,
+   "nombre": "San Francisco Tlapancingo"
+  },
+  {
+   "clave": 153,
+   "nombre": "San Gabriel Mixtepec"
+  },
+  {
+   "clave": 154,
+   "nombre": "San Ildefonso Amatlán"
+  },
+  {
+   "clave": 155,
+   "nombre": "San Ildefonso Sola"
+  },
+  {
+   "clave": 156,
+   "nombre": "San Ildefonso Villa Alta"
+  },
+  {
+   "clave": 157,
+   "nombre": "San Jacinto Amilpas"
+  },
+  {
+   "clave": 158,
+   "nombre": "San Jacinto Tlacotepec"
+  },
+  {
+   "clave": 159,
+   "nombre": "San Jerónimo Coatlán"
+  },
+  {
+   "clave": 160,
+   "nombre": "San Jerónimo Silacayoapilla"
+  },
+  {
+   "clave": 161,
+   "nombre": "San Jerónimo Sosola"
+  },
+  {
+   "clave": 162,
+   "nombre": "San Jerónimo Taviche"
+  },
+  {
+   "clave": 163,
+   "nombre": "San Jerónimo Tecóatl"
+  },
+  {
+   "clave": 164,
+   "nombre": "San Jorge Nuchita"
+  },
+  {
+   "clave": 165,
+   "nombre": "San José Ayuquila"
+  },
+  {
+   "clave": 166,
+   "nombre": "San José Chiltepec"
+  },
+  {
+   "clave": 167,
+   "nombre": "San José Del Peñasco"
+  },
+  {
+   "clave": 168,
+   "nombre": "San José Estancia Grande"
+  },
+  {
+   "clave": 169,
+   "nombre": "San José Independencia"
+  },
+  {
+   "clave": 170,
+   "nombre": "San José Lachiguiri"
+  },
+  {
+   "clave": 171,
+   "nombre": "San José Tenango"
+  },
+  {
+   "clave": 172,
+   "nombre": "San Juan Achiutla"
+  },
+  {
+   "clave": 173,
+   "nombre": "San Juan Atepec"
+  },
+  {
+   "clave": 174,
+   "nombre": "Ánimas Trujano"
+  },
+  {
+   "clave": 175,
+   "nombre": "San Juan Bautista Atatlahuca"
+  },
+  {
+   "clave": 176,
+   "nombre": "San Juan Bautista Coixtlahuaca"
+  },
+  {
+   "clave": 177,
+   "nombre": "San Juan Bautista Cuicatlán"
+  },
+  {
+   "clave": 178,
+   "nombre": "San Juan Bautista Guelache"
+  },
+  {
+   "clave": 179,
+   "nombre": "San Juan Bautista Jayacatlán"
+  },
+  {
+   "clave": 180,
+   "nombre": "San Juan Bautista Lo De Soto"
+  },
+  {
+   "clave": 181,
+   "nombre": "San Juan Bautista Suchitepec"
+  },
+  {
+   "clave": 182,
+   "nombre": "San Juan Bautista Tlacoatzintepec"
+  },
+  {
+   "clave": 183,
+   "nombre": "San Juan Bautista Tlachichilco"
+  },
+  {
+   "clave": 184,
+   "nombre": "San Juan Bautista Tuxtepec"
+  },
+  {
+   "clave": 185,
+   "nombre": "San Juan Cacahuatepec"
+  },
+  {
+   "clave": 186,
+   "nombre": "San Juan Cieneguilla"
+  },
+  {
+   "clave": 187,
+   "nombre": "San Juan Coatzóspam"
+  },
+  {
+   "clave": 188,
+   "nombre": "San Juan Colorado"
+  },
+  {
+   "clave": 189,
+   "nombre": "San Juan Comaltepec"
+  },
+  {
+   "clave": 190,
+   "nombre": "San Juan Cotzocón"
+  },
+  {
+   "clave": 191,
+   "nombre": "San Juan Chicomezúchil"
+  },
+  {
+   "clave": 192,
+   "nombre": "San Juan Chilateca"
+  },
+  {
+   "clave": 193,
+   "nombre": "San Juan Del Estado"
+  },
+  {
+   "clave": 194,
+   "nombre": "San Juan Del Río"
+  },
+  {
+   "clave": 195,
+   "nombre": "San Juan Diuxi"
+  },
+  {
+   "clave": 196,
+   "nombre": "San Juan Evangelista Analco"
+  },
+  {
+   "clave": 197,
+   "nombre": "San Juan Guelavía"
+  },
+  {
+   "clave": 198,
+   "nombre": "San Juan Guichicovi"
+  },
+  {
+   "clave": 199,
+   "nombre": "San Juan Ihualtepec"
+  },
+  {
+   "clave": 200,
+   "nombre": "San Juan Juquila Mixes"
+  },
+  {
+   "clave": 201,
+   "nombre": "San Juan Juquila Vijanos"
+  },
+  {
+   "clave": 202,
+   "nombre": "San Juan Lachao"
+  },
+  {
+   "clave": 203,
+   "nombre": "San Juan Lachigalla"
+  },
+  {
+   "clave": 204,
+   "nombre": "San Juan Lajarcia"
+  },
+  {
+   "clave": 205,
+   "nombre": "San Juan Lalana"
+  },
+  {
+   "clave": 206,
+   "nombre": "San Juan De Los Cués"
+  },
+  {
+   "clave": 207,
+   "nombre": "San Juan Mazatlán"
+  },
+  {
+   "clave": 208,
+   "nombre": "San Juan Mixtepec"
+  },
+  {
+   "clave": 209,
+   "nombre": "San Juan Mixtepec"
+  },
+  {
+   "clave": 210,
+   "nombre": "San Juan Ñumí"
+  },
+  {
+   "clave": 211,
+   "nombre": "San Juan Ozolotepec"
+  },
+  {
+   "clave": 212,
+   "nombre": "San Juan Petlapa"
+  },
+  {
+   "clave": 213,
+   "nombre": "San Juan Quiahije"
+  },
+  {
+   "clave": 214,
+   "nombre": "San Juan Quiotepec"
+  },
+  {
+   "clave": 215,
+   "nombre": "San Juan Sayultepec"
+  },
+  {
+   "clave": 216,
+   "nombre": "San Juan Tabaá"
+  },
+  {
+   "clave": 217,
+   "nombre": "San Juan Tamazola"
+  },
+  {
+   "clave": 218,
+   "nombre": "San Juan Teita"
+  },
+  {
+   "clave": 219,
+   "nombre": "San Juan Teitipac"
+  },
+  {
+   "clave": 220,
+   "nombre": "San Juan Tepeuxila"
+  },
+  {
+   "clave": 221,
+   "nombre": "San Juan Teposcolula"
+  },
+  {
+   "clave": 222,
+   "nombre": "San Juan Yaeé"
+  },
+  {
+   "clave": 223,
+   "nombre": "San Juan Yatzona"
+  },
+  {
+   "clave": 224,
+   "nombre": "San Juan Yucuita"
+  },
+  {
+   "clave": 225,
+   "nombre": "San Lorenzo"
+  },
+  {
+   "clave": 226,
+   "nombre": "San Lorenzo Albarradas"
+  },
+  {
+   "clave": 227,
+   "nombre": "San Lorenzo Cacaotepec"
+  },
+  {
+   "clave": 228,
+   "nombre": "San Lorenzo Cuaunecuiltitla"
+  },
+  {
+   "clave": 229,
+   "nombre": "San Lorenzo Texmelúcan"
+  },
+  {
+   "clave": 230,
+   "nombre": "San Lorenzo Victoria"
+  },
+  {
+   "clave": 231,
+   "nombre": "San Lucas Camotlán"
+  },
+  {
+   "clave": 232,
+   "nombre": "San Lucas Ojitlán"
+  },
+  {
+   "clave": 233,
+   "nombre": "San Lucas Quiaviní"
+  },
+  {
+   "clave": 234,
+   "nombre": "San Lucas Zoquiápam"
+  },
+  {
+   "clave": 235,
+   "nombre": "San Luis Amatlán"
+  },
+  {
+   "clave": 236,
+   "nombre": "San Marcial Ozolotepec"
+  },
+  {
+   "clave": 237,
+   "nombre": "San Marcos Arteaga"
+  },
+  {
+   "clave": 238,
+   "nombre": "Heroico San Martín De Los Cansecos"
+  },
+  {
+   "clave": 239,
+   "nombre": "San Martín Huamelúlpam"
+  },
+  {
+   "clave": 240,
+   "nombre": "San Martín Itunyoso"
+  },
+  {
+   "clave": 241,
+   "nombre": "San Martín Lachilá"
+  },
+  {
+   "clave": 242,
+   "nombre": "San Martín Peras"
+  },
+  {
+   "clave": 243,
+   "nombre": "San Martín Tilcajete"
+  },
+  {
+   "clave": 244,
+   "nombre": "San Martín Toxpalan"
+  },
+  {
+   "clave": 245,
+   "nombre": "San Martín Zacatepec"
+  },
+  {
+   "clave": 246,
+   "nombre": "San Mateo Cajonos"
+  },
+  {
+   "clave": 247,
+   "nombre": "Capulálpam De Méndez"
+  },
+  {
+   "clave": 248,
+   "nombre": "San Mateo Del Mar"
+  },
+  {
+   "clave": 249,
+   "nombre": "San Mateo Yoloxochitlán"
+  },
+  {
+   "clave": 250,
+   "nombre": "San Mateo Etlatongo"
+  },
+  {
+   "clave": 251,
+   "nombre": "San Mateo Nejápam"
+  },
+  {
+   "clave": 252,
+   "nombre": "San Mateo Peñasco"
+  },
+  {
+   "clave": 253,
+   "nombre": "San Mateo Piñas"
+  },
+  {
+   "clave": 254,
+   "nombre": "San Mateo Río Hondo"
+  },
+  {
+   "clave": 255,
+   "nombre": "San Mateo Sindihui"
+  },
+  {
+   "clave": 256,
+   "nombre": "San Mateo Tlapiltepec"
+  },
+  {
+   "clave": 257,
+   "nombre": "San Melchor Betaza"
+  },
+  {
+   "clave": 258,
+   "nombre": "San Miguel Achiutla"
+  },
+  {
+   "clave": 259,
+   "nombre": "San Miguel Ahuehuetitlán"
+  },
+  {
+   "clave": 260,
+   "nombre": "San Miguel Aloápam"
+  },
+  {
+   "clave": 261,
+   "nombre": "San Miguel Amatitlán"
+  },
+  {
+   "clave": 262,
+   "nombre": "San Miguel Amatlán"
+  },
+  {
+   "clave": 263,
+   "nombre": "San Miguel Coatlán"
+  },
+  {
+   "clave": 264,
+   "nombre": "San Miguel Chicahua"
+  },
+  {
+   "clave": 265,
+   "nombre": "San Miguel Chimalapa"
+  },
+  {
+   "clave": 266,
+   "nombre": "San Miguel Del Puerto"
+  },
+  {
+   "clave": 267,
+   "nombre": "San Miguel Del Río"
+  },
+  {
+   "clave": 268,
+   "nombre": "San Miguel Ejutla"
+  },
+  {
+   "clave": 269,
+   "nombre": "San Miguel El Grande"
+  },
+  {
+   "clave": 270,
+   "nombre": "San Miguel Huautla"
+  },
+  {
+   "clave": 271,
+   "nombre": "San Miguel Mixtepec"
+  },
+  {
+   "clave": 272,
+   "nombre": "San Miguel Panixtlahuaca"
+  },
+  {
+   "clave": 273,
+   "nombre": "San Miguel Peras"
+  },
+  {
+   "clave": 274,
+   "nombre": "San Miguel Piedras"
+  },
+  {
+   "clave": 275,
+   "nombre": "San Miguel Quetzaltepec"
+  },
+  {
+   "clave": 276,
+   "nombre": "San Miguel Santa Flor"
+  },
+  {
+   "clave": 277,
+   "nombre": "Villa Sola De Vega"
+  },
+  {
+   "clave": 278,
+   "nombre": "San Miguel Soyaltepec"
+  },
+  {
+   "clave": 279,
+   "nombre": "San Miguel Suchixtepec"
+  },
+  {
+   "clave": 280,
+   "nombre": "Villa Talea De Castro"
+  },
+  {
+   "clave": 281,
+   "nombre": "San Miguel Tecomatlán"
+  },
+  {
+   "clave": 282,
+   "nombre": "San Miguel Tenango"
+  },
+  {
+   "clave": 283,
+   "nombre": "San Miguel Tequixtepec"
+  },
+  {
+   "clave": 284,
+   "nombre": "San Miguel Tilquiápam"
+  },
+  {
+   "clave": 285,
+   "nombre": "San Miguel Tlacamama"
+  },
+  {
+   "clave": 286,
+   "nombre": "San Miguel Tlacotepec"
+  },
+  {
+   "clave": 287,
+   "nombre": "San Miguel Tulancingo"
+  },
+  {
+   "clave": 288,
+   "nombre": "San Miguel Yotao"
+  },
+  {
+   "clave": 289,
+   "nombre": "San Nicolás"
+  },
+  {
+   "clave": 290,
+   "nombre": "San Nicolás Hidalgo"
+  },
+  {
+   "clave": 291,
+   "nombre": "San Pablo Coatlán"
+  },
+  {
+   "clave": 292,
+   "nombre": "San Pablo Cuatro Venados"
+  },
+  {
+   "clave": 293,
+   "nombre": "San Pablo Etla"
+  },
+  {
+   "clave": 294,
+   "nombre": "San Pablo Huitzo"
+  },
+  {
+   "clave": 295,
+   "nombre": "San Pablo Huixtepec"
+  },
+  {
+   "clave": 296,
+   "nombre": "San Pablo Macuiltianguis"
+  },
+  {
+   "clave": 297,
+   "nombre": "San Pablo Tijaltepec"
+  },
+  {
+   "clave": 298,
+   "nombre": "San Pablo Villa De Mitla"
+  },
+  {
+   "clave": 299,
+   "nombre": "San Pablo Yaganiza"
+  },
+  {
+   "clave": 300,
+   "nombre": "San Pedro Amuzgos"
+  },
+  {
+   "clave": 301,
+   "nombre": "San Pedro Apóstol"
+  },
+  {
+   "clave": 302,
+   "nombre": "San Pedro Atoyac"
+  },
+  {
+   "clave": 303,
+   "nombre": "San Pedro Cajonos"
+  },
+  {
+   "clave": 304,
+   "nombre": "San Pedro Coxcaltepec Cántaros"
+  },
+  {
+   "clave": 305,
+   "nombre": "San Pedro Comitancillo"
+  },
+  {
+   "clave": 306,
+   "nombre": "San Pedro El Alto"
+  },
+  {
+   "clave": 307,
+   "nombre": "San Pedro Huamelula"
+  },
+  {
+   "clave": 308,
+   "nombre": "San Pedro Huilotepec"
+  },
+  {
+   "clave": 309,
+   "nombre": "San Pedro Ixcatlán"
+  },
+  {
+   "clave": 310,
+   "nombre": "San Pedro Ixtlahuaca"
+  },
+  {
+   "clave": 311,
+   "nombre": "San Pedro Jaltepetongo"
+  },
+  {
+   "clave": 312,
+   "nombre": "San Pedro Jicayán"
+  },
+  {
+   "clave": 313,
+   "nombre": "San Pedro Jocotipac"
+  },
+  {
+   "clave": 314,
+   "nombre": "San Pedro Juchatengo"
+  },
+  {
+   "clave": 315,
+   "nombre": "San Pedro Mártir"
+  },
+  {
+   "clave": 316,
+   "nombre": "San Pedro Mártir Quiechapa"
+  },
+  {
+   "clave": 317,
+   "nombre": "San Pedro Mártir Yucuxaco"
+  },
+  {
+   "clave": 318,
+   "nombre": "San Pedro Mixtepec"
+  },
+  {
+   "clave": 319,
+   "nombre": "San Pedro Mixtepec"
+  },
+  {
+   "clave": 320,
+   "nombre": "San Pedro Molinos"
+  },
+  {
+   "clave": 321,
+   "nombre": "San Pedro Nopala"
+  },
+  {
+   "clave": 322,
+   "nombre": "San Pedro Ocopetatillo"
+  },
+  {
+   "clave": 323,
+   "nombre": "San Pedro Ocotepec"
+  },
+  {
+   "clave": 324,
+   "nombre": "San Pedro Pochutla"
+  },
+  {
+   "clave": 325,
+   "nombre": "San Pedro Quiatoni"
+  },
+  {
+   "clave": 326,
+   "nombre": "San Pedro Sochiápam"
+  },
+  {
+   "clave": 327,
+   "nombre": "San Pedro Tapanatepec"
+  },
+  {
+   "clave": 328,
+   "nombre": "San Pedro Taviche"
+  },
+  {
+   "clave": 329,
+   "nombre": "San Pedro Teozacoalco"
+  },
+  {
+   "clave": 330,
+   "nombre": "San Pedro Teutila"
+  },
+  {
+   "clave": 331,
+   "nombre": "San Pedro Tidaá"
+  },
+  {
+   "clave": 332,
+   "nombre": "San Pedro Topiltepec"
+  },
+  {
+   "clave": 333,
+   "nombre": "San Pedro Totolápam"
+  },
+  {
+   "clave": 334,
+   "nombre": "Villa De Tututepec"
+  },
+  {
+   "clave": 335,
+   "nombre": "San Pedro Yaneri"
+  },
+  {
+   "clave": 336,
+   "nombre": "San Pedro Yólox"
+  },
+  {
+   "clave": 337,
+   "nombre": "San Pedro Y San Pablo Ayutla"
+  },
+  {
+   "clave": 338,
+   "nombre": "Villa De Etla"
+  },
+  {
+   "clave": 339,
+   "nombre": "San Pedro Y San Pablo Teposcolula"
+  },
+  {
+   "clave": 340,
+   "nombre": "San Pedro Y San Pablo Tequixtepec"
+  },
+  {
+   "clave": 341,
+   "nombre": "San Pedro Yucunama"
+  },
+  {
+   "clave": 342,
+   "nombre": "San Raymundo Jalpan"
+  },
+  {
+   "clave": 343,
+   "nombre": "San Sebastián Abasolo"
+  },
+  {
+   "clave": 344,
+   "nombre": "San Sebastián Coatlán"
+  },
+  {
+   "clave": 345,
+   "nombre": "San Sebastián Ixcapa"
+  },
+  {
+   "clave": 346,
+   "nombre": "San Sebastián Nicananduta"
+  },
+  {
+   "clave": 347,
+   "nombre": "San Sebastián Río Hondo"
+  },
+  {
+   "clave": 348,
+   "nombre": "San Sebastián Tecomaxtlahuaca"
+  },
+  {
+   "clave": 349,
+   "nombre": "San Sebastián Teitipac"
+  },
+  {
+   "clave": 350,
+   "nombre": "San Sebastián Tutla"
+  },
+  {
+   "clave": 351,
+   "nombre": "San Simón Almolongas"
+  },
+  {
+   "clave": 352,
+   "nombre": "San Simón Zahuatlán"
+  },
+  {
+   "clave": 353,
+   "nombre": "Santa Ana"
+  },
+  {
+   "clave": 354,
+   "nombre": "Santa Ana Ateixtlahuaca"
+  },
+  {
+   "clave": 355,
+   "nombre": "Santa Ana Cuauhtémoc"
+  },
+  {
+   "clave": 356,
+   "nombre": "Santa Ana Del Valle"
+  },
+  {
+   "clave": 357,
+   "nombre": "Santa Ana Tavela"
+  },
+  {
+   "clave": 358,
+   "nombre": "Santa Ana Tlapacoyan"
+  },
+  {
+   "clave": 359,
+   "nombre": "Santa Ana Yareni"
+  },
+  {
+   "clave": 360,
+   "nombre": "Santa Ana Zegache"
+  },
+  {
+   "clave": 361,
+   "nombre": "Santa Catalina Quierí"
+  },
+  {
+   "clave": 362,
+   "nombre": "Santa Catarina Cuixtla"
+  },
+  {
+   "clave": 363,
+   "nombre": "Santa Catarina Ixtepeji"
+  },
+  {
+   "clave": 364,
+   "nombre": "Santa Catarina Juquila"
+  },
+  {
+   "clave": 365,
+   "nombre": "Santa Catarina Lachatao"
+  },
+  {
+   "clave": 366,
+   "nombre": "Santa Catarina Loxicha"
+  },
+  {
+   "clave": 367,
+   "nombre": "Santa Catarina Mechoacán"
+  },
+  {
+   "clave": 368,
+   "nombre": "Santa Catarina Minas"
+  },
+  {
+   "clave": 369,
+   "nombre": "Santa Catarina Quiané"
+  },
+  {
+   "clave": 370,
+   "nombre": "Santa Catarina Tayata"
+  },
+  {
+   "clave": 371,
+   "nombre": "Santa Catarina Ticuá"
+  },
+  {
+   "clave": 372,
+   "nombre": "Santa Catarina Yosonotú"
+  },
+  {
+   "clave": 373,
+   "nombre": "Santa Catarina Zapoquila"
+  },
+  {
+   "clave": 374,
+   "nombre": "Santa Cruz Acatepec"
+  },
+  {
+   "clave": 375,
+   "nombre": "Santa Cruz Amilpas"
+  },
+  {
+   "clave": 376,
+   "nombre": "Santa Cruz De Bravo"
+  },
+  {
+   "clave": 377,
+   "nombre": "Santa Cruz Itundujia"
+  },
+  {
+   "clave": 378,
+   "nombre": "Santa Cruz Mixtepec"
+  },
+  {
+   "clave": 379,
+   "nombre": "Santa Cruz Nundaco"
+  },
+  {
+   "clave": 380,
+   "nombre": "Santa Cruz Papalutla"
+  },
+  {
+   "clave": 381,
+   "nombre": "Santa Cruz Tacache De Mina"
+  },
+  {
+   "clave": 382,
+   "nombre": "Santa Cruz Tacahua"
+  },
+  {
+   "clave": 383,
+   "nombre": "Santa Cruz Tayata"
+  },
+  {
+   "clave": 384,
+   "nombre": "Santa Cruz Xitla"
+  },
+  {
+   "clave": 385,
+   "nombre": "Santa Cruz Xoxocotlán"
+  },
+  {
+   "clave": 386,
+   "nombre": "Santa Cruz Zenzontepec"
+  },
+  {
+   "clave": 387,
+   "nombre": "Santa Gertrudis"
+  },
+  {
+   "clave": 388,
+   "nombre": "Santa Inés Del Monte"
+  },
+  {
+   "clave": 389,
+   "nombre": "Santa Inés Yatzeche"
+  },
+  {
+   "clave": 390,
+   "nombre": "Santa Lucía Del Camino"
+  },
+  {
+   "clave": 391,
+   "nombre": "Santa Lucía Miahuatlán"
+  },
+  {
+   "clave": 392,
+   "nombre": "Santa Lucía Monteverde"
+  },
+  {
+   "clave": 393,
+   "nombre": "Santa Lucía Ocotlán"
+  },
+  {
+   "clave": 394,
+   "nombre": "Santa María Alotepec"
+  },
+  {
+   "clave": 395,
+   "nombre": "Santa María Apazco"
+  },
+  {
+   "clave": 396,
+   "nombre": "Santa María La Asunción"
+  },
+  {
+   "clave": 397,
+   "nombre": "Heroica Ciudad De Tlaxiaco"
+  },
+  {
+   "clave": 398,
+   "nombre": "Ayoquezco De Aldama"
+  },
+  {
+   "clave": 399,
+   "nombre": "Santa María Atzompa"
+  },
+  {
+   "clave": 400,
+   "nombre": "Santa María Camotlán"
+  },
+  {
+   "clave": 401,
+   "nombre": "Santa María Colotepec"
+  },
+  {
+   "clave": 402,
+   "nombre": "Santa María Cortijo"
+  },
+  {
+   "clave": 403,
+   "nombre": "Santa María Coyotepec"
+  },
+  {
+   "clave": 404,
+   "nombre": "Santa María Chachoápam"
+  },
+  {
+   "clave": 405,
+   "nombre": "Villa De Chilapa De Díaz"
+  },
+  {
+   "clave": 406,
+   "nombre": "Santa María Chilchotla"
+  },
+  {
+   "clave": 407,
+   "nombre": "Santa María Chimalapa"
+  },
+  {
+   "clave": 408,
+   "nombre": "Santa María Del Rosario"
+  },
+  {
+   "clave": 409,
+   "nombre": "Santa María Del Tule"
+  },
+  {
+   "clave": 410,
+   "nombre": "Santa María Ecatepec"
+  },
+  {
+   "clave": 411,
+   "nombre": "Santa María Guelacé"
+  },
+  {
+   "clave": 412,
+   "nombre": "Santa María Guienagati"
+  },
+  {
+   "clave": 413,
+   "nombre": "Santa María Huatulco"
+  },
+  {
+   "clave": 414,
+   "nombre": "Santa María Huazolotitlán"
+  },
+  {
+   "clave": 415,
+   "nombre": "Santa María Ipalapa"
+  },
+  {
+   "clave": 416,
+   "nombre": "Santa María Ixcatlán"
+  },
+  {
+   "clave": 417,
+   "nombre": "Santa María Jacatepec"
+  },
+  {
+   "clave": 418,
+   "nombre": "Santa María Jalapa Del Marqués"
+  },
+  {
+   "clave": 419,
+   "nombre": "Santa María Jaltianguis"
+  },
+  {
+   "clave": 420,
+   "nombre": "Santa María Lachixío"
+  },
+  {
+   "clave": 421,
+   "nombre": "Santa María Mixtequilla"
+  },
+  {
+   "clave": 422,
+   "nombre": "Santa María Nativitas"
+  },
+  {
+   "clave": 423,
+   "nombre": "Santa María Nduayaco"
+  },
+  {
+   "clave": 424,
+   "nombre": "Santa María Ozolotepec"
+  },
+  {
+   "clave": 425,
+   "nombre": "Santa María Pápalo"
+  },
+  {
+   "clave": 426,
+   "nombre": "Santa María Peñoles"
+  },
+  {
+   "clave": 427,
+   "nombre": "Santa María Petapa"
+  },
+  {
+   "clave": 428,
+   "nombre": "Santa María Quiegolani"
+  },
+  {
+   "clave": 429,
+   "nombre": "Santa María Sola"
+  },
+  {
+   "clave": 430,
+   "nombre": "Santa María Tataltepec"
+  },
+  {
+   "clave": 431,
+   "nombre": "Santa María Tecomavaca"
+  },
+  {
+   "clave": 432,
+   "nombre": "Santa María Temaxcalapa"
+  },
+  {
+   "clave": 433,
+   "nombre": "Santa María Temaxcaltepec"
+  },
+  {
+   "clave": 434,
+   "nombre": "Santa María Teopoxco"
+  },
+  {
+   "clave": 435,
+   "nombre": "Santa María Tepantlali"
+  },
+  {
+   "clave": 436,
+   "nombre": "Santa María Texcatitlán"
+  },
+  {
+   "clave": 437,
+   "nombre": "Santa María Tlahuitoltepec"
+  },
+  {
+   "clave": 438,
+   "nombre": "Santa María Tlalixtac"
+  },
+  {
+   "clave": 439,
+   "nombre": "Santa María Tonameca"
+  },
+  {
+   "clave": 440,
+   "nombre": "Santa María Totolapilla"
+  },
+  {
+   "clave": 441,
+   "nombre": "Santa María Xadani"
+  },
+  {
+   "clave": 442,
+   "nombre": "Santa María Yalina"
+  },
+  {
+   "clave": 443,
+   "nombre": "Santa María Yavesía"
+  },
+  {
+   "clave": 444,
+   "nombre": "Santa María Yolotepec"
+  },
+  {
+   "clave": 445,
+   "nombre": "Santa María Yosoyúa"
+  },
+  {
+   "clave": 446,
+   "nombre": "Santa María Yucuhiti"
+  },
+  {
+   "clave": 447,
+   "nombre": "Santa María Zacatepec"
+  },
+  {
+   "clave": 448,
+   "nombre": "Santa María Zaniza"
+  },
+  {
+   "clave": 449,
+   "nombre": "Santa María Zoquitlán"
+  },
+  {
+   "clave": 450,
+   "nombre": "Santiago Amoltepec"
+  },
+  {
+   "clave": 451,
+   "nombre": "Santiago Apoala"
+  },
+  {
+   "clave": 452,
+   "nombre": "Santiago Apóstol"
+  },
+  {
+   "clave": 453,
+   "nombre": "Santiago Astata"
+  },
+  {
+   "clave": 454,
+   "nombre": "Santiago Atitlán"
+  },
+  {
+   "clave": 455,
+   "nombre": "Santiago Ayuquililla"
+  },
+  {
+   "clave": 456,
+   "nombre": "Santiago Cacaloxtepec"
+  },
+  {
+   "clave": 457,
+   "nombre": "Santiago Camotlán"
+  },
+  {
+   "clave": 458,
+   "nombre": "Santiago Comaltepec"
+  },
+  {
+   "clave": 459,
+   "nombre": "Villa De Santiago Chazumba"
+  },
+  {
+   "clave": 460,
+   "nombre": "Santiago Choápam"
+  },
+  {
+   "clave": 461,
+   "nombre": "Santiago Del Río"
+  },
+  {
+   "clave": 462,
+   "nombre": "Santiago Huajolotitlán"
+  },
+  {
+   "clave": 463,
+   "nombre": "Santiago Huauclilla"
+  },
+  {
+   "clave": 464,
+   "nombre": "Santiago Ihuitlán Plumas"
+  },
+  {
+   "clave": 465,
+   "nombre": "Santiago Ixcuintepec"
+  },
+  {
+   "clave": 466,
+   "nombre": "Santiago Ixtayutla"
+  },
+  {
+   "clave": 467,
+   "nombre": "Santiago Jamiltepec"
+  },
+  {
+   "clave": 468,
+   "nombre": "Santiago Jocotepec"
+  },
+  {
+   "clave": 469,
+   "nombre": "Santiago Juxtlahuaca"
+  },
+  {
+   "clave": 470,
+   "nombre": "Santiago Lachiguiri"
+  },
+  {
+   "clave": 471,
+   "nombre": "Santiago Lalopa"
+  },
+  {
+   "clave": 472,
+   "nombre": "Santiago Laollaga"
+  },
+  {
+   "clave": 473,
+   "nombre": "Santiago Laxopa"
+  },
+  {
+   "clave": 474,
+   "nombre": "Santiago Llano Grande"
+  },
+  {
+   "clave": 475,
+   "nombre": "Santiago Matatlán"
+  },
+  {
+   "clave": 476,
+   "nombre": "Santiago Miltepec"
+  },
+  {
+   "clave": 477,
+   "nombre": "Santiago Minas"
+  },
+  {
+   "clave": 478,
+   "nombre": "Santiago Nacaltepec"
+  },
+  {
+   "clave": 479,
+   "nombre": "Santiago Nejapilla"
+  },
+  {
+   "clave": 480,
+   "nombre": "Santiago Nundiche"
+  },
+  {
+   "clave": 481,
+   "nombre": "Santiago Nuyoó"
+  },
+  {
+   "clave": 482,
+   "nombre": "Santiago Pinotepa Nacional"
+  },
+  {
+   "clave": 483,
+   "nombre": "Santiago Suchilquitongo"
+  },
+  {
+   "clave": 484,
+   "nombre": "Santiago Tamazola"
+  },
+  {
+   "clave": 485,
+   "nombre": "Santiago Tapextla"
+  },
+  {
+   "clave": 486,
+   "nombre": "Villa Tejúpam De La Unión"
+  },
+  {
+   "clave": 487,
+   "nombre": "Santiago Tenango"
+  },
+  {
+   "clave": 488,
+   "nombre": "Santiago Tepetlapa"
+  },
+  {
+   "clave": 489,
+   "nombre": "Santiago Tetepec"
+  },
+  {
+   "clave": 490,
+   "nombre": "Santiago Texcalcingo"
+  },
+  {
+   "clave": 491,
+   "nombre": "Santiago Textitlán"
+  },
+  {
+   "clave": 492,
+   "nombre": "Santiago Tilantongo"
+  },
+  {
+   "clave": 493,
+   "nombre": "Santiago Tillo"
+  },
+  {
+   "clave": 494,
+   "nombre": "Santiago Tlazoyaltepec"
+  },
+  {
+   "clave": 495,
+   "nombre": "Santiago Xanica"
+  },
+  {
+   "clave": 496,
+   "nombre": "Santiago Xiacuí"
+  },
+  {
+   "clave": 497,
+   "nombre": "Santiago Yaitepec"
+  },
+  {
+   "clave": 498,
+   "nombre": "Santiago Yaveo"
+  },
+  {
+   "clave": 499,
+   "nombre": "Santiago Yolomécatl"
+  },
+  {
+   "clave": 500,
+   "nombre": "Santiago Yosondúa"
+  },
+  {
+   "clave": 501,
+   "nombre": "Santiago Yucuyachi"
+  },
+  {
+   "clave": 502,
+   "nombre": "Santiago Zacatepec"
+  },
+  {
+   "clave": 503,
+   "nombre": "Santiago Zoochila"
+  },
+  {
+   "clave": 504,
+   "nombre": "Nuevo Zoquiápam"
+  },
+  {
+   "clave": 505,
+   "nombre": "Santo Domingo Ingenio"
+  },
+  {
+   "clave": 506,
+   "nombre": "Santo Domingo Albarradas"
+  },
+  {
+   "clave": 507,
+   "nombre": "Santo Domingo Armenta"
+  },
+  {
+   "clave": 508,
+   "nombre": "Santo Domingo Chihuitán"
+  },
+  {
+   "clave": 509,
+   "nombre": "Santo Domingo De Morelos"
+  },
+  {
+   "clave": 510,
+   "nombre": "Santo Domingo Ixcatlán"
+  },
+  {
+   "clave": 511,
+   "nombre": "Santo Domingo Nuxaá"
+  },
+  {
+   "clave": 512,
+   "nombre": "Santo Domingo Ozolotepec"
+  },
+  {
+   "clave": 513,
+   "nombre": "Santo Domingo Petapa"
+  },
+  {
+   "clave": 514,
+   "nombre": "Santo Domingo Roayaga"
+  },
+  {
+   "clave": 515,
+   "nombre": "Santo Domingo Tehuantepec"
+  },
+  {
+   "clave": 516,
+   "nombre": "Santo Domingo Teojomulco"
+  },
+  {
+   "clave": 517,
+   "nombre": "Santo Domingo Tepuxtepec"
+  },
+  {
+   "clave": 518,
+   "nombre": "Santo Domingo Tlatayápam"
+  },
+  {
+   "clave": 519,
+   "nombre": "Santo Domingo Tomaltepec"
+  },
+  {
+   "clave": 520,
+   "nombre": "Santo Domingo Tonalá"
+  },
+  {
+   "clave": 521,
+   "nombre": "Santo Domingo Tonaltepec"
+  },
+  {
+   "clave": 522,
+   "nombre": "Santo Domingo Xagacía"
+  },
+  {
+   "clave": 523,
+   "nombre": "Santo Domingo Yanhuitlán"
+  },
+  {
+   "clave": 524,
+   "nombre": "Santo Domingo Yodohino"
+  },
+  {
+   "clave": 525,
+   "nombre": "Santo Domingo Zanatepec"
+  },
+  {
+   "clave": 526,
+   "nombre": "Santos Reyes Nopala"
+  },
+  {
+   "clave": 527,
+   "nombre": "Santos Reyes Pápalo"
+  },
+  {
+   "clave": 528,
+   "nombre": "Santos Reyes Tepejillo"
+  },
+  {
+   "clave": 529,
+   "nombre": "Santos Reyes Yucuná"
+  },
+  {
+   "clave": 530,
+   "nombre": "Santo Tomás Jalieza"
+  },
+  {
+   "clave": 531,
+   "nombre": "Santo Tomás Mazaltepec"
+  },
+  {
+   "clave": 532,
+   "nombre": "Santo Tomás Ocotepec"
+  },
+  {
+   "clave": 533,
+   "nombre": "Santo Tomás Tamazulapan"
+  },
+  {
+   "clave": 534,
+   "nombre": "San Vicente Coatlán"
+  },
+  {
+   "clave": 535,
+   "nombre": "San Vicente Lachixío"
+  },
+  {
+   "clave": 536,
+   "nombre": "San Vicente Nuñú"
+  },
+  {
+   "clave": 537,
+   "nombre": "Silacayoápam"
+  },
+  {
+   "clave": 538,
+   "nombre": "Sitio De Xitlapehua"
+  },
+  {
+   "clave": 539,
+   "nombre": "Soledad Etla"
+  },
+  {
+   "clave": 540,
+   "nombre": "Villa De Tamazulápam Del Progreso"
+  },
+  {
+   "clave": 541,
+   "nombre": "Tanetze De Zaragoza"
+  },
+  {
+   "clave": 542,
+   "nombre": "Taniche"
+  },
+  {
+   "clave": 543,
+   "nombre": "Tataltepec De Valdés"
+  },
+  {
+   "clave": 544,
+   "nombre": "Teococuilco De Marcos Pérez"
+  },
+  {
+   "clave": 545,
+   "nombre": "Teotitlán De Flores Magón"
+  },
+  {
+   "clave": 546,
+   "nombre": "Teotitlán Del Valle"
+  },
+  {
+   "clave": 547,
+   "nombre": "Teotongo"
+  },
+  {
+   "clave": 548,
+   "nombre": "Tepelmeme Villa De Morelos"
+  },
+  {
+   "clave": 549,
+   "nombre": "Heroica Villa Tezoatlán De Segura Y Luna, Cuna De La Independencia De Oaxaca"
+  },
+  {
+   "clave": 550,
+   "nombre": "San Jerónimo Tlacochahuaya"
+  },
+  {
+   "clave": 551,
+   "nombre": "Tlacolula De Matamoros"
+  },
+  {
+   "clave": 552,
+   "nombre": "Tlacotepec Plumas"
+  },
+  {
+   "clave": 553,
+   "nombre": "Tlalixtac De Cabrera"
+  },
+  {
+   "clave": 554,
+   "nombre": "Totontepec Villa De Morelos"
+  },
+  {
+   "clave": 555,
+   "nombre": "Trinidad Zaachila"
+  },
+  {
+   "clave": 556,
+   "nombre": "La Trinidad Vista Hermosa"
+  },
+  {
+   "clave": 557,
+   "nombre": "Unión Hidalgo"
+  },
+  {
+   "clave": 558,
+   "nombre": "Valerio Trujano"
+  },
+  {
+   "clave": 559,
+   "nombre": "San Juan Bautista Valle Nacional"
+  },
+  {
+   "clave": 560,
+   "nombre": "Villa Díaz Ordaz"
+  },
+  {
+   "clave": 561,
+   "nombre": "Yaxe"
+  },
+  {
+   "clave": 562,
+   "nombre": "Magdalena Yodocono De Porfirio Díaz"
+  },
+  {
+   "clave": 563,
+   "nombre": "Yogana"
+  },
+  {
+   "clave": 564,
+   "nombre": "Yutanduchi De Guerrero"
+  },
+  {
+   "clave": 565,
+   "nombre": "Villa De Zaachila"
+  },
+  {
+   "clave": 566,
+   "nombre": "San Mateo Yucutindoo"
+  },
+  {
+   "clave": 567,
+   "nombre": "Zapotitlán Lagunas"
+  },
+  {
+   "clave": 568,
+   "nombre": "Zapotitlán Palmas"
+  },
+  {
+   "clave": 569,
+   "nombre": "Santa Inés De Zaragoza"
+  },
+  {
+   "clave": 570,
+   "nombre": "Zimatlán De Álvarez"
+  }
+ ],
+ "21": [
+  {
+   "clave": 1,
+   "nombre": "Acajete"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acateno"
+  },
+  {
+   "clave": 3,
+   "nombre": "Acatlán"
+  },
+  {
+   "clave": 4,
+   "nombre": "Acatzingo"
+  },
+  {
+   "clave": 5,
+   "nombre": "Acteopan"
+  },
+  {
+   "clave": 6,
+   "nombre": "Ahuacatlán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Ahuatlán"
+  },
+  {
+   "clave": 8,
+   "nombre": "Ahuazotepec"
+  },
+  {
+   "clave": 9,
+   "nombre": "Ahuehuetitla"
+  },
+  {
+   "clave": 10,
+   "nombre": "Ajalpan"
+  },
+  {
+   "clave": 11,
+   "nombre": "Albino Zertuche"
+  },
+  {
+   "clave": 12,
+   "nombre": "Aljojuca"
+  },
+  {
+   "clave": 13,
+   "nombre": "Altepexi"
+  },
+  {
+   "clave": 14,
+   "nombre": "Amixtlán"
+  },
+  {
+   "clave": 15,
+   "nombre": "Amozoc"
+  },
+  {
+   "clave": 16,
+   "nombre": "Aquixtla"
+  },
+  {
+   "clave": 17,
+   "nombre": "Atempan"
+  },
+  {
+   "clave": 18,
+   "nombre": "Atexcal"
+  },
+  {
+   "clave": 19,
+   "nombre": "Atlixco"
+  },
+  {
+   "clave": 20,
+   "nombre": "Atoyatempan"
+  },
+  {
+   "clave": 21,
+   "nombre": "Atzala"
+  },
+  {
+   "clave": 22,
+   "nombre": "Atzitzihuacán"
+  },
+  {
+   "clave": 23,
+   "nombre": "Atzitzintla"
+  },
+  {
+   "clave": 24,
+   "nombre": "Axutla"
+  },
+  {
+   "clave": 25,
+   "nombre": "Ayotoxco De Guerrero"
+  },
+  {
+   "clave": 26,
+   "nombre": "Calpan"
+  },
+  {
+   "clave": 27,
+   "nombre": "Caltepec"
+  },
+  {
+   "clave": 28,
+   "nombre": "Camocuautla"
+  },
+  {
+   "clave": 29,
+   "nombre": "Caxhuacan"
+  },
+  {
+   "clave": 30,
+   "nombre": "Coatepec"
+  },
+  {
+   "clave": 31,
+   "nombre": "Coatzingo"
+  },
+  {
+   "clave": 32,
+   "nombre": "Cohetzala"
+  },
+  {
+   "clave": 33,
+   "nombre": "Cohuecan"
+  },
+  {
+   "clave": 34,
+   "nombre": "Coronango"
+  },
+  {
+   "clave": 35,
+   "nombre": "Coxcatlán"
+  },
+  {
+   "clave": 36,
+   "nombre": "Coyomeapan"
+  },
+  {
+   "clave": 37,
+   "nombre": "Coyotepec"
+  },
+  {
+   "clave": 38,
+   "nombre": "Cuapiaxtla De Madero"
+  },
+  {
+   "clave": 39,
+   "nombre": "Cuautempan"
+  },
+  {
+   "clave": 40,
+   "nombre": "Cuautinchán"
+  },
+  {
+   "clave": 41,
+   "nombre": "Cuautlancingo"
+  },
+  {
+   "clave": 42,
+   "nombre": "Cuayuca De Andrade"
+  },
+  {
+   "clave": 43,
+   "nombre": "Cuetzalan Del Progreso"
+  },
+  {
+   "clave": 44,
+   "nombre": "Cuyoaco"
+  },
+  {
+   "clave": 45,
+   "nombre": "Chalchicomula De Sesma"
+  },
+  {
+   "clave": 46,
+   "nombre": "Chapulco"
+  },
+  {
+   "clave": 47,
+   "nombre": "Chiautla"
+  },
+  {
+   "clave": 48,
+   "nombre": "Chiautzingo"
+  },
+  {
+   "clave": 49,
+   "nombre": "Chiconcuautla"
+  },
+  {
+   "clave": 50,
+   "nombre": "Chichiquila"
+  },
+  {
+   "clave": 51,
+   "nombre": "Chietla"
+  },
+  {
+   "clave": 52,
+   "nombre": "Chigmecatitlán"
+  },
+  {
+   "clave": 53,
+   "nombre": "Chignahuapan"
+  },
+  {
+   "clave": 54,
+   "nombre": "Chignautla"
+  },
+  {
+   "clave": 55,
+   "nombre": "Chila"
+  },
+  {
+   "clave": 56,
+   "nombre": "Chila De La Sal"
+  },
+  {
+   "clave": 57,
+   "nombre": "Honey"
+  },
+  {
+   "clave": 58,
+   "nombre": "Chilchotla"
+  },
+  {
+   "clave": 59,
+   "nombre": "Chinantla"
+  },
+  {
+   "clave": 60,
+   "nombre": "Domingo Arenas"
+  },
+  {
+   "clave": 61,
+   "nombre": "Eloxochitlán"
+  },
+  {
+   "clave": 62,
+   "nombre": "Epatlán"
+  },
+  {
+   "clave": 63,
+   "nombre": "Esperanza"
+  },
+  {
+   "clave": 64,
+   "nombre": "Francisco Z. Mena"
+  },
+  {
+   "clave": 65,
+   "nombre": "General Felipe Ángeles"
+  },
+  {
+   "clave": 66,
+   "nombre": "Guadalupe"
+  },
+  {
+   "clave": 67,
+   "nombre": "Guadalupe Victoria"
+  },
+  {
+   "clave": 68,
+   "nombre": "Hermenegildo Galeana"
+  },
+  {
+   "clave": 69,
+   "nombre": "Huaquechula"
+  },
+  {
+   "clave": 70,
+   "nombre": "Huatlatlauca"
+  },
+  {
+   "clave": 71,
+   "nombre": "Huauchinango"
+  },
+  {
+   "clave": 72,
+   "nombre": "Huehuetla"
+  },
+  {
+   "clave": 73,
+   "nombre": "Huehuetlán El Chico"
+  },
+  {
+   "clave": 74,
+   "nombre": "Huejotzingo"
+  },
+  {
+   "clave": 75,
+   "nombre": "Hueyapan"
+  },
+  {
+   "clave": 76,
+   "nombre": "Hueytamalco"
+  },
+  {
+   "clave": 77,
+   "nombre": "Hueytlalpan"
+  },
+  {
+   "clave": 78,
+   "nombre": "Huitzilan De Serdán"
+  },
+  {
+   "clave": 79,
+   "nombre": "Huitziltepec"
+  },
+  {
+   "clave": 80,
+   "nombre": "Atlequizayan"
+  },
+  {
+   "clave": 81,
+   "nombre": "Ixcamilpa De Guerrero"
+  },
+  {
+   "clave": 82,
+   "nombre": "Ixcaquixtla"
+  },
+  {
+   "clave": 83,
+   "nombre": "Ixtacamaxtitlán"
+  },
+  {
+   "clave": 84,
+   "nombre": "Ixtepec"
+  },
+  {
+   "clave": 85,
+   "nombre": "Izúcar De Matamoros"
+  },
+  {
+   "clave": 86,
+   "nombre": "Jalpan"
+  },
+  {
+   "clave": 87,
+   "nombre": "Jolalpan"
+  },
+  {
+   "clave": 88,
+   "nombre": "Jonotla"
+  },
+  {
+   "clave": 89,
+   "nombre": "Jopala"
+  },
+  {
+   "clave": 90,
+   "nombre": "Juan C. Bonilla"
+  },
+  {
+   "clave": 91,
+   "nombre": "Juan Galindo"
+  },
+  {
+   "clave": 92,
+   "nombre": "Juan N. Méndez"
+  },
+  {
+   "clave": 93,
+   "nombre": "Lafragua"
+  },
+  {
+   "clave": 94,
+   "nombre": "Libres"
+  },
+  {
+   "clave": 95,
+   "nombre": "La Magdalena Tlatlauquitepec"
+  },
+  {
+   "clave": 96,
+   "nombre": "Mazapiltepec De Juárez"
+  },
+  {
+   "clave": 97,
+   "nombre": "Mixtla"
+  },
+  {
+   "clave": 98,
+   "nombre": "Molcaxac"
+  },
+  {
+   "clave": 99,
+   "nombre": "Cañada Morelos"
+  },
+  {
+   "clave": 100,
+   "nombre": "Naupan"
+  },
+  {
+   "clave": 101,
+   "nombre": "Nauzontla"
+  },
+  {
+   "clave": 102,
+   "nombre": "Nealtican"
+  },
+  {
+   "clave": 103,
+   "nombre": "Nicolás Bravo"
+  },
+  {
+   "clave": 104,
+   "nombre": "Nopalucan"
+  },
+  {
+   "clave": 105,
+   "nombre": "Ocotepec"
+  },
+  {
+   "clave": 106,
+   "nombre": "Ocoyucan"
+  },
+  {
+   "clave": 107,
+   "nombre": "Olintla"
+  },
+  {
+   "clave": 108,
+   "nombre": "Oriental"
+  },
+  {
+   "clave": 109,
+   "nombre": "Pahuatlán"
+  },
+  {
+   "clave": 110,
+   "nombre": "Palmar De Bravo"
+  },
+  {
+   "clave": 111,
+   "nombre": "Pantepec"
+  },
+  {
+   "clave": 112,
+   "nombre": "Petlalcingo"
+  },
+  {
+   "clave": 113,
+   "nombre": "Piaxtla"
+  },
+  {
+   "clave": 114,
+   "nombre": "Puebla"
+  },
+  {
+   "clave": 115,
+   "nombre": "Quecholac"
+  },
+  {
+   "clave": 116,
+   "nombre": "Quimixtlán"
+  },
+  {
+   "clave": 117,
+   "nombre": "Rafael Lara Grajales"
+  },
+  {
+   "clave": 118,
+   "nombre": "Los Reyes De Juárez"
+  },
+  {
+   "clave": 119,
+   "nombre": "San Andrés Cholula"
+  },
+  {
+   "clave": 120,
+   "nombre": "San Antonio Cañada"
+  },
+  {
+   "clave": 121,
+   "nombre": "San Diego La Mesa Tochimiltzingo"
+  },
+  {
+   "clave": 122,
+   "nombre": "San Felipe Teotlalcingo"
+  },
+  {
+   "clave": 123,
+   "nombre": "San Felipe Tepatlán"
+  },
+  {
+   "clave": 124,
+   "nombre": "San Gabriel Chilac"
+  },
+  {
+   "clave": 125,
+   "nombre": "San Gregorio Atzompa"
+  },
+  {
+   "clave": 126,
+   "nombre": "San Jerónimo Tecuanipan"
+  },
+  {
+   "clave": 127,
+   "nombre": "San Jerónimo Xayacatlán"
+  },
+  {
+   "clave": 128,
+   "nombre": "San José Chiapa"
+  },
+  {
+   "clave": 129,
+   "nombre": "San José Miahuatlán"
+  },
+  {
+   "clave": 130,
+   "nombre": "San Juan Atenco"
+  },
+  {
+   "clave": 131,
+   "nombre": "San Juan Atzompa"
+  },
+  {
+   "clave": 132,
+   "nombre": "San Martín Texmelucan"
+  },
+  {
+   "clave": 133,
+   "nombre": "San Martín Totoltepec"
+  },
+  {
+   "clave": 134,
+   "nombre": "San Matías Tlalancaleca"
+  },
+  {
+   "clave": 135,
+   "nombre": "San Miguel Ixitlán"
+  },
+  {
+   "clave": 136,
+   "nombre": "San Miguel Xoxtla"
+  },
+  {
+   "clave": 137,
+   "nombre": "San Nicolás Buenos Aires"
+  },
+  {
+   "clave": 138,
+   "nombre": "San Nicolás De Los Ranchos"
+  },
+  {
+   "clave": 139,
+   "nombre": "San Pablo Anicano"
+  },
+  {
+   "clave": 140,
+   "nombre": "San Pedro Cholula"
+  },
+  {
+   "clave": 141,
+   "nombre": "San Pedro Yeloixtlahuaca"
+  },
+  {
+   "clave": 142,
+   "nombre": "San Salvador El Seco"
+  },
+  {
+   "clave": 143,
+   "nombre": "San Salvador El Verde"
+  },
+  {
+   "clave": 144,
+   "nombre": "San Salvador Huixcolotla"
+  },
+  {
+   "clave": 145,
+   "nombre": "San Sebastián Tlacotepec"
+  },
+  {
+   "clave": 146,
+   "nombre": "Santa Catarina Tlaltempan"
+  },
+  {
+   "clave": 147,
+   "nombre": "Santa Inés Ahuatempan"
+  },
+  {
+   "clave": 148,
+   "nombre": "Santa Isabel Cholula"
+  },
+  {
+   "clave": 149,
+   "nombre": "Santiago Miahuatlán"
+  },
+  {
+   "clave": 150,
+   "nombre": "Huehuetlán El Grande"
+  },
+  {
+   "clave": 151,
+   "nombre": "Santo Tomás Hueyotlipan"
+  },
+  {
+   "clave": 152,
+   "nombre": "Soltepec"
+  },
+  {
+   "clave": 153,
+   "nombre": "Tecali De Herrera"
+  },
+  {
+   "clave": 154,
+   "nombre": "Tecamachalco"
+  },
+  {
+   "clave": 155,
+   "nombre": "Tecomatlán"
+  },
+  {
+   "clave": 156,
+   "nombre": "Tehuacán"
+  },
+  {
+   "clave": 157,
+   "nombre": "Tehuitzingo"
+  },
+  {
+   "clave": 158,
+   "nombre": "Tenampulco"
+  },
+  {
+   "clave": 159,
+   "nombre": "Teopantlán"
+  },
+  {
+   "clave": 160,
+   "nombre": "Teotlalco"
+  },
+  {
+   "clave": 161,
+   "nombre": "Tepanco De López"
+  },
+  {
+   "clave": 162,
+   "nombre": "Tepango De Rodríguez"
+  },
+  {
+   "clave": 163,
+   "nombre": "Tepatlaxco De Hidalgo"
+  },
+  {
+   "clave": 164,
+   "nombre": "Tepeaca"
+  },
+  {
+   "clave": 165,
+   "nombre": "Tepemaxalco"
+  },
+  {
+   "clave": 166,
+   "nombre": "Tepeojuma"
+  },
+  {
+   "clave": 167,
+   "nombre": "Tepetzintla"
+  },
+  {
+   "clave": 168,
+   "nombre": "Tepexco"
+  },
+  {
+   "clave": 169,
+   "nombre": "Tepexi De Rodríguez"
+  },
+  {
+   "clave": 170,
+   "nombre": "Tepeyahualco"
+  },
+  {
+   "clave": 171,
+   "nombre": "Tepeyahualco De Cuauhtémoc"
+  },
+  {
+   "clave": 172,
+   "nombre": "Tetela De Ocampo"
+  },
+  {
+   "clave": 173,
+   "nombre": "Teteles De Ávila Castillo"
+  },
+  {
+   "clave": 174,
+   "nombre": "Teziutlán"
+  },
+  {
+   "clave": 175,
+   "nombre": "Tianguismanalco"
+  },
+  {
+   "clave": 176,
+   "nombre": "Tilapa"
+  },
+  {
+   "clave": 177,
+   "nombre": "Tlacotepec De Benito Juárez"
+  },
+  {
+   "clave": 178,
+   "nombre": "Tlacuilotepec"
+  },
+  {
+   "clave": 179,
+   "nombre": "Tlachichuca"
+  },
+  {
+   "clave": 180,
+   "nombre": "Tlahuapan"
+  },
+  {
+   "clave": 181,
+   "nombre": "Tlaltenango"
+  },
+  {
+   "clave": 182,
+   "nombre": "Tlanepantla"
+  },
+  {
+   "clave": 183,
+   "nombre": "Tlaola"
+  },
+  {
+   "clave": 184,
+   "nombre": "Tlapacoya"
+  },
+  {
+   "clave": 185,
+   "nombre": "Tlapanalá"
+  },
+  {
+   "clave": 186,
+   "nombre": "Tlatlauquitepec"
+  },
+  {
+   "clave": 187,
+   "nombre": "Tlaxco"
+  },
+  {
+   "clave": 188,
+   "nombre": "Tochimilco"
+  },
+  {
+   "clave": 189,
+   "nombre": "Tochtepec"
+  },
+  {
+   "clave": 190,
+   "nombre": "Totoltepec De Guerrero"
+  },
+  {
+   "clave": 191,
+   "nombre": "Tulcingo"
+  },
+  {
+   "clave": 192,
+   "nombre": "Tuzamapan De Galeana"
+  },
+  {
+   "clave": 193,
+   "nombre": "Tzicatlacoyan"
+  },
+  {
+   "clave": 194,
+   "nombre": "Venustiano Carranza"
+  },
+  {
+   "clave": 195,
+   "nombre": "Vicente Guerrero"
+  },
+  {
+   "clave": 196,
+   "nombre": "Xayacatlán De Bravo"
+  },
+  {
+   "clave": 197,
+   "nombre": "Xicotepec"
+  },
+  {
+   "clave": 198,
+   "nombre": "Xicotlán"
+  },
+  {
+   "clave": 199,
+   "nombre": "Xiutetelco"
+  },
+  {
+   "clave": 200,
+   "nombre": "Xochiapulco"
+  },
+  {
+   "clave": 201,
+   "nombre": "Xochiltepec"
+  },
+  {
+   "clave": 202,
+   "nombre": "Xochitlán De Vicente Suárez"
+  },
+  {
+   "clave": 203,
+   "nombre": "Xochitlán Todos Santos"
+  },
+  {
+   "clave": 204,
+   "nombre": "Yaonáhuac"
+  },
+  {
+   "clave": 205,
+   "nombre": "Yehualtepec"
+  },
+  {
+   "clave": 206,
+   "nombre": "Zacapala"
+  },
+  {
+   "clave": 207,
+   "nombre": "Zacapoaxtla"
+  },
+  {
+   "clave": 208,
+   "nombre": "Zacatlán"
+  },
+  {
+   "clave": 209,
+   "nombre": "Zapotitlán"
+  },
+  {
+   "clave": 210,
+   "nombre": "Zapotitlán De Méndez"
+  },
+  {
+   "clave": 211,
+   "nombre": "Zaragoza"
+  },
+  {
+   "clave": 212,
+   "nombre": "Zautla"
+  },
+  {
+   "clave": 213,
+   "nombre": "Zihuateutla"
+  },
+  {
+   "clave": 214,
+   "nombre": "Zinacatepec"
+  },
+  {
+   "clave": 215,
+   "nombre": "Zongozotla"
+  },
+  {
+   "clave": 216,
+   "nombre": "Zoquiapan"
+  },
+  {
+   "clave": 217,
+   "nombre": "Zoquitlán"
+  }
+ ],
+ "22": [
+  {
+   "clave": 1,
+   "nombre": "Amealco De Bonfil"
+  },
+  {
+   "clave": 2,
+   "nombre": "Pinal De Amoles"
+  },
+  {
+   "clave": 3,
+   "nombre": "Arroyo Seco"
+  },
+  {
+   "clave": 4,
+   "nombre": "Cadereyta De Montes"
+  },
+  {
+   "clave": 5,
+   "nombre": "Colón"
+  },
+  {
+   "clave": 6,
+   "nombre": "Corregidora"
+  },
+  {
+   "clave": 7,
+   "nombre": "Ezequiel Montes"
+  },
+  {
+   "clave": 8,
+   "nombre": "Huimilpan"
+  },
+  {
+   "clave": 9,
+   "nombre": "Jalpan De Serra"
+  },
+  {
+   "clave": 10,
+   "nombre": "Landa De Matamoros"
+  },
+  {
+   "clave": 11,
+   "nombre": "El Marqués"
+  },
+  {
+   "clave": 12,
+   "nombre": "Pedro Escobedo"
+  },
+  {
+   "clave": 13,
+   "nombre": "Peñamiller"
+  },
+  {
+   "clave": 14,
+   "nombre": "Querétaro"
+  },
+  {
+   "clave": 15,
+   "nombre": "San Joaquín"
+  },
+  {
+   "clave": 16,
+   "nombre": "San Juan Del Río"
+  },
+  {
+   "clave": 17,
+   "nombre": "Tequisquiapan"
+  },
+  {
+   "clave": 18,
+   "nombre": "Tolimán"
+  }
+ ],
+ "23": [
+  {
+   "clave": 1,
+   "nombre": "Cozumel"
+  },
+  {
+   "clave": 2,
+   "nombre": "Felipe Carrillo Puerto"
+  },
+  {
+   "clave": 3,
+   "nombre": "Isla Mujeres"
+  },
+  {
+   "clave": 4,
+   "nombre": "Othón P. Blanco"
+  },
+  {
+   "clave": 5,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 6,
+   "nombre": "José María Morelos"
+  },
+  {
+   "clave": 7,
+   "nombre": "Lázaro Cárdenas"
+  },
+  {
+   "clave": 8,
+   "nombre": "Playa Del Carmen"
+  },
+  {
+   "clave": 9,
+   "nombre": "Tulum"
+  },
+  {
+   "clave": 10,
+   "nombre": "Bacalar"
+  },
+  {
+   "clave": 11,
+   "nombre": "Puerto Morelos"
+  }
+ ],
+ "24": [
+  {
+   "clave": 1,
+   "nombre": "Ahualulco Del Sonido 13"
+  },
+  {
+   "clave": 2,
+   "nombre": "Alaquines"
+  },
+  {
+   "clave": 3,
+   "nombre": "Aquismón"
+  },
+  {
+   "clave": 4,
+   "nombre": "Armadillo De Los Infante"
+  },
+  {
+   "clave": 5,
+   "nombre": "Cárdenas"
+  },
+  {
+   "clave": 6,
+   "nombre": "Catorce"
+  },
+  {
+   "clave": 7,
+   "nombre": "Cedral"
+  },
+  {
+   "clave": 8,
+   "nombre": "Cerritos"
+  },
+  {
+   "clave": 9,
+   "nombre": "Cerro De San Pedro"
+  },
+  {
+   "clave": 10,
+   "nombre": "Ciudad Del Maíz"
+  },
+  {
+   "clave": 11,
+   "nombre": "Ciudad Fernández"
+  },
+  {
+   "clave": 12,
+   "nombre": "Tancanhuitz"
+  },
+  {
+   "clave": 13,
+   "nombre": "Ciudad Valles"
+  },
+  {
+   "clave": 14,
+   "nombre": "Coxcatlán"
+  },
+  {
+   "clave": 15,
+   "nombre": "Charcas"
+  },
+  {
+   "clave": 16,
+   "nombre": "Ebano"
+  },
+  {
+   "clave": 17,
+   "nombre": "Guadalcázar"
+  },
+  {
+   "clave": 18,
+   "nombre": "Huehuetlán"
+  },
+  {
+   "clave": 19,
+   "nombre": "Lagunillas"
+  },
+  {
+   "clave": 20,
+   "nombre": "Matehuala"
+  },
+  {
+   "clave": 21,
+   "nombre": "Mexquitic De Carmona"
+  },
+  {
+   "clave": 22,
+   "nombre": "Moctezuma"
+  },
+  {
+   "clave": 23,
+   "nombre": "Rayón"
+  },
+  {
+   "clave": 24,
+   "nombre": "Rioverde"
+  },
+  {
+   "clave": 25,
+   "nombre": "Salinas"
+  },
+  {
+   "clave": 26,
+   "nombre": "San Antonio"
+  },
+  {
+   "clave": 27,
+   "nombre": "San Ciro De Acosta"
+  },
+  {
+   "clave": 28,
+   "nombre": "San Luis Potosí"
+  },
+  {
+   "clave": 29,
+   "nombre": "San Martín Chalchicuautla"
+  },
+  {
+   "clave": 30,
+   "nombre": "San Nicolás Tolentino"
+  },
+  {
+   "clave": 31,
+   "nombre": "Santa Catarina"
+  },
+  {
+   "clave": 32,
+   "nombre": "Santa María Del Río"
+  },
+  {
+   "clave": 33,
+   "nombre": "Santo Domingo"
+  },
+  {
+   "clave": 34,
+   "nombre": "San Vicente Tancuayalab"
+  },
+  {
+   "clave": 35,
+   "nombre": "Soledad De Graciano Sánchez"
+  },
+  {
+   "clave": 36,
+   "nombre": "Tamasopo"
+  },
+  {
+   "clave": 37,
+   "nombre": "Tamazunchale"
+  },
+  {
+   "clave": 38,
+   "nombre": "Tampacán"
+  },
+  {
+   "clave": 39,
+   "nombre": "Tampamolón Corona"
+  },
+  {
+   "clave": 40,
+   "nombre": "Tamuín"
+  },
+  {
+   "clave": 41,
+   "nombre": "Tanlajás"
+  },
+  {
+   "clave": 42,
+   "nombre": "Tanquián De Escobedo"
+  },
+  {
+   "clave": 43,
+   "nombre": "Tierra Nueva"
+  },
+  {
+   "clave": 44,
+   "nombre": "Vanegas"
+  },
+  {
+   "clave": 45,
+   "nombre": "Venado"
+  },
+  {
+   "clave": 46,
+   "nombre": "Villa De Arriaga"
+  },
+  {
+   "clave": 47,
+   "nombre": "Villa De Guadalupe"
+  },
+  {
+   "clave": 48,
+   "nombre": "Villa De La Paz"
+  },
+  {
+   "clave": 49,
+   "nombre": "Villa De Ramos"
+  },
+  {
+   "clave": 50,
+   "nombre": "Villa De Reyes"
+  },
+  {
+   "clave": 51,
+   "nombre": "Villa Hidalgo"
+  },
+  {
+   "clave": 52,
+   "nombre": "Villa Juárez"
+  },
+  {
+   "clave": 53,
+   "nombre": "Axtla De Terrazas"
+  },
+  {
+   "clave": 54,
+   "nombre": "Xilitla"
+  },
+  {
+   "clave": 55,
+   "nombre": "Zaragoza"
+  },
+  {
+   "clave": 56,
+   "nombre": "Villa De Arista"
+  },
+  {
+   "clave": 57,
+   "nombre": "Matlapa"
+  },
+  {
+   "clave": 58,
+   "nombre": "El Naranjo"
+  },
+  {
+   "clave": 59,
+   "nombre": "Villa De Pozos"
+  }
+ ],
+ "25": [
+  {
+   "clave": 1,
+   "nombre": "Ahome"
+  },
+  {
+   "clave": 2,
+   "nombre": "Angostura"
+  },
+  {
+   "clave": 3,
+   "nombre": "Badiraguato"
+  },
+  {
+   "clave": 4,
+   "nombre": "Concordia"
+  },
+  {
+   "clave": 5,
+   "nombre": "Cosalá"
+  },
+  {
+   "clave": 6,
+   "nombre": "Culiacán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Choix"
+  },
+  {
+   "clave": 8,
+   "nombre": "Elota"
+  },
+  {
+   "clave": 9,
+   "nombre": "Escuinapa"
+  },
+  {
+   "clave": 10,
+   "nombre": "El Fuerte"
+  },
+  {
+   "clave": 11,
+   "nombre": "Guasave"
+  },
+  {
+   "clave": 12,
+   "nombre": "Mazatlán"
+  },
+  {
+   "clave": 13,
+   "nombre": "Mocorito"
+  },
+  {
+   "clave": 14,
+   "nombre": "Rosario"
+  },
+  {
+   "clave": 15,
+   "nombre": "Salvador Alvarado"
+  },
+  {
+   "clave": 16,
+   "nombre": "San Ignacio"
+  },
+  {
+   "clave": 17,
+   "nombre": "Sinaloa"
+  },
+  {
+   "clave": 18,
+   "nombre": "Navolato"
+  },
+  {
+   "clave": 19,
+   "nombre": "Eldorado"
+  },
+  {
+   "clave": 20,
+   "nombre": "Juan José Ríos"
+  }
+ ],
+ "26": [
+  {
+   "clave": 1,
+   "nombre": "Aconchi"
+  },
+  {
+   "clave": 2,
+   "nombre": "Agua Prieta"
+  },
+  {
+   "clave": 3,
+   "nombre": "Álamos"
+  },
+  {
+   "clave": 4,
+   "nombre": "Altar"
+  },
+  {
+   "clave": 5,
+   "nombre": "Arivechi"
+  },
+  {
+   "clave": 6,
+   "nombre": "Arizpe"
+  },
+  {
+   "clave": 7,
+   "nombre": "Atil"
+  },
+  {
+   "clave": 8,
+   "nombre": "Bacadéhuachi"
+  },
+  {
+   "clave": 9,
+   "nombre": "Bacanora"
+  },
+  {
+   "clave": 10,
+   "nombre": "Bacerac"
+  },
+  {
+   "clave": 11,
+   "nombre": "Bacoachi"
+  },
+  {
+   "clave": 12,
+   "nombre": "Bácum"
+  },
+  {
+   "clave": 13,
+   "nombre": "Banámichi"
+  },
+  {
+   "clave": 14,
+   "nombre": "Baviácora"
+  },
+  {
+   "clave": 15,
+   "nombre": "Bavispe"
+  },
+  {
+   "clave": 16,
+   "nombre": "Benjamín Hill"
+  },
+  {
+   "clave": 17,
+   "nombre": "Caborca"
+  },
+  {
+   "clave": 18,
+   "nombre": "Cajeme"
+  },
+  {
+   "clave": 19,
+   "nombre": "Cananea"
+  },
+  {
+   "clave": 20,
+   "nombre": "Carbó"
+  },
+  {
+   "clave": 21,
+   "nombre": "La Colorada"
+  },
+  {
+   "clave": 22,
+   "nombre": "Cucurpe"
+  },
+  {
+   "clave": 23,
+   "nombre": "Cumpas"
+  },
+  {
+   "clave": 24,
+   "nombre": "Divisaderos"
+  },
+  {
+   "clave": 25,
+   "nombre": "Empalme"
+  },
+  {
+   "clave": 26,
+   "nombre": "Etchojoa"
+  },
+  {
+   "clave": 27,
+   "nombre": "Fronteras"
+  },
+  {
+   "clave": 28,
+   "nombre": "Granados"
+  },
+  {
+   "clave": 29,
+   "nombre": "Guaymas"
+  },
+  {
+   "clave": 30,
+   "nombre": "Hermosillo"
+  },
+  {
+   "clave": 31,
+   "nombre": "Huachinera"
+  },
+  {
+   "clave": 32,
+   "nombre": "Huásabas"
+  },
+  {
+   "clave": 33,
+   "nombre": "Huatabampo"
+  },
+  {
+   "clave": 34,
+   "nombre": "Huépac"
+  },
+  {
+   "clave": 35,
+   "nombre": "Imuris"
+  },
+  {
+   "clave": 36,
+   "nombre": "Magdalena"
+  },
+  {
+   "clave": 37,
+   "nombre": "Mazatán"
+  },
+  {
+   "clave": 38,
+   "nombre": "Moctezuma"
+  },
+  {
+   "clave": 39,
+   "nombre": "Naco"
+  },
+  {
+   "clave": 40,
+   "nombre": "Nácori Chico"
+  },
+  {
+   "clave": 41,
+   "nombre": "Nacozari De García"
+  },
+  {
+   "clave": 42,
+   "nombre": "Navojoa"
+  },
+  {
+   "clave": 43,
+   "nombre": "Nogales"
+  },
+  {
+   "clave": 44,
+   "nombre": "Ónavas"
+  },
+  {
+   "clave": 45,
+   "nombre": "Opodepe"
+  },
+  {
+   "clave": 46,
+   "nombre": "Oquitoa"
+  },
+  {
+   "clave": 47,
+   "nombre": "Pitiquito"
+  },
+  {
+   "clave": 48,
+   "nombre": "Puerto Peñasco"
+  },
+  {
+   "clave": 49,
+   "nombre": "Quiriego"
+  },
+  {
+   "clave": 50,
+   "nombre": "Rayón"
+  },
+  {
+   "clave": 51,
+   "nombre": "Rosario"
+  },
+  {
+   "clave": 52,
+   "nombre": "Sahuaripa"
+  },
+  {
+   "clave": 53,
+   "nombre": "San Felipe De Jesús"
+  },
+  {
+   "clave": 54,
+   "nombre": "San Javier"
+  },
+  {
+   "clave": 55,
+   "nombre": "San Luis Río Colorado"
+  },
+  {
+   "clave": 56,
+   "nombre": "San Miguel De Horcasitas"
+  },
+  {
+   "clave": 57,
+   "nombre": "San Pedro De La Cueva"
+  },
+  {
+   "clave": 58,
+   "nombre": "Santa Ana"
+  },
+  {
+   "clave": 59,
+   "nombre": "Santa Cruz"
+  },
+  {
+   "clave": 60,
+   "nombre": "Sáric"
+  },
+  {
+   "clave": 61,
+   "nombre": "Soyopa"
+  },
+  {
+   "clave": 62,
+   "nombre": "Suaqui Grande"
+  },
+  {
+   "clave": 63,
+   "nombre": "Tepache"
+  },
+  {
+   "clave": 64,
+   "nombre": "Trincheras"
+  },
+  {
+   "clave": 65,
+   "nombre": "Tubutama"
+  },
+  {
+   "clave": 66,
+   "nombre": "Ures"
+  },
+  {
+   "clave": 67,
+   "nombre": "Villa Hidalgo"
+  },
+  {
+   "clave": 68,
+   "nombre": "Villa Pesqueira"
+  },
+  {
+   "clave": 69,
+   "nombre": "Yécora"
+  },
+  {
+   "clave": 70,
+   "nombre": "General Plutarco Elías Calles"
+  },
+  {
+   "clave": 71,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 72,
+   "nombre": "San Ignacio Río Muerto"
+  }
+ ],
+ "27": [
+  {
+   "clave": 1,
+   "nombre": "Balancán"
+  },
+  {
+   "clave": 2,
+   "nombre": "Cárdenas"
+  },
+  {
+   "clave": 3,
+   "nombre": "Centla"
+  },
+  {
+   "clave": 4,
+   "nombre": "Centro"
+  },
+  {
+   "clave": 5,
+   "nombre": "Comalcalco"
+  },
+  {
+   "clave": 6,
+   "nombre": "Cunduacán"
+  },
+  {
+   "clave": 7,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 8,
+   "nombre": "Huimanguillo"
+  },
+  {
+   "clave": 9,
+   "nombre": "Jalapa"
+  },
+  {
+   "clave": 10,
+   "nombre": "Jalpa De Méndez"
+  },
+  {
+   "clave": 11,
+   "nombre": "Jonuta"
+  },
+  {
+   "clave": 12,
+   "nombre": "Macuspana"
+  },
+  {
+   "clave": 13,
+   "nombre": "Nacajuca"
+  },
+  {
+   "clave": 14,
+   "nombre": "Paraíso"
+  },
+  {
+   "clave": 15,
+   "nombre": "Tacotalpa"
+  },
+  {
+   "clave": 16,
+   "nombre": "Teapa"
+  },
+  {
+   "clave": 17,
+   "nombre": "Tenosique"
+  }
+ ],
+ "28": [
+  {
+   "clave": 1,
+   "nombre": "Abasolo"
+  },
+  {
+   "clave": 2,
+   "nombre": "Aldama"
+  },
+  {
+   "clave": 3,
+   "nombre": "Altamira"
+  },
+  {
+   "clave": 4,
+   "nombre": "Antiguo Morelos"
+  },
+  {
+   "clave": 5,
+   "nombre": "Burgos"
+  },
+  {
+   "clave": 6,
+   "nombre": "Bustamante"
+  },
+  {
+   "clave": 7,
+   "nombre": "Camargo"
+  },
+  {
+   "clave": 8,
+   "nombre": "Casas"
+  },
+  {
+   "clave": 9,
+   "nombre": "Ciudad Madero"
+  },
+  {
+   "clave": 10,
+   "nombre": "Cruillas"
+  },
+  {
+   "clave": 11,
+   "nombre": "Gómez Farías"
+  },
+  {
+   "clave": 12,
+   "nombre": "González"
+  },
+  {
+   "clave": 13,
+   "nombre": "Güémez"
+  },
+  {
+   "clave": 14,
+   "nombre": "Guerrero"
+  },
+  {
+   "clave": 15,
+   "nombre": "Gustavo Díaz Ordaz"
+  },
+  {
+   "clave": 16,
+   "nombre": "Hidalgo"
+  },
+  {
+   "clave": 17,
+   "nombre": "Jaumave"
+  },
+  {
+   "clave": 18,
+   "nombre": "Jiménez"
+  },
+  {
+   "clave": 19,
+   "nombre": "Llera"
+  },
+  {
+   "clave": 20,
+   "nombre": "Mainero"
+  },
+  {
+   "clave": 21,
+   "nombre": "El Mante"
+  },
+  {
+   "clave": 22,
+   "nombre": "Matamoros"
+  },
+  {
+   "clave": 23,
+   "nombre": "Méndez"
+  },
+  {
+   "clave": 24,
+   "nombre": "Mier"
+  },
+  {
+   "clave": 25,
+   "nombre": "Miguel Alemán"
+  },
+  {
+   "clave": 26,
+   "nombre": "Miquihuana"
+  },
+  {
+   "clave": 27,
+   "nombre": "Nuevo Laredo"
+  },
+  {
+   "clave": 28,
+   "nombre": "Nuevo Morelos"
+  },
+  {
+   "clave": 29,
+   "nombre": "Ocampo"
+  },
+  {
+   "clave": 30,
+   "nombre": "Padilla"
+  },
+  {
+   "clave": 31,
+   "nombre": "Palmillas"
+  },
+  {
+   "clave": 32,
+   "nombre": "Reynosa"
+  },
+  {
+   "clave": 33,
+   "nombre": "Río Bravo"
+  },
+  {
+   "clave": 34,
+   "nombre": "San Carlos"
+  },
+  {
+   "clave": 35,
+   "nombre": "San Fernando"
+  },
+  {
+   "clave": 36,
+   "nombre": "San Nicolás"
+  },
+  {
+   "clave": 37,
+   "nombre": "Soto La Marina"
+  },
+  {
+   "clave": 38,
+   "nombre": "Tampico"
+  },
+  {
+   "clave": 39,
+   "nombre": "Tula"
+  },
+  {
+   "clave": 40,
+   "nombre": "Valle Hermoso"
+  },
+  {
+   "clave": 41,
+   "nombre": "Victoria"
+  },
+  {
+   "clave": 42,
+   "nombre": "Villagrán"
+  },
+  {
+   "clave": 43,
+   "nombre": "Xicoténcatl"
+  }
+ ],
+ "29": [
+  {
+   "clave": 1,
+   "nombre": "Amaxac De Guerrero"
+  },
+  {
+   "clave": 2,
+   "nombre": "Apetatitlán De Antonio Carvajal"
+  },
+  {
+   "clave": 3,
+   "nombre": "Atlangatepec"
+  },
+  {
+   "clave": 4,
+   "nombre": "Atltzayanca"
+  },
+  {
+   "clave": 5,
+   "nombre": "Apizaco"
+  },
+  {
+   "clave": 6,
+   "nombre": "Calpulalpan"
+  },
+  {
+   "clave": 7,
+   "nombre": "El Carmen Tequexquitla"
+  },
+  {
+   "clave": 8,
+   "nombre": "Cuapiaxtla"
+  },
+  {
+   "clave": 9,
+   "nombre": "Cuaxomulco"
+  },
+  {
+   "clave": 10,
+   "nombre": "Chiautempan"
+  },
+  {
+   "clave": 11,
+   "nombre": "Muñoz De Domingo Arenas"
+  },
+  {
+   "clave": 12,
+   "nombre": "Españita"
+  },
+  {
+   "clave": 13,
+   "nombre": "Huamantla"
+  },
+  {
+   "clave": 14,
+   "nombre": "Hueyotlipan"
+  },
+  {
+   "clave": 15,
+   "nombre": "Ixtacuixtla De Mariano Matamoros"
+  },
+  {
+   "clave": 16,
+   "nombre": "Ixtenco"
+  },
+  {
+   "clave": 17,
+   "nombre": "Mazatecochco De José María Morelos"
+  },
+  {
+   "clave": 18,
+   "nombre": "Contla De Juan Cuamatzi"
+  },
+  {
+   "clave": 19,
+   "nombre": "Tepetitla De Lardizábal"
+  },
+  {
+   "clave": 20,
+   "nombre": "Sanctórum De Lázaro Cárdenas"
+  },
+  {
+   "clave": 21,
+   "nombre": "Nanacamilpa De Mariano Arista"
+  },
+  {
+   "clave": 22,
+   "nombre": "Acuamanala De Miguel Hidalgo"
+  },
+  {
+   "clave": 23,
+   "nombre": "Natívitas"
+  },
+  {
+   "clave": 24,
+   "nombre": "Panotla"
+  },
+  {
+   "clave": 25,
+   "nombre": "San Pablo Del Monte"
+  },
+  {
+   "clave": 26,
+   "nombre": "Santa Cruz Tlaxcala"
+  },
+  {
+   "clave": 27,
+   "nombre": "Tenancingo"
+  },
+  {
+   "clave": 28,
+   "nombre": "Teolocholco"
+  },
+  {
+   "clave": 29,
+   "nombre": "Tepeyanco"
+  },
+  {
+   "clave": 30,
+   "nombre": "Terrenate"
+  },
+  {
+   "clave": 31,
+   "nombre": "Tetla De La Solidaridad"
+  },
+  {
+   "clave": 32,
+   "nombre": "Tetlatlahuca"
+  },
+  {
+   "clave": 33,
+   "nombre": "Tlaxcala"
+  },
+  {
+   "clave": 34,
+   "nombre": "Tlaxco"
+  },
+  {
+   "clave": 35,
+   "nombre": "Tocatlán"
+  },
+  {
+   "clave": 36,
+   "nombre": "Totolac"
+  },
+  {
+   "clave": 37,
+   "nombre": "Ziltlaltépec De Trinidad Sánchez Santos"
+  },
+  {
+   "clave": 38,
+   "nombre": "Tzompantepec"
+  },
+  {
+   "clave": 39,
+   "nombre": "Xaloztoc"
+  },
+  {
+   "clave": 40,
+   "nombre": "Xaltocan"
+  },
+  {
+   "clave": 41,
+   "nombre": "Papalotla De Xicohténcatl"
+  },
+  {
+   "clave": 42,
+   "nombre": "Xicohtzinco"
+  },
+  {
+   "clave": 43,
+   "nombre": "Yauhquemehcan"
+  },
+  {
+   "clave": 44,
+   "nombre": "Zacatelco"
+  },
+  {
+   "clave": 45,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 46,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 47,
+   "nombre": "Lázaro Cárdenas"
+  },
+  {
+   "clave": 48,
+   "nombre": "La Magdalena Tlaltelulco"
+  },
+  {
+   "clave": 49,
+   "nombre": "San Damián Texóloc"
+  },
+  {
+   "clave": 50,
+   "nombre": "San Francisco Tetlanohcan"
+  },
+  {
+   "clave": 51,
+   "nombre": "San Jerónimo Zacualpan"
+  },
+  {
+   "clave": 52,
+   "nombre": "San José Teacalco"
+  },
+  {
+   "clave": 53,
+   "nombre": "San Juan Huactzinco"
+  },
+  {
+   "clave": 54,
+   "nombre": "San Lorenzo Axocomanitla"
+  },
+  {
+   "clave": 55,
+   "nombre": "San Lucas Tecopilco"
+  },
+  {
+   "clave": 56,
+   "nombre": "Santa Ana Nopalucan"
+  },
+  {
+   "clave": 57,
+   "nombre": "Santa Apolonia Teacalco"
+  },
+  {
+   "clave": 58,
+   "nombre": "Santa Catarina Ayometla"
+  },
+  {
+   "clave": 59,
+   "nombre": "Santa Cruz Quilehtla"
+  },
+  {
+   "clave": 60,
+   "nombre": "Santa Isabel Xiloxoxtla"
+  }
+ ],
+ "30": [
+  {
+   "clave": 1,
+   "nombre": "Acajete"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acatlán"
+  },
+  {
+   "clave": 3,
+   "nombre": "Acayucan"
+  },
+  {
+   "clave": 4,
+   "nombre": "Actopan"
+  },
+  {
+   "clave": 5,
+   "nombre": "Acula"
+  },
+  {
+   "clave": 6,
+   "nombre": "Acultzingo"
+  },
+  {
+   "clave": 7,
+   "nombre": "Camarón De Tejeda"
+  },
+  {
+   "clave": 8,
+   "nombre": "Alpatláhuac"
+  },
+  {
+   "clave": 9,
+   "nombre": "Alto Lucero De Gutiérrez Barrios"
+  },
+  {
+   "clave": 10,
+   "nombre": "Altotonga"
+  },
+  {
+   "clave": 11,
+   "nombre": "Alvarado"
+  },
+  {
+   "clave": 12,
+   "nombre": "Amatitlán"
+  },
+  {
+   "clave": 13,
+   "nombre": "Naranjos Amatlán"
+  },
+  {
+   "clave": 14,
+   "nombre": "Amatlán De Los Reyes"
+  },
+  {
+   "clave": 15,
+   "nombre": "Angel R. Cabada"
+  },
+  {
+   "clave": 16,
+   "nombre": "La Antigua"
+  },
+  {
+   "clave": 17,
+   "nombre": "Apazapan"
+  },
+  {
+   "clave": 18,
+   "nombre": "Aquila"
+  },
+  {
+   "clave": 19,
+   "nombre": "Astacinga"
+  },
+  {
+   "clave": 20,
+   "nombre": "Atlahuilco"
+  },
+  {
+   "clave": 21,
+   "nombre": "Atoyac"
+  },
+  {
+   "clave": 22,
+   "nombre": "Atzacan"
+  },
+  {
+   "clave": 23,
+   "nombre": "Atzalan"
+  },
+  {
+   "clave": 24,
+   "nombre": "Tlaltetela"
+  },
+  {
+   "clave": 25,
+   "nombre": "Ayahualulco"
+  },
+  {
+   "clave": 26,
+   "nombre": "Banderilla"
+  },
+  {
+   "clave": 27,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 28,
+   "nombre": "Boca Del Río"
+  },
+  {
+   "clave": 29,
+   "nombre": "Calcahualco"
+  },
+  {
+   "clave": 30,
+   "nombre": "Camerino Z. Mendoza"
+  },
+  {
+   "clave": 31,
+   "nombre": "Carrillo Puerto"
+  },
+  {
+   "clave": 32,
+   "nombre": "Catemaco"
+  },
+  {
+   "clave": 33,
+   "nombre": "Cazones De Herrera"
+  },
+  {
+   "clave": 34,
+   "nombre": "Cerro Azul"
+  },
+  {
+   "clave": 35,
+   "nombre": "Citlaltépetl"
+  },
+  {
+   "clave": 36,
+   "nombre": "Coacoatzintla"
+  },
+  {
+   "clave": 37,
+   "nombre": "Coahuitlán"
+  },
+  {
+   "clave": 38,
+   "nombre": "Coatepec"
+  },
+  {
+   "clave": 39,
+   "nombre": "Coatzacoalcos"
+  },
+  {
+   "clave": 40,
+   "nombre": "Coatzintla"
+  },
+  {
+   "clave": 41,
+   "nombre": "Coetzala"
+  },
+  {
+   "clave": 42,
+   "nombre": "Colipa"
+  },
+  {
+   "clave": 43,
+   "nombre": "Comapa"
+  },
+  {
+   "clave": 44,
+   "nombre": "Córdoba"
+  },
+  {
+   "clave": 45,
+   "nombre": "Cosamaloapan De Carpio"
+  },
+  {
+   "clave": 46,
+   "nombre": "Cosautlán De Carvajal"
+  },
+  {
+   "clave": 47,
+   "nombre": "Coscomatepec"
+  },
+  {
+   "clave": 48,
+   "nombre": "Cosoleacaque"
+  },
+  {
+   "clave": 49,
+   "nombre": "Cotaxtla"
+  },
+  {
+   "clave": 50,
+   "nombre": "Coxquihui"
+  },
+  {
+   "clave": 51,
+   "nombre": "Coyutla"
+  },
+  {
+   "clave": 52,
+   "nombre": "Cuichapa"
+  },
+  {
+   "clave": 53,
+   "nombre": "Cuitláhuac"
+  },
+  {
+   "clave": 54,
+   "nombre": "Chacaltianguis"
+  },
+  {
+   "clave": 55,
+   "nombre": "Chalma"
+  },
+  {
+   "clave": 56,
+   "nombre": "Chiconamel"
+  },
+  {
+   "clave": 57,
+   "nombre": "Chiconquiaco"
+  },
+  {
+   "clave": 58,
+   "nombre": "Chicontepec"
+  },
+  {
+   "clave": 59,
+   "nombre": "Chinameca"
+  },
+  {
+   "clave": 60,
+   "nombre": "Chinampa De Gorostiza"
+  },
+  {
+   "clave": 61,
+   "nombre": "Las Choapas"
+  },
+  {
+   "clave": 62,
+   "nombre": "Chocamán"
+  },
+  {
+   "clave": 63,
+   "nombre": "Chontla"
+  },
+  {
+   "clave": 64,
+   "nombre": "Chumatlán"
+  },
+  {
+   "clave": 65,
+   "nombre": "Emiliano Zapata"
+  },
+  {
+   "clave": 66,
+   "nombre": "Espinal"
+  },
+  {
+   "clave": 67,
+   "nombre": "Filomeno Mata"
+  },
+  {
+   "clave": 68,
+   "nombre": "Fortín"
+  },
+  {
+   "clave": 69,
+   "nombre": "Gutiérrez Zamora"
+  },
+  {
+   "clave": 70,
+   "nombre": "Hidalgotitlán"
+  },
+  {
+   "clave": 71,
+   "nombre": "Huatusco"
+  },
+  {
+   "clave": 72,
+   "nombre": "Huayacocotla"
+  },
+  {
+   "clave": 73,
+   "nombre": "Hueyapan De Ocampo"
+  },
+  {
+   "clave": 74,
+   "nombre": "Huiloapan De Cuauhtémoc"
+  },
+  {
+   "clave": 75,
+   "nombre": "Ignacio De La Llave"
+  },
+  {
+   "clave": 76,
+   "nombre": "Ilamatlán"
+  },
+  {
+   "clave": 77,
+   "nombre": "Isla"
+  },
+  {
+   "clave": 78,
+   "nombre": "Ixcatepec"
+  },
+  {
+   "clave": 79,
+   "nombre": "Ixhuacán De Los Reyes"
+  },
+  {
+   "clave": 80,
+   "nombre": "Ixhuatlán Del Café"
+  },
+  {
+   "clave": 81,
+   "nombre": "Ixhuatlancillo"
+  },
+  {
+   "clave": 82,
+   "nombre": "Ixhuatlán Del Sureste"
+  },
+  {
+   "clave": 83,
+   "nombre": "Ixhuatlán De Madero"
+  },
+  {
+   "clave": 84,
+   "nombre": "Ixmatlahuacan"
+  },
+  {
+   "clave": 85,
+   "nombre": "Ixtaczoquitlán"
+  },
+  {
+   "clave": 86,
+   "nombre": "Jalacingo"
+  },
+  {
+   "clave": 87,
+   "nombre": "Xalapa"
+  },
+  {
+   "clave": 88,
+   "nombre": "Jalcomulco"
+  },
+  {
+   "clave": 89,
+   "nombre": "Jáltipan"
+  },
+  {
+   "clave": 90,
+   "nombre": "Jamapa"
+  },
+  {
+   "clave": 91,
+   "nombre": "Jesús Carranza"
+  },
+  {
+   "clave": 92,
+   "nombre": "Xico"
+  },
+  {
+   "clave": 93,
+   "nombre": "Jilotepec"
+  },
+  {
+   "clave": 94,
+   "nombre": "Juan Rodríguez Clara"
+  },
+  {
+   "clave": 95,
+   "nombre": "Juchique De Ferrer"
+  },
+  {
+   "clave": 96,
+   "nombre": "Landero Y Coss"
+  },
+  {
+   "clave": 97,
+   "nombre": "Lerdo De Tejada"
+  },
+  {
+   "clave": 98,
+   "nombre": "Magdalena"
+  },
+  {
+   "clave": 99,
+   "nombre": "Maltrata"
+  },
+  {
+   "clave": 100,
+   "nombre": "Manlio Fabio Altamirano"
+  },
+  {
+   "clave": 101,
+   "nombre": "Mariano Escobedo"
+  },
+  {
+   "clave": 102,
+   "nombre": "Martínez De La Torre"
+  },
+  {
+   "clave": 103,
+   "nombre": "Mecatlán"
+  },
+  {
+   "clave": 104,
+   "nombre": "Mecayapan"
+  },
+  {
+   "clave": 105,
+   "nombre": "Medellín De Bravo"
+  },
+  {
+   "clave": 106,
+   "nombre": "Miahuatlán"
+  },
+  {
+   "clave": 107,
+   "nombre": "Las Minas"
+  },
+  {
+   "clave": 108,
+   "nombre": "Minatitlán"
+  },
+  {
+   "clave": 109,
+   "nombre": "Misantla"
+  },
+  {
+   "clave": 110,
+   "nombre": "Mixtla De Altamirano"
+  },
+  {
+   "clave": 111,
+   "nombre": "Moloacán"
+  },
+  {
+   "clave": 112,
+   "nombre": "Naolinco"
+  },
+  {
+   "clave": 113,
+   "nombre": "Naranjal"
+  },
+  {
+   "clave": 114,
+   "nombre": "Nautla"
+  },
+  {
+   "clave": 115,
+   "nombre": "Nogales"
+  },
+  {
+   "clave": 116,
+   "nombre": "Oluta"
+  },
+  {
+   "clave": 117,
+   "nombre": "Omealca"
+  },
+  {
+   "clave": 118,
+   "nombre": "Orizaba"
+  },
+  {
+   "clave": 119,
+   "nombre": "Otatitlán"
+  },
+  {
+   "clave": 120,
+   "nombre": "Oteapan"
+  },
+  {
+   "clave": 121,
+   "nombre": "Ozuluama De Mascareñas"
+  },
+  {
+   "clave": 122,
+   "nombre": "Pajapan"
+  },
+  {
+   "clave": 123,
+   "nombre": "Pánuco"
+  },
+  {
+   "clave": 124,
+   "nombre": "Papantla"
+  },
+  {
+   "clave": 125,
+   "nombre": "Paso Del Macho"
+  },
+  {
+   "clave": 126,
+   "nombre": "Paso De Ovejas"
+  },
+  {
+   "clave": 127,
+   "nombre": "La Perla"
+  },
+  {
+   "clave": 128,
+   "nombre": "Perote"
+  },
+  {
+   "clave": 129,
+   "nombre": "Platón Sánchez"
+  },
+  {
+   "clave": 130,
+   "nombre": "Playa Vicente"
+  },
+  {
+   "clave": 131,
+   "nombre": "Poza Rica De Hidalgo"
+  },
+  {
+   "clave": 132,
+   "nombre": "Las Vigas De Ramírez"
+  },
+  {
+   "clave": 133,
+   "nombre": "Pueblo Viejo"
+  },
+  {
+   "clave": 134,
+   "nombre": "Puente Nacional"
+  },
+  {
+   "clave": 135,
+   "nombre": "Rafael Delgado"
+  },
+  {
+   "clave": 136,
+   "nombre": "Rafael Lucio"
+  },
+  {
+   "clave": 137,
+   "nombre": "Los Reyes"
+  },
+  {
+   "clave": 138,
+   "nombre": "Río Blanco"
+  },
+  {
+   "clave": 139,
+   "nombre": "Saltabarranca"
+  },
+  {
+   "clave": 140,
+   "nombre": "San Andrés Tenejapan"
+  },
+  {
+   "clave": 141,
+   "nombre": "San Andrés Tuxtla"
+  },
+  {
+   "clave": 142,
+   "nombre": "San Juan Evangelista"
+  },
+  {
+   "clave": 143,
+   "nombre": "Santiago Tuxtla"
+  },
+  {
+   "clave": 144,
+   "nombre": "Sayula De Alemán"
+  },
+  {
+   "clave": 145,
+   "nombre": "Soconusco"
+  },
+  {
+   "clave": 146,
+   "nombre": "Sochiapa"
+  },
+  {
+   "clave": 147,
+   "nombre": "Soledad Atzompa"
+  },
+  {
+   "clave": 148,
+   "nombre": "Soledad De Doblado"
+  },
+  {
+   "clave": 149,
+   "nombre": "Soteapan"
+  },
+  {
+   "clave": 150,
+   "nombre": "Tamalín"
+  },
+  {
+   "clave": 151,
+   "nombre": "Tamiahua"
+  },
+  {
+   "clave": 152,
+   "nombre": "Tampico Alto"
+  },
+  {
+   "clave": 153,
+   "nombre": "Tancoco"
+  },
+  {
+   "clave": 154,
+   "nombre": "Tantima"
+  },
+  {
+   "clave": 155,
+   "nombre": "Tantoyuca"
+  },
+  {
+   "clave": 156,
+   "nombre": "Tatatila"
+  },
+  {
+   "clave": 157,
+   "nombre": "Castillo De Teayo"
+  },
+  {
+   "clave": 158,
+   "nombre": "Tecolutla"
+  },
+  {
+   "clave": 159,
+   "nombre": "Tehuipango"
+  },
+  {
+   "clave": 160,
+   "nombre": "Álamo Temapache"
+  },
+  {
+   "clave": 161,
+   "nombre": "Tempoal"
+  },
+  {
+   "clave": 162,
+   "nombre": "Tenampa"
+  },
+  {
+   "clave": 163,
+   "nombre": "Tenochtitlán"
+  },
+  {
+   "clave": 164,
+   "nombre": "Teocelo"
+  },
+  {
+   "clave": 165,
+   "nombre": "Tepatlaxco"
+  },
+  {
+   "clave": 166,
+   "nombre": "Tepetlán"
+  },
+  {
+   "clave": 167,
+   "nombre": "Tepetzintla"
+  },
+  {
+   "clave": 168,
+   "nombre": "Tequila"
+  },
+  {
+   "clave": 169,
+   "nombre": "José Azueta"
+  },
+  {
+   "clave": 170,
+   "nombre": "Texcatepec"
+  },
+  {
+   "clave": 171,
+   "nombre": "Texhuacán"
+  },
+  {
+   "clave": 172,
+   "nombre": "Texistepec"
+  },
+  {
+   "clave": 173,
+   "nombre": "Tezonapa"
+  },
+  {
+   "clave": 174,
+   "nombre": "Tierra Blanca"
+  },
+  {
+   "clave": 175,
+   "nombre": "Tihuatlán"
+  },
+  {
+   "clave": 176,
+   "nombre": "Tlacojalpan"
+  },
+  {
+   "clave": 177,
+   "nombre": "Tlacolulan"
+  },
+  {
+   "clave": 178,
+   "nombre": "Tlacotalpan"
+  },
+  {
+   "clave": 179,
+   "nombre": "Tlacotepec De Mejía"
+  },
+  {
+   "clave": 180,
+   "nombre": "Tlachichilco"
+  },
+  {
+   "clave": 181,
+   "nombre": "Tlalixcoyan"
+  },
+  {
+   "clave": 182,
+   "nombre": "Tlalnelhuayocan"
+  },
+  {
+   "clave": 183,
+   "nombre": "Tlapacoyan"
+  },
+  {
+   "clave": 184,
+   "nombre": "Tlaquilpa"
+  },
+  {
+   "clave": 185,
+   "nombre": "Tlilapan"
+  },
+  {
+   "clave": 186,
+   "nombre": "Tomatlán"
+  },
+  {
+   "clave": 187,
+   "nombre": "Tonayán"
+  },
+  {
+   "clave": 188,
+   "nombre": "Totutla"
+  },
+  {
+   "clave": 189,
+   "nombre": "Tuxpan"
+  },
+  {
+   "clave": 190,
+   "nombre": "Tuxtilla"
+  },
+  {
+   "clave": 191,
+   "nombre": "Ursulo Galván"
+  },
+  {
+   "clave": 192,
+   "nombre": "Vega De Alatorre"
+  },
+  {
+   "clave": 193,
+   "nombre": "Veracruz"
+  },
+  {
+   "clave": 194,
+   "nombre": "Villa Aldama"
+  },
+  {
+   "clave": 195,
+   "nombre": "Xoxocotla"
+  },
+  {
+   "clave": 196,
+   "nombre": "Yanga"
+  },
+  {
+   "clave": 197,
+   "nombre": "Yecuatla"
+  },
+  {
+   "clave": 198,
+   "nombre": "Zacualpan"
+  },
+  {
+   "clave": 199,
+   "nombre": "Zaragoza"
+  },
+  {
+   "clave": 200,
+   "nombre": "Zentla"
+  },
+  {
+   "clave": 201,
+   "nombre": "Zongolica"
+  },
+  {
+   "clave": 202,
+   "nombre": "Zontecomatlán De López Y Fuentes"
+  },
+  {
+   "clave": 203,
+   "nombre": "Zozocolco De Hidalgo"
+  },
+  {
+   "clave": 204,
+   "nombre": "Agua Dulce"
+  },
+  {
+   "clave": 205,
+   "nombre": "El Higo"
+  },
+  {
+   "clave": 206,
+   "nombre": "Nanchital De Lázaro Cárdenas Del Río"
+  },
+  {
+   "clave": 207,
+   "nombre": "Tres Valles"
+  },
+  {
+   "clave": 208,
+   "nombre": "Carlos A. Carrillo"
+  },
+  {
+   "clave": 209,
+   "nombre": "Tatahuicapan De Juárez"
+  },
+  {
+   "clave": 210,
+   "nombre": "Uxpanapa"
+  },
+  {
+   "clave": 211,
+   "nombre": "San Rafael"
+  },
+  {
+   "clave": 212,
+   "nombre": "Santiago Sochiapan"
+  }
+ ],
+ "31": [
+  {
+   "clave": 1,
+   "nombre": "Abalá"
+  },
+  {
+   "clave": 2,
+   "nombre": "Acanceh"
+  },
+  {
+   "clave": 3,
+   "nombre": "Akil"
+  },
+  {
+   "clave": 4,
+   "nombre": "Baca"
+  },
+  {
+   "clave": 5,
+   "nombre": "Bokobá"
+  },
+  {
+   "clave": 6,
+   "nombre": "Buctzotz"
+  },
+  {
+   "clave": 7,
+   "nombre": "Cacalchén"
+  },
+  {
+   "clave": 8,
+   "nombre": "Calotmul"
+  },
+  {
+   "clave": 9,
+   "nombre": "Cansahcab"
+  },
+  {
+   "clave": 10,
+   "nombre": "Cantamayec"
+  },
+  {
+   "clave": 11,
+   "nombre": "Celestún"
+  },
+  {
+   "clave": 12,
+   "nombre": "Cenotillo"
+  },
+  {
+   "clave": 13,
+   "nombre": "Conkal"
+  },
+  {
+   "clave": 14,
+   "nombre": "Cuncunul"
+  },
+  {
+   "clave": 15,
+   "nombre": "Cuzamá"
+  },
+  {
+   "clave": 16,
+   "nombre": "Chacsinkín"
+  },
+  {
+   "clave": 17,
+   "nombre": "Chankom"
+  },
+  {
+   "clave": 18,
+   "nombre": "Chapab"
+  },
+  {
+   "clave": 19,
+   "nombre": "Chemax"
+  },
+  {
+   "clave": 20,
+   "nombre": "Chicxulub Pueblo"
+  },
+  {
+   "clave": 21,
+   "nombre": "Chichimilá"
+  },
+  {
+   "clave": 22,
+   "nombre": "Chikindzonot"
+  },
+  {
+   "clave": 23,
+   "nombre": "Chocholá"
+  },
+  {
+   "clave": 24,
+   "nombre": "Chumayel"
+  },
+  {
+   "clave": 25,
+   "nombre": "Dzan"
+  },
+  {
+   "clave": 26,
+   "nombre": "Dzemul"
+  },
+  {
+   "clave": 27,
+   "nombre": "Dzidzantún"
+  },
+  {
+   "clave": 28,
+   "nombre": "Dzilam De Bravo"
+  },
+  {
+   "clave": 29,
+   "nombre": "Dzilam González"
+  },
+  {
+   "clave": 30,
+   "nombre": "Dzitás"
+  },
+  {
+   "clave": 31,
+   "nombre": "Dzoncauich"
+  },
+  {
+   "clave": 32,
+   "nombre": "Espita"
+  },
+  {
+   "clave": 33,
+   "nombre": "Halachó"
+  },
+  {
+   "clave": 34,
+   "nombre": "Hocabá"
+  },
+  {
+   "clave": 35,
+   "nombre": "Hoctún"
+  },
+  {
+   "clave": 36,
+   "nombre": "Homún"
+  },
+  {
+   "clave": 37,
+   "nombre": "Huhí"
+  },
+  {
+   "clave": 38,
+   "nombre": "Hunucmá"
+  },
+  {
+   "clave": 39,
+   "nombre": "Ixil"
+  },
+  {
+   "clave": 40,
+   "nombre": "Izamal"
+  },
+  {
+   "clave": 41,
+   "nombre": "Kanasín"
+  },
+  {
+   "clave": 42,
+   "nombre": "Kantunil"
+  },
+  {
+   "clave": 43,
+   "nombre": "Kaua"
+  },
+  {
+   "clave": 44,
+   "nombre": "Kinchil"
+  },
+  {
+   "clave": 45,
+   "nombre": "Kopomá"
+  },
+  {
+   "clave": 46,
+   "nombre": "Mama"
+  },
+  {
+   "clave": 47,
+   "nombre": "Maní"
+  },
+  {
+   "clave": 48,
+   "nombre": "Maxcanú"
+  },
+  {
+   "clave": 49,
+   "nombre": "Mayapán"
+  },
+  {
+   "clave": 50,
+   "nombre": "Mérida"
+  },
+  {
+   "clave": 51,
+   "nombre": "Mocochá"
+  },
+  {
+   "clave": 52,
+   "nombre": "Motul"
+  },
+  {
+   "clave": 53,
+   "nombre": "Muna"
+  },
+  {
+   "clave": 54,
+   "nombre": "Muxupip"
+  },
+  {
+   "clave": 55,
+   "nombre": "Opichén"
+  },
+  {
+   "clave": 56,
+   "nombre": "Oxkutzcab"
+  },
+  {
+   "clave": 57,
+   "nombre": "Panabá"
+  },
+  {
+   "clave": 58,
+   "nombre": "Peto"
+  },
+  {
+   "clave": 59,
+   "nombre": "Progreso"
+  },
+  {
+   "clave": 60,
+   "nombre": "Quintana Roo"
+  },
+  {
+   "clave": 61,
+   "nombre": "Río Lagartos"
+  },
+  {
+   "clave": 62,
+   "nombre": "Sacalum"
+  },
+  {
+   "clave": 63,
+   "nombre": "Samahil"
+  },
+  {
+   "clave": 64,
+   "nombre": "Sanahcat"
+  },
+  {
+   "clave": 65,
+   "nombre": "San Felipe"
+  },
+  {
+   "clave": 66,
+   "nombre": "Santa Elena"
+  },
+  {
+   "clave": 67,
+   "nombre": "Seyé"
+  },
+  {
+   "clave": 68,
+   "nombre": "Sinanché"
+  },
+  {
+   "clave": 69,
+   "nombre": "Sotuta"
+  },
+  {
+   "clave": 70,
+   "nombre": "Sucilá"
+  },
+  {
+   "clave": 71,
+   "nombre": "Sudzal"
+  },
+  {
+   "clave": 72,
+   "nombre": "Suma"
+  },
+  {
+   "clave": 73,
+   "nombre": "Tahdziú"
+  },
+  {
+   "clave": 74,
+   "nombre": "Tahmek"
+  },
+  {
+   "clave": 75,
+   "nombre": "Teabo"
+  },
+  {
+   "clave": 76,
+   "nombre": "Tecoh"
+  },
+  {
+   "clave": 77,
+   "nombre": "Tekal De Venegas"
+  },
+  {
+   "clave": 78,
+   "nombre": "Tekantó"
+  },
+  {
+   "clave": 79,
+   "nombre": "Tekax"
+  },
+  {
+   "clave": 80,
+   "nombre": "Tekit"
+  },
+  {
+   "clave": 81,
+   "nombre": "Tekom"
+  },
+  {
+   "clave": 82,
+   "nombre": "Telchac Pueblo"
+  },
+  {
+   "clave": 83,
+   "nombre": "Telchac Puerto"
+  },
+  {
+   "clave": 84,
+   "nombre": "Temax"
+  },
+  {
+   "clave": 85,
+   "nombre": "Temozón"
+  },
+  {
+   "clave": 86,
+   "nombre": "Tepakán"
+  },
+  {
+   "clave": 87,
+   "nombre": "Tetiz"
+  },
+  {
+   "clave": 88,
+   "nombre": "Teya"
+  },
+  {
+   "clave": 89,
+   "nombre": "Ticul"
+  },
+  {
+   "clave": 90,
+   "nombre": "Timucuy"
+  },
+  {
+   "clave": 91,
+   "nombre": "Tinum"
+  },
+  {
+   "clave": 92,
+   "nombre": "Tixcacalcupul"
+  },
+  {
+   "clave": 93,
+   "nombre": "Tixkokob"
+  },
+  {
+   "clave": 94,
+   "nombre": "Tixméhuac"
+  },
+  {
+   "clave": 95,
+   "nombre": "Tixpéhual"
+  },
+  {
+   "clave": 96,
+   "nombre": "Tizimín"
+  },
+  {
+   "clave": 97,
+   "nombre": "Tunkás"
+  },
+  {
+   "clave": 98,
+   "nombre": "Tzucacab"
+  },
+  {
+   "clave": 99,
+   "nombre": "Uayma"
+  },
+  {
+   "clave": 100,
+   "nombre": "Ucú"
+  },
+  {
+   "clave": 101,
+   "nombre": "Umán"
+  },
+  {
+   "clave": 102,
+   "nombre": "Valladolid"
+  },
+  {
+   "clave": 103,
+   "nombre": "Xocchel"
+  },
+  {
+   "clave": 104,
+   "nombre": "Yaxcabá"
+  },
+  {
+   "clave": 105,
+   "nombre": "Yaxkukul"
+  },
+  {
+   "clave": 106,
+   "nombre": "Yobaín"
+  }
+ ],
+ "32": [
+  {
+   "clave": 1,
+   "nombre": "Apozol"
+  },
+  {
+   "clave": 2,
+   "nombre": "Apulco"
+  },
+  {
+   "clave": 3,
+   "nombre": "Atolinga"
+  },
+  {
+   "clave": 4,
+   "nombre": "Benito Juárez"
+  },
+  {
+   "clave": 5,
+   "nombre": "Calera"
+  },
+  {
+   "clave": 6,
+   "nombre": "Cañitas De Felipe Pescador"
+  },
+  {
+   "clave": 7,
+   "nombre": "Concepción Del Oro"
+  },
+  {
+   "clave": 8,
+   "nombre": "Cuauhtémoc"
+  },
+  {
+   "clave": 9,
+   "nombre": "Chalchihuites"
+  },
+  {
+   "clave": 10,
+   "nombre": "Fresnillo"
+  },
+  {
+   "clave": 11,
+   "nombre": "Trinidad García De La Cadena"
+  },
+  {
+   "clave": 12,
+   "nombre": "Genaro Codina"
+  },
+  {
+   "clave": 13,
+   "nombre": "General Enrique Estrada"
+  },
+  {
+   "clave": 14,
+   "nombre": "General Francisco R. Murguía"
+  },
+  {
+   "clave": 15,
+   "nombre": "El Plateado De Joaquín Amaro"
+  },
+  {
+   "clave": 16,
+   "nombre": "General Pánfilo Natera"
+  },
+  {
+   "clave": 17,
+   "nombre": "Guadalupe"
+  },
+  {
+   "clave": 18,
+   "nombre": "Huanusco"
+  },
+  {
+   "clave": 19,
+   "nombre": "Jalpa"
+  },
+  {
+   "clave": 20,
+   "nombre": "Jerez"
+  },
+  {
+   "clave": 21,
+   "nombre": "Jiménez Del Teul"
+  },
+  {
+   "clave": 22,
+   "nombre": "Juan Aldama"
+  },
+  {
+   "clave": 23,
+   "nombre": "Juchipila"
+  },
+  {
+   "clave": 24,
+   "nombre": "Loreto"
+  },
+  {
+   "clave": 25,
+   "nombre": "Luis Moya"
+  },
+  {
+   "clave": 26,
+   "nombre": "Mazapil"
+  },
+  {
+   "clave": 27,
+   "nombre": "Melchor Ocampo"
+  },
+  {
+   "clave": 28,
+   "nombre": "Mezquital Del Oro"
+  },
+  {
+   "clave": 29,
+   "nombre": "Miguel Auza"
+  },
+  {
+   "clave": 30,
+   "nombre": "Momax"
+  },
+  {
+   "clave": 31,
+   "nombre": "Monte Escobedo"
+  },
+  {
+   "clave": 32,
+   "nombre": "Morelos"
+  },
+  {
+   "clave": 33,
+   "nombre": "Moyahua De Estrada"
+  },
+  {
+   "clave": 34,
+   "nombre": "Nochistlán De Mejía"
+  },
+  {
+   "clave": 35,
+   "nombre": "Noria De Ángeles"
+  },
+  {
+   "clave": 36,
+   "nombre": "Ojocaliente"
+  },
+  {
+   "clave": 37,
+   "nombre": "Pánuco"
+  },
+  {
+   "clave": 38,
+   "nombre": "Pinos"
+  },
+  {
+   "clave": 39,
+   "nombre": "Río Grande"
+  },
+  {
+   "clave": 40,
+   "nombre": "Sain Alto"
+  },
+  {
+   "clave": 41,
+   "nombre": "El Salvador"
+  },
+  {
+   "clave": 42,
+   "nombre": "Sombrerete"
+  },
+  {
+   "clave": 43,
+   "nombre": "Susticacán"
+  },
+  {
+   "clave": 44,
+   "nombre": "Tabasco"
+  },
+  {
+   "clave": 45,
+   "nombre": "Tepechitlán"
+  },
+  {
+   "clave": 46,
+   "nombre": "Tepetongo"
+  },
+  {
+   "clave": 47,
+   "nombre": "Teúl De González Ortega"
+  },
+  {
+   "clave": 48,
+   "nombre": "Tlaltenango De Sánchez Román"
+  },
+  {
+   "clave": 49,
+   "nombre": "Valparaíso"
+  },
+  {
+   "clave": 50,
+   "nombre": "Vetagrande"
+  },
+  {
+   "clave": 51,
+   "nombre": "Villa De Cos"
+  },
+  {
+   "clave": 52,
+   "nombre": "Villa García"
+  },
+  {
+   "clave": 53,
+   "nombre": "Villa González Ortega"
+  },
+  {
+   "clave": 54,
+   "nombre": "Villa Hidalgo"
+  },
+  {
+   "clave": 55,
+   "nombre": "Villanueva"
+  },
+  {
+   "clave": 56,
+   "nombre": "Zacatecas"
+  },
+  {
+   "clave": 57,
+   "nombre": "Trancoso"
+  },
+  {
+   "clave": 58,
+   "nombre": "Santa María De La Paz"
+  }
+ ]
+}

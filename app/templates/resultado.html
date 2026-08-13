@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Resultado del diagnóstico{% endblock %}
+
+{% block content %}
+<section class="card result result-{{ des_publico }}" style="border-top: 6px solid {{ info_riesgo.color }};">
+  <p class="eyebrow">Código de estudiante: {{ codigo_estudiante }}</p>
+  <h1>{{ info_riesgo.titulo }}</h1>
+  <p class="result-summary">{{ info_riesgo.detalle }}</p>
+
+  <div class="factors-box">
+    <p class="factors-title">Sobre este modelo</p>
+    <p class="factors-intro">
+      Este diagnóstico se generó con el modelo que replica la metodología de la tesis:
+      una red neuronal (MLPRegressor) entrenada con las variables originales del
+      cuestionario, incluyendo situación escolar actual (asistencia, escolaridad y
+      nivel académico), tal como se definió en la investigación original.
+    </p>
+    {% if nombre_mun %}
+    <p class="factors-note">Municipio capturado: {{ nombre_mun }}.</p>
+    {% endif %}
+  </div>
+
+  {% if acepta_correo %}
+    {% if correo_enviado %}
+      <p class="notice notice-ok">Te enviamos este resultado (con el reporte en PDF) por correo electrónico.</p>
+    {% else %}
+      <p class="notice notice-warn">
+        No pudimos enviar el correo en este momento{% if correo_error %} ({{ correo_error }}){% endif %},
+        pero tu resultado quedó registrado.
+      </p>
+    {% endif %}
+  {% endif %}
+
+  <p class="disclaimer">
+    Este resultado es orientativo y fue generado por un modelo estadístico que replica una
+    metodología de tesis. No sustituye la valoración de un tutor académico o psicopedagógico.
+  </p>
+
+  <a class="btn-primary" href="{{ url_for('index') }}">Realizar otro diagnóstico</a>
+</section>
+{% endblock %}

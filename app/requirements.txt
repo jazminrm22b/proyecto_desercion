@@ -1,0 +1,8 @@
+Flask==3.0.3
+gunicorn==22.0.0
+scikit-learn==1.6.1
+numpy==2.0.2
+joblib==1.4.2
+psycopg2-binary==2.9.9
+reportlab==4.2.2
+python-dotenv==1.0.1
