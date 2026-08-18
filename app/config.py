@@ -1,5 +1,5 @@
 """Catálogo de las variables de entrada, catálogo de estados, y descripciones
-del resultado DES. Usado por el formulario web, el PDF y la validación del backend."""
+del resultado DES. Usado por el formulario web y la validación del backend."""
 
 # Orden en que el modelo espera las variables de entrada.
 ORDEN_VARIABLES = [
@@ -60,12 +60,12 @@ VARIABLES = {
     "PERTE_INDIGENA": {
         "label": "¿Habla algún dialecto o lengua indígena?",
         "type": "select",
-        "options": {1: "Sí", 2: "No", 3: "No especificado"},
+        "options": {1: "Sí", 2: "No"},
     },
     "NACIONALIDAD": {
         "label": "Nacionalidad",
         "type": "select",
-        "options": {1: "Mexicana", 3: "Extranjera", 9: "No especificado"},
+        "options": {1: "Mexicana", 3: "Extranjera"},
     },
     "ASISTEN": {
         "label": "¿Actualmente va a la escuela?",
@@ -102,7 +102,6 @@ VARIABLES = {
         "options": {
             1: "Unión libre", 2: "Separado(a)", 3: "Divorciado(a)",
             4: "Viudo(a)", 5: "Casado(a)", 6: "Soltero(a)",
-            7: "No especificado", 8: "No aplica (menor de edad)",
         },
     },
     "SITUACION_TRAB": {
@@ -117,19 +116,17 @@ VARIABLES = {
     "COMPUTADORA": {
         "label": "¿En su vivienda tienen computadora?",
         "type": "select",
-        "options": {1: "Sí", 2: "No", 3: "No especificado", 4: "No aplica",
-                    7: "Sí (otra fuente)", 8: "No sabe"},
+        "options": {1: "Sí", 2: "No"},
     },
     "CELULAR": {
         "label": "¿En su vivienda tienen teléfono celular?",
         "type": "select",
-        "options": {3: "Sí", 4: "No", 5: "No especificado", 6: "No aplica"},
+        "options": {3: "Sí", 4: "No"},
     },
     "INTERNET": {
         "label": "¿En su vivienda tienen internet?",
         "type": "select",
-        "options": {1: "Sí", 2: "No", 5: "No especificado", 6: "No aplica",
-                    7: "Sí (otra fuente)", 8: "No sabe"},
+        "options": {1: "Sí", 2: "No"},
     },
     "INGTRHOG": {
         "label": "Ingreso mensual aproximado por trabajo en el hogar (MXN)",

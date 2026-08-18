@@ -3,7 +3,7 @@
 Rutas:
   GET  /        -> formulario
   POST /evaluar -> valida, predice, guarda en la base de datos y opcionalmente
-                   genera PDF + envía correo
+                   envía el resultado por correo
   GET  /salud   -> healthcheck
 """
 
@@ -20,8 +20,7 @@ from config import (
     VALORES_DES_ENTRENAMIENTO, MAPEO_DES_PUBLICO, DESCRIPCION_RIESGO,
 )
 import db
-from pdf_report import generar_pdf
-from email_utils import enviar_reporte_pdf
+from email_utils import enviar_resultado_por_correo
 from municipios import nombre_municipio
 
 logging.basicConfig(level=logging.INFO)
@@ -171,8 +170,11 @@ def evaluar():
     correo_error = None
     if acepta_correo and email:
         try:
-            pdf_bytes = generar_pdf(codigo_estudiante, respuestas, des_publico)
-            enviar_reporte_pdf(email, codigo_estudiante, pdf_bytes, des_titulo=DESCRIPCION_RIESGO[des_publico]["titulo"])
+            enviar_resultado_por_correo(
+                destinatario=email,
+                codigo_estudiante=codigo_estudiante,
+                des_titulo=DESCRIPCION_RIESGO[des_publico]["titulo"],
+            )
             correo_enviado = True
             if alumno_id and evaluacion_id:
                 db.registrar_envio_correo(evaluacion_id, alumno_id, email, "enviado")

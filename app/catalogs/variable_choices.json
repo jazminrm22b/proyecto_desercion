@@ -63,10 +63,6 @@
    {
     "value": 2,
     "label": "No"
-   },
-   {
-    "value": 3,
-    "label": "No especificado"
    }
   ]
  },
@@ -80,10 +76,6 @@
    {
     "value": 3,
     "label": "Extranjera"
-   },
-   {
-    "value": 9,
-    "label": "No especificado"
    }
   ]
  },
@@ -191,14 +183,6 @@
    {
     "value": 6,
     "label": "Soltero(a)"
-   },
-   {
-    "value": 7,
-    "label": "No especificado"
-   },
-   {
-    "value": 8,
-    "label": "No aplica (menor de edad)"
    }
   ]
  },
@@ -241,22 +225,6 @@
    {
     "value": 2,
     "label": "No"
-   },
-   {
-    "value": 3,
-    "label": "No especificado"
-   },
-   {
-    "value": 4,
-    "label": "No aplica"
-   },
-   {
-    "value": 7,
-    "label": "Sí (otra fuente)"
-   },
-   {
-    "value": 8,
-    "label": "No sabe"
    }
   ]
  },
@@ -270,14 +238,6 @@
    {
     "value": 4,
     "label": "No"
-   },
-   {
-    "value": 5,
-    "label": "No especificado"
-   },
-   {
-    "value": 6,
-    "label": "No aplica"
    }
   ]
  },
@@ -291,22 +251,6 @@
    {
     "value": 2,
     "label": "No"
-   },
-   {
-    "value": 5,
-    "label": "No especificado"
-   },
-   {
-    "value": 6,
-    "label": "No aplica"
-   },
-   {
-    "value": 7,
-    "label": "Sí (otra fuente)"
-   },
-   {
-    "value": 8,
-    "label": "No sabe"
    }
   ]
  },

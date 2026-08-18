@@ -3,8 +3,7 @@
 App web en Flask que estima el riesgo de deserción de un estudiante a
 partir de datos sociodemográficos, usando un MLPRegressor entrenado con
 microdatos del censo/intercensal del INEGI. Guarda cada evaluación en
-Postgres (Neon) y, si el usuario lo pide, le manda un PDF con su resultado
-por correo.
+Postgres (Neon) y, si el usuario lo pide, le manda el resultado por correo.
 
 ## Estructura
 
@@ -14,20 +13,18 @@ por correo.
 │   ├── app.py              # rutas /, /evaluar, /salud, /health
 │   ├── config.py           # catálogo de variables, etiquetas y opciones del formulario
 │   ├── db.py                # conexión y esquema de la base de datos
-│   ├── pdf_report.py        # genera el PDF de resultado
-│   ├── email_utils.py       # envía el PDF por correo (SMTP)
+│   ├── email_utils.py       # envía el resultado por correo (SMTP)
 │   ├── municipios.py        # catálogo de municipios para el select Estado → Municipio
-│   ├── features.py          # utilidades de preparación de variables
 │   ├── requirements.txt     # dependencias de runtime (sin pandas)
 │   ├── catalogs/            # catálogos JSON (entidades, municipios, opciones de variables)
 │   ├── static/               # css, js, imágenes y municipios.json para el frontend
 │   └── templates/            # vistas Bootstrap (base, index, resultado, privacidad)
 ├── models/                 # modelo ya entrenado, listo para servir
 │   ├── modelo_desercion_mlp.joblib
-│   ├── modelo_desercion_hgb.joblib
 │   └── scaler_desercion.joblib
 ├── training/
 │   ├── entrenar_modelo_desercion.py   # entrena el modelo y guarda el .joblib en ../models/
+│   ├── Entrenamiento_desercion.ipynb  # mismo entrenamiento en formato notebook (Colab)
 │   └── requirements.txt     # dependencias solo de entrenamiento (incluye pandas)
 ├── Dockerfile
 ├── render.yaml
@@ -75,7 +72,7 @@ Abre http://localhost:5000
 ## Cosas a tener en cuenta
 
 - El modelo se entrenó con los códigos originales de la variable DES (0, 5, 9);
-  la app los traduce a 1/3/9 solo para mostrarlos al usuario (`MAPEO_DES_TESIS`
+  la app los traduce a 1/3/9 solo para mostrarlos al usuario (`MAPEO_DES_PUBLICO`
   en `config.py`).
 - Los catálogos de opciones (SERSALUD, SITUA_CONYUGAL, etc.) siguen el
   cuestionario del INEGI y los valores que aparecen en el CSV de
@@ -84,5 +81,4 @@ Abre http://localhost:5000
   cuando quieras.
 - El campo del año de censo (CPV) no se le pregunta al estudiante: queda
   fijo al valor más reciente con el que se entrenó el modelo.
-- El resultado es orientativo, no un diagnóstico — se aclara tanto en
-  pantalla como en el PDF.
+- El resultado es orientativo, no un diagnóstico — se aclara en pantalla.

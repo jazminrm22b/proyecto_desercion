@@ -5,7 +5,7 @@ Carga el catálogo INEGI de municipios (static/municipios.json, generado a
 partir de MUNICIPIOS_202605.xlsx) y expone una función para resolver el
 nombre a partir de (ENT, MUN). Se usa tanto en el formulario (vía fetch en
 JS) como en el backend, para mostrar el nombre real del municipio en la
-pantalla de resultado y en el PDF, en vez del código numérico crudo.
+pantalla de resultado, en vez del código numérico crudo.
 """
 
 import json

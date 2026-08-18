@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% block title %}Predicción de Deserción — Modelo Tesis{% endblock %}</title>
+  <title>{% block title %}Predicción de Deserción Escolar{% endblock %}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
@@ -11,8 +11,8 @@
 <body class="{% block bodyclass %}{% endblock %}">
   <header class="topbar">
     <a class="brand" href="{{ url_for('index') }}">
-      <span class="brand-mark">MT</span>
-      <span class="brand-text">Deserción&nbsp;Escolar · Modelo&nbsp;Tesis</span>
+      <span class="brand-mark">DE</span>
+      <span class="brand-text">Deserción&nbsp;Escolar</span>
     </a>
     <nav>
       <a href="{{ url_for('index') }}">Diagnóstico</a>

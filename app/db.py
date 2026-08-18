@@ -121,7 +121,7 @@ def guardar_evaluacion(alumno_id: int, respuestas: dict,
 def registrar_envio_correo(evaluacion_id: int, alumno_id: int, correo_destino: str,
                             estado: str, detalle_error: str | None = None) -> None:
     """Registra en la base de datos, para fines de auditoría, cada intento de
-    envío del reporte PDF por correo (exitoso o fallido)."""
+    envío del resultado por correo (exitoso o fallido)."""
     with get_conn() as conn:
         with conn.cursor() as cur:
             cur.execute(
