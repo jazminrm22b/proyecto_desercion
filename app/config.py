@@ -1,13 +1,20 @@
 """Catálogo de las variables de entrada, catálogo de estados, y descripciones
 del resultado DES. Usado por el formulario web y la validación del backend."""
 
-# Orden en que el modelo espera las variables de entrada.
+# Todas las variables que se piden en el formulario (sin cambios en la UI).
 ORDEN_VARIABLES = [
     "ENT", "MUN", "SEXO", "EDAD", "SERSALUD", "PERTE_INDIGENA", "NACIONALIDAD",
     "ASISTEN", "ESCOLARI", "NIVACAD", "ESCOACUM", "SITUA_CONYUGAL",
     "SITUACION_TRAB", "COMPUTADORA", "CELULAR", "INTERNET", "INGTRHOG",
     "TAMLOC", "CPV",
 ]
+
+# ASISTEN, NIVACAD y ESCOACUM se recolectan pero NO entran al modelo (fuga de
+# datos: son las variables con las que DES fue calculada originalmente).
+# NIVACAD sí se usa después de la predicción para describir el tipo de
+# riesgo. Ver entrenamiento_desercion.py y clasificar_nivel_riesgo() en app.py.
+VARIABLES_EXCLUIDAS_FUGA = ["ASISTEN", "NIVACAD", "ESCOACUM"]
+ORDEN_VARIABLES_MODELO = [v for v in ORDEN_VARIABLES if v not in VARIABLES_EXCLUIDAS_FUGA]
 
 # CPV se fija a un valor constante y no se pide en el formulario.
 CPV_VALOR_FIJO = 2020
@@ -148,10 +155,9 @@ VARIABLES = {
     },
 }
 
-# Mapea los códigos crudos del CSV a los códigos mostrados al usuario.
-VALORES_DES_ENTRENAMIENTO = [0, 5, 9]
-
-MAPEO_DES_PUBLICO = {0: 1, 5: 3, 9: 9}
+# Mapea los códigos internos (0/5/9, y 7 cuando NIVACAD queda fuera del rango
+# histórico de desertores) a los códigos mostrados al usuario.
+MAPEO_DES_PUBLICO = {0: 1, 5: 3, 9: 9, 7: 7}
 
 DESCRIPCION_RIESGO = {
     1: {
@@ -181,5 +187,15 @@ DESCRIPCION_RIESGO = {
             "retención estudiantil."
         ),
         "color": "#c0392b",
+    },
+    7: {
+        "titulo": "Riesgo detectado — nivel académico fuera de rango",
+        "detalle": (
+            "El modelo detecta riesgo de deserción, pero el último nivel "
+            "académico reportado no corresponde a los rangos históricos "
+            "(medio superior o superior) usados para clasificar el tipo de "
+            "riesgo. Se recomienda revisión manual del caso."
+        ),
+        "color": "#b98900",
     },
 }

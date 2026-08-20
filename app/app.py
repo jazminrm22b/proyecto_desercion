@@ -16,8 +16,8 @@ import numpy as np
 from flask import Flask, render_template, request, redirect, url_for, flash
 
 from config import (
-    ORDEN_VARIABLES, ORDEN_VARIABLES_FORM, CPV_VALOR_FIJO, VARIABLES,
-    VALORES_DES_ENTRENAMIENTO, MAPEO_DES_PUBLICO, DESCRIPCION_RIESGO,
+    ORDEN_VARIABLES, ORDEN_VARIABLES_FORM, ORDEN_VARIABLES_MODELO,
+    CPV_VALOR_FIJO, VARIABLES, MAPEO_DES_PUBLICO, DESCRIPCION_RIESGO,
 )
 import db
 from email_utils import enviar_resultado_por_correo
@@ -34,9 +34,11 @@ app.secret_key = os.environ.get("FLASK_SECRET_KEY", "cambia-esta-clave-en-produc
 MODELOS_DIR = os.path.join(BASE_DIR, "..", "models")
 MODELO_PATH = os.path.join(MODELOS_DIR, "modelo_desercion_mlp.joblib")
 SCALER_PATH = os.path.join(MODELOS_DIR, "scaler_desercion.joblib")
+METADATA_PATH = os.path.join(MODELOS_DIR, "model_metadata.json")
 
 _modelo = None
 _scaler = None
+_metadata = None
 
 CATALOGS_DIR = os.path.join(BASE_DIR, "catalogs")
 with open(os.path.join(CATALOGS_DIR, "entidades.json"), encoding="utf-8") as f:
@@ -59,6 +61,42 @@ def get_scaler():
     if _scaler is None:
         _scaler = joblib.load(SCALER_PATH)
     return _scaler
+
+
+def get_metadata():
+    global _metadata
+    if _metadata is None:
+        with open(METADATA_PATH, encoding="utf-8") as f:
+            _metadata = json.load(f)
+    return _metadata
+
+
+def clasificar_nivel_riesgo(nivacad, en_riesgo: bool) -> int:
+    """Traduce (en_riesgo, NIVACAD) al código interno de DES:
+      0 -> no se detectó riesgo
+      5 -> riesgo, nivel medio superior
+      9 -> riesgo, nivel superior
+      7 -> riesgo detectado, NIVACAD fuera de rango histórico
+    Regla fija basada en NIVACAD (nivacad_subclassification_rule en
+    model_metadata.json), no en el modelo: NIVACAD nunca entra al MLP porque
+    causaría fuga de datos (ver entrenamiento_desercion.py)."""
+    if not en_riesgo:
+        return 0
+
+    regla = get_metadata().get("nivacad_subclassification_rule", {})
+    medio_superior = set(regla.get("nivel_medio_superior", []))
+    superior = set(regla.get("nivel_superior", []))
+
+    try:
+        nivacad_int = int(nivacad)
+    except (TypeError, ValueError):
+        nivacad_int = None
+
+    if nivacad_int in medio_superior:
+        return 5
+    elif nivacad_int in superior:
+        return 9
+    return 7
 
 
 @app.before_request
@@ -147,12 +185,16 @@ def evaluar():
         flash(str(exc), "danger")
         return redirect(url_for("index"))
 
-    X = np.array([[respuestas[var] for var in ORDEN_VARIABLES]])
+    # Solo las variables sin fuga de datos entran al modelo (ver
+    # ORDEN_VARIABLES_MODELO en config.py). ASISTEN y ESCOACUM se recolectan
+    # pero no se usan aquí; NIVACAD se usa más abajo, después de predecir.
+    X = np.array([[respuestas[var] for var in ORDEN_VARIABLES_MODELO]])
     X_esc = get_scaler().transform(X)
-    valor_crudo = float(get_modelo().predict(X_esc)[0])
+    valor_crudo = float(np.clip(get_modelo().predict(X_esc)[0], 0.0, 1.0))
 
-    valores_validos = np.array(VALORES_DES_ENTRENAMIENTO)
-    des_entrenamiento = int(valores_validos[np.argmin(np.abs(valor_crudo - valores_validos))])
+    umbral = float(get_metadata().get("decision_threshold", 0.5))
+    en_riesgo = valor_crudo >= umbral
+    des_entrenamiento = clasificar_nivel_riesgo(respuestas.get("NIVACAD"), en_riesgo)
     des_publico = MAPEO_DES_PUBLICO[des_entrenamiento]
 
     evaluacion_id = None
