@@ -62,33 +62,39 @@ MLPClassifier / HistGradientBoostingClassifier).
 
 ### Resultados del último entrenamiento
 
-Sobre 1,079,400 registros (863,520 entrenamiento / 215,880 prueba), se
-probaron varios valores de `PRECISION_OBJETIVO` — el piso de precisión que
-el umbral debe alcanzar antes de maximizar el recall — para decidir el
+Los microdatos del Censo de Población y Vivienda 2020 (INEGI) tienen
+3,195,460 registros; tras filtrar CPV = 2020 y edad ≥ 15, y eliminar
+nulos, duplicados y valores fuera de rango de `NIVACAD`, `ESCOACUM` e
+`INGTRHOG`, quedan **525,216 registros** (420,172 de entrenamiento y
+105,044 de prueba, partición estratificada 80/20). En el conjunto de
+prueba hay 16,634 casos en riesgo.
+
+Se probaron varios valores de `PRECISION_OBJETIVO` — el piso de precisión
+que el umbral debe alcanzar antes de maximizar el recall — para decidir el
 punto de corte final:
 
 | `PRECISION_OBJETIVO` | Umbral | Accuracy | Balanced acc. | F1 | Recall (en_riesgo) | Falsos negativos | Falsos positivos |
 |---|---|---|---|---|---|---|---|
-| 0.30 | 0.057 | 59.5% | 0.747 | 0.459 | 98.1% | 729 | 86,702 |
-| **0.45 (elegido)** | **0.076** | **78.9%** | **0.838** | **0.603** | **91.5%** | **3,239** | **42,347** |
-| 0.50 | 0.081 | 82.5% | 0.851 | 0.641 | 89.3% | 4,062 | 33,825 |
-| 0.60 | 0.089 | 87.5% | 0.868 | 0.706 | 85.8% | 5,390 | 21,664 |
+| 0.30 | 0.007 | 63.7% | 0.772 | 0.458 | 97.0% | 495 | 37,657 |
+| 0.45 | 0.085 | 81.1% | 0.840 | 0.596 | 88.3% | 1,946 | 17,952 |
+| 0.50 | 0.104 | 84.2% | 0.848 | 0.631 | 85.7% | 2,383 | 14,251 |
+| **0.60 (elegido)** | **0.124** | **88.5%** | **0.856** | **0.691** | **81.4%** | **3,089** | **9,030** |
 
-En los cuatro casos el ROC-AUC es 0.942 — es el mismo modelo subyacente;
-lo único que cambia es dónde se pone el punto de corte sobre la misma curva
-precisión-recall.
+En los cuatro casos el ROC-AUC es 0.934 (R² = 0.603, MSE = 0.0529) — es el
+mismo modelo subyacente; lo único que cambia es dónde se pone el punto de
+corte sobre la misma curva precisión-recall.
 
-**Se eligió `PRECISION_OBJETIVO = 0.45`** (modelo actualmente en `models/`)
-porque, para este sistema, el costo de que un estudiante en riesgo real no
-reciba la alerta pesa más que el costo de una falsa alarma que un tutor
-revisa y descarta. Con este umbral el modelo detecta 91.5% de los casos
-reales de deserción (solo 3,239 falsos negativos sobre 215,880 casos de
-prueba), a cambio de 42,347 falsas alarmas. Es un punto intermedio entre el
-extremo de 0.30 (98.1% de casos reales detectados, pero solo 30% de
-precisión) y valores más altos como 0.50/0.60, que suben la precisión y la
-accuracy pero dejan pasar más casos reales sin detectar.
+**Se eligió `PRECISION_OBJETIVO = 0.60`** (modelo actualmente en `models/`,
+umbral de decisión 0.1239, el mismo piso de precisión que usan los tres
+modelos comparados: `HistGradientBoostingClassifier`, `MLPRegressor` y
+`MLPClassifier`). Con este umbral el modelo detecta 81.4% de los casos
+reales de deserción (3,089 falsos negativos sobre 105,044 casos de
+prueba) con solo 9,030 falsas alarmas. Valores más bajos, como 0.30, detectan
+más casos reales (97.0%) pero a cambio de muchas más falsas alarmas
+(37,657) y una precisión de solo 30%.
 
-Si el criterio institucional cambia (por ejemplo, si la capacidad de dar
-seguimiento a cada alerta es limitada y priorizar precisión resulta más
-práctico), ajusta `PRECISION_OBJETIVO` en `entrenamiento_desercion.py` y
-vuelve a entrenar.
+Si el criterio institucional cambia (por ejemplo, si el costo de que un
+estudiante en riesgo real no reciba la alerta pesa más que el de una falsa
+alarma, o si la capacidad de dar seguimiento a cada alerta es limitada),
+ajusta `PRECISION_OBJETIVO` en `entrenamiento_desercion.py` y vuelve a
+entrenar.
