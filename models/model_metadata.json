@@ -1,0 +1,56 @@
+{
+  "model_type": "MLPRegressor (hidden_layer_sizes=(2,2,2,2)) usado como clasificador binario vía umbral",
+  "target": "EN_RIESGO",
+  "target_derivation": "EN_RIESGO = 1.0 si DES != 0 (fusiona DES=5 y DES=9), 0.0 si DES == 0",
+  "features": [
+    "ENT",
+    "MUN",
+    "SEXO",
+    "EDAD",
+    "SERSALUD",
+    "PERTE_INDIGENA",
+    "NACIONALIDAD",
+    "ESCOLARI",
+    "SITUA_CONYUGAL",
+    "SITUACION_TRAB",
+    "COMPUTADORA",
+    "CELULAR",
+    "INTERNET",
+    "INGTRHOG",
+    "TAMLOC",
+    "CPV"
+  ],
+  "features_collected_but_excluded": [
+    "ASISTEN",
+    "NIVACAD",
+    "ESCOACUM"
+  ],
+  "leakage_note": "ASISTEN, NIVACAD y ESCOACUM se siguen recolectando en el formulario pero no se usan como predictor porque son las variables con las que DES fue calculada originalmente. NIVACAD se usa DESPUÉS de la predicción para describir el tipo de riesgo (ver nivacad_subclassification_rule).",
+  "decision_threshold": 0.12386976766805546,
+  "threshold_note": "Se predice 'en_riesgo' si el valor continuo del MLPRegressor (acotado a [0,1]) es >= decision_threshold, buscando una precisión mínima objetivo de 0.60 maximizando el recall.",
+  "nivacad_subclassification_rule": {
+    "nivel_medio_superior": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "nivel_superior": [
+      10,
+      11
+    ]
+  },
+  "train_rows": 420172,
+  "test_rows": 105044,
+  "metrics": {
+    "r2": 0.6027552959024229,
+    "mse": 0.05294362841924763,
+    "accuracy": 0.8846292981988501,
+    "balanced_accuracy": 0.8560791264893444,
+    "f1": 0.6909128006325078,
+    "roc_auc": 0.934084084751821
+  },
+  "sklearn_version": "1.8.0"
+}

@@ -14,12 +14,22 @@ INEGI calculó DES originalmente. El algoritmo sigue siendo el mismo
 MLPRegressor; lo que cambia es qué predice y con qué variables.
 """
 
-# Celda 1: subir el CSV del censo INEGI
-from google.colab import files
-print("/content/Copia de Personas_vivienda2010_2015_2020_20VAR_DES.csv")
-subido = files.upload()
-RUTA_CSV = list(subido.keys())[0]
-print(f"\nArchivo cargado: {RUTA_CSV}")
+# Celda 1: subir el CSV del censo INEGI (en Colab) o pasarlo como argumento
+# de línea de comandos (fuera de Colab: python entrenamiento_desercion.py ruta.csv)
+import sys
+
+try:
+    from google.colab import files
+    print("/content/Copia de Personas_vivienda2010_2015_2020_20VAR_DES.csv")
+    subido = files.upload()
+    RUTA_CSV = list(subido.keys())[0]
+    print(f"\nArchivo cargado: {RUTA_CSV}")
+except ImportError:
+    if len(sys.argv) < 2:
+        raise SystemExit("Fuera de Colab, pasa la ruta del CSV como argumento: "
+                          "python entrenamiento_desercion.py ruta.csv")
+    RUTA_CSV = sys.argv[1]
+    print(f"Archivo (fuera de Colab): {RUTA_CSV}")
 
 """MODELO A"""
 
@@ -44,12 +54,19 @@ from sklearn.metrics import (
 )
 
 EDAD_MINIMA = 15
+CPV_ANIO = 2020
 NIVACAD_MIN = 4
 NIVACAD_MAX = 11
 TEST_SIZE = 0.20
 RANDOM_STATE = 42
 N_SEMILLAS = 8
-PRECISION_OBJETIVO = 0.30
+# Con 0.30 (valor original) el umbral salía tan bajo (~0.057) que casi
+# cualquier caso se marcaba "en riesgo": 98% de recall pero 86,702 falsos
+# positivos contra 37,158 verdaderos positivos (accuracy 59.5%). Se sube a
+# 0.45 para exigir más precisión al modelo, aunque eso baje algo el recall;
+# ajusta este valor según qué tan tolerante quieras que sea el sistema a
+# falsos positivos vs. casos de riesgo no detectados.
+PRECISION_OBJETIVO = 0.60
 
 # Variables que se piden en el formulario / vienen del CSV.
 VARIABLES_RECOLECTADAS = [
@@ -97,6 +114,9 @@ def cargar_y_limpiar_datos_A(ruta_csv: str) -> pd.DataFrame:
 
     antes = len(df); df = df[df["EDAD"] >= EDAD_MINIMA]
     print(f"  Eliminados por EDAD >= {EDAD_MINIMA}: {antes - len(df):,}")
+
+    antes = len(df); df = df[df["CPV"] == CPV_ANIO]
+    print(f"  Eliminados por CPV != {CPV_ANIO}: {antes - len(df):,}")
 
     antes = len(df); df = df[(df["NIVACAD"] >= NIVACAD_MIN) & (df["NIVACAD"] <= NIVACAD_MAX)]
     print(f"  Eliminados por NIVACAD [{NIVACAD_MIN}-{NIVACAD_MAX}]: {antes - len(df):,}")
@@ -253,6 +273,9 @@ with open(RUTA_METADATA_A, "w", encoding="utf-8") as f:
 
 print(f"\nGuardados: {RUTA_MODELO_A}, {RUTA_SCALER_A}, {RUTA_METADATA_A}")
 
-from google.colab import files
-for nombre in [RUTA_MODELO_A, RUTA_SCALER_A, RUTA_METADATA_A]:
-    files.download(nombre)
+try:
+    from google.colab import files
+    for nombre in [RUTA_MODELO_A, RUTA_SCALER_A, RUTA_METADATA_A]:
+        files.download(nombre)
+except ImportError:
+    pass  # fuera de Colab no hay descarga automática; los archivos quedan en el directorio actual
